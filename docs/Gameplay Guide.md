@@ -4,6 +4,7 @@ layout: home
 nav_order: 3
 ---
 
+# Gameplay Guide
 
 ## Essential VR mod tutorials
 If this is your first time playing Skyrim VR, you may want to watch these tutorial videos to understand how some of the essential mods function.
@@ -239,4 +240,5 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
