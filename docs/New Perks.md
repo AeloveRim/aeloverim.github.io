@@ -22,7 +22,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Body toss | Light armor 20/80 | Stamina cost of yanking and foot yanking is reduced by 50/90%. |
 | Athletics | Light armor 30/70 | Movement speed increased by 10/20% when not wearing Heavy Armor. |
 | Marathon runner | Light armor 40 | Sprinting doesn't cost any stamina when outside of combat if not wearing Heavy Armor. |
-| Foe flinger | Light armor 60 | You may yank others off their feet with only one hand. |
+| Foe flinger | Light armor 60 | You may throw others by yanking with only one hand. |
 | Leadership | Speech 20/40 | One/Two of your followers does not count towards XP penalties for having multiple followers. |
 | Disguise | Speech 20 | Grants the Disguise power. While enabled, can disguise as a member of various factions by donning that faction's gear while out of sight. You will lose bounties obtained while in disguise if you escape unrecognized.  |
 | Method actor | Speech 60/100 | You are 50/99% less likely to be discovered when disguised.  |
@@ -44,3 +44,4 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Pickpocket Mastery | Pickpocket 20/40 | Adds 20/40% to your pickpocket chance and increases carry weight by 50/100 points. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. | 
 | Lawless World  | Pickpocket 30 | Petty crimes are slowly forgotten, allowing your bounties for non-violent crimes to decay at a rate of 20% of your Pickpocket skill level each hour. |
 | Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
+
