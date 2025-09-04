@@ -63,8 +63,9 @@ Well, that could be a multitude of things. Make sure you Tahrovin folder is adde
 
 If you have some heavily aggressive antivirus program such as Webroot, Bitdefender etc, get rid of it.
 
-If you have a non-RTX Nvidia GPU, I ask you to refer to the [DLSS/FSR/XeSS](Installation.md#dlssfsrxess) section again.
+If you have a non-RTX Nvidia GPU, I ask you to refer to the [DLSS/FSR/XeSS](Installation.html#dlssfsrxess) section again.
 
 ## Can I add XYZ?
 I don't know, can you?
+
 
