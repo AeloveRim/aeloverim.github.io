@@ -4,8 +4,7 @@ layout: home
 nav_order: 4
 ---
 
-
-## Listing of new and altered perks
+# Listing of new and altered perks
 
 Various perks have been modified from base Vokriinator or added. This is a listing so you know more or less what to expect.
 
@@ -45,3 +44,4 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Disguise | Speech 20 | Grants the Disguise power. While enabled, can disguise as a member of various factions by donning that faction's gear while out of sight. You will lose bounties obtained while in disguise if you escape unrecognized.  |
 | Method actor | Speech 60/100 | You are 50/99% less likely to be discovered when disguised.  |
 | Sharp Eye | Sneak 30 | Grants the at-will powers "Spot Detection" which outlines humanoids within 150 feet detecting you for 30 seconds, and "Night Eye" which grants improved night vision for 120 seconds. |
+
