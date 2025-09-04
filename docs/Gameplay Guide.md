@@ -27,10 +27,7 @@ Sera the Trainer charges less gold for her training than most other trainers in 
 The Realm of Lorkhan will also allow you to select Handicaps that will further define your character if you wish. Each Handicapped skill permanently grows roughly half as fast as a regular skill, but also grants you 2 specialization points, up to a maximum of 12. You may spend these specialization points to receive various bonuses. Prices are as follows : 
 - +1 perk point : 5 Specialization Point
 - +5 attribute points (Health, Stamina or Magicka) : 1 Specialization Point
-- +2500 Gold : 1 Specialization Point
-- Learn a random Dragon Shout : 3 Specialization Points
 - Become a Vampire : 1 Specialization Point
-- Become a Vampire lord : 12 Specialization points
 - Become a Werewolf : 12 Specialization points
 
 <img width="580" height="486" alt="image" src="https://github.com/user-attachments/assets/a3ce2618-461f-46ce-811a-5be2303af5b5" />
@@ -240,5 +237,6 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
