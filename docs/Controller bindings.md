@@ -103,4 +103,5 @@ If using Neo's bindings L Thumbstick click = Y
 
 ## Personal Advice
 
-If these gestures don't make sense to you head to the [gameplay guide](docs/Gameplay%20Guide.md) and watch the first video linked at the bottom to learn more about gestures.
+If these gestures don't make sense to you head to the [gameplay guide](docs/Gameplay%20Guide.html) and watch the first video linked at the bottom to learn more about gestures.
+
