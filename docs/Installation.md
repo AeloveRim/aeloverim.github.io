@@ -95,7 +95,7 @@ Downloads from file hosts such as Google Drive and Mega can sometimes be a pain 
 Download these files and place them *as they are* into the same folder you told Wabbajack to put your downloads in. Let me reiterate just to be sure - **do not unzip the archives!**
 
 ## Troubleshooting
-If you're having issues with installation, check the [troubleshooting page](Troubleshooting.md). 
+If you're having issues with installation, check the [troubleshooting page](Troubleshooting.html). 
 
 # Post-Installation
 Almost there but we're not out of the woods yet! After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the Tahrovin installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
@@ -125,7 +125,7 @@ Done! You should now have a shortcut on your desktop which you can now run the m
 
 ## Swapping between SteamVR and OpenComposite Binaries
 See Oculus performance tips
-[Oculus Performance Tips](Performance Tips.md)
+[Oculus Performance Tips](Performance Tips.html)
 
 # Pre-Game Launch
 
@@ -199,7 +199,7 @@ That done, there are optional configuration changes you may wish to make in the 
 - The Imaginator MCM will allow you to adjust your game's visual settings to your liking.<img width="1483" height="794" alt="image" src="https://github.com/user-attachments/assets/9b6f85d1-0312-4417-8741-78521328f5b8" />
 
 # Updating Tahrovin
-When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
+When an update is released, please always check the [changelog](Changelog.html) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
 
 If you have added anything to this modlist at all, Wabbajack will also delete those. You should know how to stop it from doing this if you're going to add stuff to modlists but if you don't, you have to prepend your mod name with `[NoDelete]` - this will make Wabbajack ignore these files. You will need to reinstall these mods and re-sort their load order after an update though, so I hope you kept backup information on where they went in the load order!
 
@@ -207,4 +207,5 @@ All that aside, updates are basically the same as an installation except you hav
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
