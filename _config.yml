@@ -4,5 +4,11 @@ theme: just-the-docs
 color_scheme: dark
 logo: "/img/Tahrovin.png"
 
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
 
 url: aeloverim.github.io
