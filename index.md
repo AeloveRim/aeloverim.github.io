@@ -8,8 +8,6 @@ nav_order: 0
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country. Tahrovin is a collection of different mods from various sources, it does not reflect the views or opinions of any mod author's featured in the list.**
 
-***Having issues with the modlist? [FAQ \& Common Issues](#faq--common-issues)***
-
 Support and general talk about Tahrovin resides on iAmMe's Discord:
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
@@ -29,12 +27,6 @@ The following specs are recommended at minimum:
   * GPU: RTX 2060 *or the AMD equivalent with at least 6GB of VRAM*
 
 You will need at least `205GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `86GB`- ideally you want *at least* `330GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
-
-**If your hardware is less powerful, try the performance tips [here](#my-performance-is-really-bad)**
-
-**If you are using a Quest 2, there are a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**
-
-
 
 ## Accounts
 In terms of accounts you will need:
