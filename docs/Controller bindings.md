@@ -10,11 +10,11 @@ nav_order: 5
 
 ## Oculus Headsets
 
-![Controller Bindings](img/ControllerBindings.png)
+![Controller Bindings](../img/ControllerBindings.png)
 
 ## Neo's Bindings (must be enabled before creating character)
 
-![Neo's Bindings](img/Neo%20Controls.png)
+![Neo's Bindings](../img/Neo%20Controls.png)
 
 ## Valve Index (with the Alternative VRIK Bindings selected)
 
@@ -102,4 +102,5 @@ If using Neo's bindings L Thumbstick click = Y
 * R Thumbstick + Back then Forward - TNG NPC editor
 
 ## Personal Advice
+
 If these gestures don't make sense to you head to the [gameplay guide](docs/Gameplay%20Guide.md) and watch the first video linked at the bottom to learn more about gestures.
