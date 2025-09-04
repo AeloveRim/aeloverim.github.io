@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Tahrovin Grit Wiki
+description: A wiki for the Tahrovin Grit modlist
 theme: just-the-docs
+color_scheme: dark
+logo: "/img/Tahrovin.png"
 
-url: https://just-the-docs.github.io
+
+url: aeloverim.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
