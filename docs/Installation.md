@@ -45,7 +45,7 @@ Driver defaults from NVidia and AMD for shader cache size is limited to 4GB. Bei
 4. Set the Shader Cache to *at least* 10GB
 5. Done
 
-![Shader Cache](img/ShaderCache.png)
+![Shader Cache](../img/ShaderCache.png)
 
 ### Configuring Steam
 In both global and game settings within Steam and Oculus settings you must ensure the following is set:
@@ -114,12 +114,12 @@ Like in the previous section, Skyrim VR Upscaler options are found in MO2 under 
 
 Remember, AMD and non-RTX GPU's must use **FSR** and not DLSS or DLAA.
 
-![Upscaler Selection](img/UpscalerSelection.png)
+![Upscaler Selection](../img/UpscalerSelection.png)
 
 ## Creating a desktop shortcut
 Nobody wants to be launching their game via multiple clicks, they want to be able to do it from the desktop! This is simple to do - open MO2, ensure **Tahrovin** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop". Of course, you can always run from inside of MO2 by clicking the "Run" button instead.
 
-![Desktop Shortcut Creation](img/DesktopShortcut00.png)
+![Desktop Shortcut Creation](../img/DesktopShortcut00.png)
 
 Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Skyrim VR from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
 
@@ -191,11 +191,11 @@ Modifying the CBBE 3BA and/or HIMBO morphs in the racemenu during character crea
 That done, there are optional configuration changes you may wish to make in the Mod Configuration Menu :
 
 - The CBPC VRSex mod will create basic sex interactions with NPCs without taking control of the player, but requires the player to have a penis. If you wish to use it but are playing a female character, the mod can let your character grow a penis temporarily during VRSex scenes. Go to CBPC VRsex and check the "Auto-futa" option. Don't check the option if you are playing a male character, or a female character that is already permanently futa. *(Edit : Penis not required anymore, though you can still add it if you like)*
-![VRSexMCM](img/VRSexAutofuta.jpeg)
+![VRSexMCM](../img/VRSexAutofuta.jpeg)
 - Creature animations may play if you selected a defeat mod among the optional NSFW mods, or if you use the Sexlab Enchantress spells. If you would like to disable them, go to Sexlab > Animation Settings > Allow Creature Animation.
-![SexlabMCM](img/DisableCreatures.jpeg)
+![SexlabMCM](../img/DisableCreatures.jpeg)
 - Sexlab Romance will give you [Romance] dialog prompts to attempt to seduce any NPC by default. If you would like to limit this, disable the "Enable Dialogue for Male NPCs" and/or "Enable Dialogue for Female NPCs" options in the Sexlab Romance MCM.
-![SexlabRomanceMCM](img/Romance.jpg)
+![SexlabRomanceMCM](../img/Romance.jpg)
 - The Imaginator MCM will allow you to adjust your game's visual settings to your liking.<img width="1483" height="794" alt="image" src="https://github.com/user-attachments/assets/9b6f85d1-0312-4417-8741-78521328f5b8" />
 
 # Updating Tahrovin
@@ -207,3 +207,4 @@ All that aside, updates are basically the same as an installation except you hav
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
