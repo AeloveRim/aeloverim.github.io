@@ -125,7 +125,7 @@ Done! You should now have a shortcut on your desktop which you can now run the m
 
 ## Swapping between SteamVR and OpenComposite Binaries
 See Oculus performance tips
-[Oculus Performance Tips](Oculus%20Performance%20Tips.md)
+[Oculus Performance Tips](Performance Tips.md)
 
 # Pre-Game Launch
 
@@ -207,4 +207,3 @@ All that aside, updates are basically the same as an installation except you hav
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
-
