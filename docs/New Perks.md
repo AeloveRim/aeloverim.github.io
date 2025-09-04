@@ -8,23 +8,6 @@ nav_order: 4
 
 Various perks have been modified from base Vokriinator or added. This is a listing so you know more or less what to expect.
 
-| Modified perk  | Skill | Description |
-| ------------- | ------------- | ------------- |
-| All mastery perks  | All | Prerequisites are now 20/40 instead of 0/20  |
-| Experimenter  | Alchemy 30 | Also grants the  "Harvest Ingredients" spell to gather ingredients in an area |
-| Adrenaline  | Alchemy 80 | Now increases movement speed by 15% instead of 10% |
-| Soul siphon  | Enchanting 20 | Now traps 15% of the victim's soul instead of 5% and works on all killing blows |
-| Staff recharge  | Enchanting 40/70 | Prerequisite lowered to 40, added a second level at enchanting 70 that recharges 20 points per second |
-| Iron Fist  | Light Armor 20 | Doesn't work while wearing heavy gauntlets |
-| As a leaf  | Light Armor 30 | Also unlocks double jump |
-| Windrunner  | Light Armor 50 | Now increases movement speed by 15% instead of 10% |
-| Lockpicking Mastery | Lockpicking 20/40 | Weaker/All locks are easier to pick and increases carry weight by 50/100 points. Receiving training in Lockpicking also increases the Pickpocket skill if it is lower. |
-| Robber's eye  | Lockpicking 30 | Now can occur every 12-24h. |
-| Pickpocket Mastery | Pickpocket 20/40 | Adds 20/40% to your pickpocket chance and increases carry weight by 50/100 points. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. | 
-| Lawless World  | Pickpocket 30 | Petty crimes are slowly forgotten, allowing your bounties for non-violent crimes to decay at a rate of 20% of your Pickpocket skill level each hour. |
-| Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
-
-
 | New perk  | Skill | Description |
 | ------------- | ------------- | ------------- |
 | Light weapon throw | One-handed 40 | You can throw any one-handed weapon, dealing 120% of their regular melee damage. They will return to your hand automatically. |
@@ -45,3 +28,19 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Method actor | Speech 60/100 | You are 50/99% less likely to be discovered when disguised.  |
 | Sharp Eye | Sneak 30 | Grants the at-will powers "Spot Detection" which outlines humanoids within 150 feet detecting you for 30 seconds, and "Night Eye" which grants improved night vision for 120 seconds. |
 
+
+| Modified perk  | Skill | Description |
+| ------------- | ------------- | ------------- |
+| All mastery perks  | All | Prerequisites are now 20/40 instead of 0/20  |
+| Experimenter  | Alchemy 30 | Also grants the  "Harvest Ingredients" spell to gather ingredients in an area |
+| Adrenaline  | Alchemy 80 | Now increases movement speed by 15% instead of 10% |
+| Soul siphon  | Enchanting 20 | Now traps 15% of the victim's soul instead of 5% and works on all killing blows |
+| Staff recharge  | Enchanting 40/70 | Prerequisite lowered to 40, added a second level at enchanting 70 that recharges 20 points per second |
+| Iron Fist  | Light Armor 20 | Doesn't work while wearing heavy gauntlets |
+| As a leaf  | Light Armor 30 | Also unlocks double jump |
+| Windrunner  | Light Armor 50 | Now increases movement speed by 15% instead of 10% |
+| Lockpicking Mastery | Lockpicking 20/40 | Weaker/All locks are easier to pick and increases carry weight by 50/100 points. Receiving training in Lockpicking also increases the Pickpocket skill if it is lower. |
+| Robber's eye  | Lockpicking 30 | Now can occur every 12-24h. |
+| Pickpocket Mastery | Pickpocket 20/40 | Adds 20/40% to your pickpocket chance and increases carry weight by 50/100 points. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. | 
+| Lawless World  | Pickpocket 30 | Petty crimes are slowly forgotten, allowing your bounties for non-violent crimes to decay at a rate of 20% of your Pickpocket skill level each hour. |
+| Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
