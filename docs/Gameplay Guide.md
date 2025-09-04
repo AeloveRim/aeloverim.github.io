@@ -19,7 +19,7 @@ The Realm of Lorkhan mod allows you to craft your character. You may pick a shri
 
 The training system offered by Sera the Trainer is available throughout all of Skyrim. Most NPCs will offer you training in a few skills they are skilled in. To train, you will need gold and Training Points (TP) which you will gain at each level up. This is the main way to increase your skills, as regular skill leveling has been drastically slowed down. You can check your available TP at any time through the Training Potential power. The gold required to train will change depending on factors such as your skill level, your trainer's skill level and your relationship with the trainer (friends charge less).
 
-![SeraTrainer](img/TrainerSera.jpeg)
+![SeraTrainer](../img/TrainerSera.jpeg)
 
 Sera the Trainer charges less gold for her training than most other trainers in Skyrim. Don't skip out on the opportunity to raise some of your skills here, but consider keeping at least a little bit of gold for later.
 
@@ -70,16 +70,16 @@ If you want to start the game as a mage right away, I recommend doing the follow
 - Increase one of your magic skills to at least 20 at Sera the Trainer if possible. You should have enough gold and TP to raise a skill to 20 right away. This will allow you to learn a novice spell through Spellforge immediately.
 
 Cast the "Conjure Spellforge" spell on the ground to summon the forge and select the bottom node to access the forge's main functions. Select the Resin Experimentation option.
-![SpellforgeMain](img/SpellforgeMain.jpeg)
+![SpellforgeMain](../img/SpellforgeMain.jpeg)
 
 For every level you reach above 15 in a magic skill, you will receive School Theses upon using the Resin Experimentation option. Later, you will also be able to use this menu to create Arcane Resin by incinerating alchemy ingredients in the forge. If you've raised a magic skill to 20 earlier, you should immediately receive 10 school theses here.
-![SpellforgeResearch](img/SpellforgeResearch.jpeg)
+![SpellforgeResearch](../img/SpellforgeResearch.jpeg)
 
 Exit the spellforge menu, use the middle node in the forge and select the school you have trained in.
-![SpellforgeSelectSchool](img/SpellforgeSelectSchool.jpeg)
+![SpellforgeSelectSchool](../img/SpellforgeSelectSchool.jpeg)
 
 Once set, use the bottom node again and select Spell Forging > Synthesize spell selection. This will grant you a selection of all spells that match your specifications - here you should see all available Novice spells from your selected school, but later you can use the middle and top nodes in the forge to restrict that list further. Select a spell and exit the menu.
-![SpellforgeSpellPick](img/SpellforgeSpellPick.jpeg)
+![SpellforgeSpellPick](../img/SpellforgeSpellPick.jpeg)
 
 You will automatically equip an "enkindle" ability that you can channel to drain your magicka to power the forge. If you have enough magicka (60 for a novice spell) and channeled the enkindle ability to completion, the forging process is finished and you will receive the spell. Don't worry, if you fail you can retrieve your school theses and resin by interacting with the forge (nothing is lost).
 
@@ -239,3 +239,4 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
