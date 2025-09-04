@@ -3,33 +3,43 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+![Tahrovin Banner](img/Tahrovin.png)
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country. Tahrovin is a collection of different mods from various sources, it does not reflect the views or opinions of any mod author's featured in the list.**
 
-More specifically, the created site:
+***Having issues with the modlist? [FAQ \& Common Issues](#faq--common-issues)***
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Support and general talk about Tahrovin resides on iAmMe's Discord:
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+[![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Want an idea of what the list plays like ? [I made a video](https://odysee.com/$/embed/@Aeloverim:7/TahrovinGritIntro:2?r=3Lr3Zfv8p6NtvXgznroYw94PqUVBocA7) of the first hour or so of gameplay, all the while explaining various grit-specific concepts. Note that this is in "Grit - Performance" profile, so not as pretty as it gets, and that I am very much not a native english speaker so you probably won't understand me all the time. 
 
-To get started with creating a site, simply:
+# What is Tahrovin Grit ?
+Tahrovin Grit is a fork of Tahrovin, a NSFW Skyrim VR modlist. It retains some of the eye-candy its predecessor is known for, but opts for more grounded outfits and slightly less intrusive NSFW mods. It also features light survival gameplay and aims towards a slower-paced character growth, reworking many gameplay mechanics to provide a well-balanced challenge throughout your playthrough.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+# Before You Start
+Before you dive in, there's a couple things you need to be sure of first:
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## Hardware Requirements
+The following specs are recommended at minimum:
+  * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
+  * RAM: 16GB of DDR4
+  * GPU: RTX 2060 *or the AMD equivalent with at least 6GB of VRAM*
 
-----
+You will need at least `205GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `86GB`- ideally you want *at least* `330GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+**If your hardware is less powerful, try the performance tips [here](#my-performance-is-really-bad)**
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
+**If you are using a Quest 2, there are a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**
+
+
+
+## Accounts
+In terms of accounts you will need:
+  * Nexus Premium Account
+  * LoversLab Account
+
+Whilst you don't *need* a Nexus premium account to install the modlist, you'll have a considerably better time of it if you do.
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
