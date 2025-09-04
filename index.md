@@ -28,6 +28,8 @@ The following specs are recommended at minimum:
 
 You will need at least `205GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `86GB`- ideally you want *at least* `330GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
+**If you are struggling with performance, try the [performance tips here](docs/Performance Tips.md)**
+
 ## Accounts
 In terms of accounts you will need:
   * Nexus Premium Account
