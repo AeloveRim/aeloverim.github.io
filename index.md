@@ -36,5 +36,3 @@ In terms of accounts you will need:
   * LoversLab Account
 
 Whilst you don't *need* a Nexus premium account to install the modlist, you'll have a considerably better time of it if you do.
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
