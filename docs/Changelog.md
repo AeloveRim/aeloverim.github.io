@@ -380,7 +380,7 @@ Initial release
 - Added new options for specialization points at chargen : Learn random dragon shouts, Become a vampire, werewolf or vampire lord
 - Removed a bunch of configuration spells/powers that were added at chargen
 
-## Tahrovin Grit V1.60-beta
+## Tahrovin Grit V1.60
 - Removed NordwarUA mods
 - Added Semi-Open Guard Helmets SE
 - Removed some starting options for specialization points
@@ -393,3 +393,8 @@ Initial release
 - Moved the Disguise perks from Speech to Pickpocket
 - Removed Payday and Conspicuous Wealth Pickpocket perks. They were trap options that mostly didn't do anything
 - Modified Thief's eye Pickpocket perk now occurs every 12-24h
+- Fixed some wrong values on illusion spells
+- Nerfed vampire bonuses Champion of the Night, Nightstalker's Footsteps, and Unnatural Strength.
+- Reduced the vampire sunlight penalty to regeneration from 1000% to 100% when not in vampire lord form (so regen bonuses are useful).
+- The vampire sunlight stat regen penalty is now negated while you are in the shade.
+- Farengar now rewards you with gold for completing Bleak Falls Barrow
