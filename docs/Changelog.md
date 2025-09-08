@@ -387,7 +387,7 @@ Initial release
 - Modified Training gold configuration slightly so lower levels are a bit cheaper
 - Modified Missives configuration slightly
 - Increased Speech skill prerequisites for the bard perks Irresistible Dance, Encore, Golden Fiddle, and Lord of the Dance
-- Added Dragon Blood Speech perk which grants random words of power
+- Added Dragon Tongue Speech perk which grants random words of power
 - Added four new Triple Triad Speech perks : Time to Duel, Shadow Realm, Screw the Rules and Duel The Monsters
 - Tweaked Triple Triad scripts to prevent some bugs
 - Moved the Disguise perks from Speech to Pickpocket
@@ -398,3 +398,4 @@ Initial release
 - Reduced the vampire sunlight penalty to regeneration from 1000% to 100% when not in vampire lord form (so regen bonuses are useful).
 - The vampire sunlight stat regen penalty is now negated while you are in the shade.
 - Farengar now rewards you with gold for completing Bleak Falls Barrow
+
