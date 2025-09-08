@@ -24,7 +24,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Marathon runner | Light armor 40 | Sprinting doesn't cost any stamina when outside of combat if not wearing Heavy Armor. |
 | Foe flinger | Light armor 60 | You may throw others by yanking with only one hand. |
 | Leadership | Speech 20/40 | One/Two of your followers does not count towards XP penalties for having multiple followers. |
-| Dragon blood | Speech 20 | Learn a random word of power and gain 1 dragon soul. For every 20 points in your Speech skill, you will obtain one more dragon soul and unlock one more random word of power. |
+| Dragon tongue | Speech 20 | Learn a random word of power and gain 1 dragon soul. For every 20 points in your Speech skill, you will obtain one more dragon soul and unlock one more random word of power. |
 | Time to Duel | Speech 20 | Once every 24 ingame hours, when you start a Triple Triad duel, your opponent will have stronger cards but also more gold to bet depending on his cards' strength. |
 | Screw the rules | Speech 40 | At the beginning of a Triple Triad match, if you dislike the rules being used, you may choose to randomize them. |
 | Shadow Realm | Speech 60 | At will, challenge any humanoid up to 10 levels above your own to a Triple Triad duel. They will have stronger cards than usual. The loser is left on the verge of death and paralyzed for 30 seconds. |
@@ -54,6 +54,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Encore | Speech 60 | Prerequisite is now Speech 60 instead of 40. |
 | Lord of the dance | Speech 100 | Prerequisite is now Speech 100 instead of 90. |
 | Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
+
 
 
 
