@@ -41,7 +41,7 @@ Once you teleport at one of the crystals, you'll be dumped into Skyrim in the pl
 
 If you wish to use that system, read the manual in your inventory or on the stand next to the "VRSex Training Dummy" NPC in the Realm of Lorkhan. Feel free to try out the mod on that Training Dummy to figure out how things work.
 
-Upon opening the manual, you will be asked for an orientation which will activate the mod for either Male NPCs, Female NPCs, or both. If you choose Male or Female NPCs, entering an ostim or sexlab sex scene with the other gender will also give you a temporary 'disgust' debuff. If you choose both, you will never get a debuff but some VRSex buffs will be harder to obtain.
+Upon opening the manual, you will be asked for an orientation which will activate the mod for either Male NPCs, Female NPCs, or both. If you choose Male or Female NPCs, entering an ostim or sexlab sex scene with the gender you didn't choose will also give you a temporary 'disgust' debuff. If you choose both, you will never get a debuff but some VRSex buffs will be harder to obtain.
 
 To start, I recommend activating the Incubus Arts power then groping the VRSex dummy until she collapses. You can either keep groping her while she's collapsed, or use the Molag Bal's Compulsion spell to force her to take a pose. There are only two poses at the moment, chosen at random. Just cast Molag Bal's Compulsion spell again to switch. Either way, if you keep groping her, your character should strip and get an erection. The mod will then detect collision between penis and vagina, so set yourself in the right position and start having sex. After a little while, you will receive bonuses depending on the level of your partner. If your partner is lower level than you are, this will likely only be a temporary stat boost, but a higher level partner may grant you a permanent point of health or magicka. Details on these bonuses are described in the VRSex Manual.
 
@@ -245,6 +245,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
