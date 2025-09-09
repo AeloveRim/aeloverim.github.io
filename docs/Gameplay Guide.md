@@ -116,7 +116,7 @@ Pickpocketing and lockpicking are harder than usual if you're unskilled, but eas
 
 Light is a very important factor when it comes to sneaking in Grit. You will probably want to grab Night Vision, either with the "Sharp Eye" sneak perk or through any other means. Sneaking around with a torch or a candlelight spell is generally a bad idea.
 
-Some of the perk changes from the usual [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702) stuff will impact thieves. Most importantly, the Pickpocket and Lockpicking Mastery perks will now allow you to train both skills at once for the price of one. [Disguise](https://www.nexusmods.com/skyrimspecialedition/mods/133426) adds a series of Speech perk that allows you to disguise your identity and can be very useful to evade bounties or avoid getting them in the first place. 
+Some of the perk changes from the usual [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702) stuff will impact thieves. Most importantly, the Pickpocket and Lockpicking Mastery perks will now allow you to train both skills at once for the price of one. [Disguise](https://www.nexusmods.com/skyrimspecialedition/mods/133426) adds a series of Pickpocket perks that allows you to disguise your identity and can be very useful to evade bounties or avoid getting them in the first place. 
 
 ## Leveling
 Instead of increasing your level by raising your skills, the [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) mod lets you increase your level as you adventure, exploring Skyrim and accomplishing quests. The leveling curve has been modified to provide a slower-paced experience.
@@ -245,6 +245,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
