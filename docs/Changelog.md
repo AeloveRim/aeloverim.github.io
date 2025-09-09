@@ -7,6 +7,10 @@ nav_order: 8
 
 # Changelog
 
+## Tahrovin Grit V1.61
+- Fixed a bug introduced in 1.50 that could cause freezing when decapitating enemies
+- Made the StatFX visual effects at low stat thresholds less severe
+
 ## Tahrovin Grit V1.60
 - Removed NordwarUA mods
 - Added Semi-Open Guard Helmets SE
@@ -395,3 +399,4 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
