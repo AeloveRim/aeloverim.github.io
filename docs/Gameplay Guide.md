@@ -220,6 +220,8 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 
 - Before you attempt to take down a dragon, make sure you have a good ranged attack. Dragons will absolutely murder you in melee unless you block, parry, or ward against every one of their melee attacks, including when they land on you. Even if you can survive a dragon in close quarters, they will not simply stand by while you hack at them.
 
+- Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can negate dragon breath with even the weakest ward. A warrior could negate it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
+
 - You can open a container normally instead of using Quickloot by keeping the interact button pressed for a second or two.
 
 - CBPC VRSex grants a number of bonuses if you have sex with a higher level character than you, including a permanent point of health or magicka. If you spot a strong enemy and you're not in refractory cooldown, try to take her down nonlethally if you can !
@@ -245,9 +247,3 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
-
-
-
-
-
-
