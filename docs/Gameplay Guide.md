@@ -218,13 +218,11 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 
 - When training, be on the lookout for experience modifiers. For example, having read skill books will grant you experience modifiers that make your training more effective. However, training while exhausted will make your training less effective. If you are careless, you might not get a full skill level out of it.
 
-- Before you attempt to take down a dragon, make sure you have a good ranged attack. Dragons will absolutely murder you in melee unless you block, parry, or ward against every one of their melee attacks, including when they land on you. Even if you can survive a dragon in close quarters, they will not simply stand by while you hack at them.
-
-- Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can negate dragon breath with even the weakest ward. A warrior could negate it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
-
 - You can open a container normally instead of using Quickloot by keeping the interact button pressed for a second or two.
 
 - CBPC VRSex grants a number of bonuses if you have sex with a higher level character than you, including a permanent point of health or magicka. If you spot a strong enemy and you're not in refractory cooldown, try to take her down nonlethally if you can !
+
+- You will find a bunch of extra options for lingerie, skimpy clothing and accessories available for crafting at the tanning rack. If you'd rather not have to deal with all that, you can just remove the Tahrovin Lingerie Book from your inventory. If you've lost the book, you can just craft it again at a tanning rack.
 
 - Sexlab Romance grants you an experience buff on a successful attempt, which can be useful before a training session. It takes many factors into account to calculate whether the target is receptive to your advances : Your speechcraft skill, your relationship with the seduction target, your faction, the target's natural proclitivites, and so on. Notably, cold approaching someone you don't have at least a friendly relationship with is much more likely to fail. Accomplishing a quest for an NPC will often set their disposition to friendly - you'll be able to tell as their greetings change. Of course, if your speechcraft is high enough or there are enough other factors in play, you may not need to bother making friends first. If they turn you down, you can still keep trying again the next day (with worse odds of success).
 
@@ -237,7 +235,11 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 
 - NPC Mages can be tricky opponents, especially at low level. Keep in mind that, thanks to [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), you can often stagger mages by power-attacking them while they are casting a spell. Once you've staggered them once, there'll be a period where you won't be able to stagger them again. You can also parry most projectiles - including projectile spells - with your weapon or shield. Holding trigger will make the projectiles slightly slower as they approach at the cost of a little magicka, helping you parry. Of course, this doesn't work on area spells.
 
-- You will find a bunch of extra options for lingerie, skimpy clothing and accessories available for crafting at the tanning rack. If you'd rather not have to deal with all that, you can just remove the Tahrovin Lingerie Book from your inventory. If you've lost the book, you can just craft it again at a tanning rack.
+- Before you attempt to take down a dragon, make sure you have a good ranged attack. Dragons will absolutely murder you in melee unless you block, parry, or ward against every one of their melee attacks, including when they land on you. Even if you can survive a dragon in close quarters, they will not simply stand by while you hack at them.
+
+- Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can negate dragon breath with even the weakest ward. A warrior could negate it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
+
+- Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
 
 ## The Extra Quests Profile
 When I play Skyrim, I usually like to load it up with a bunch of quests I haven't played before. When my playthrough is done, I'll remove the ones I stumbled upon and add a bunch of new ones for the next playthrough.
@@ -247,3 +249,4 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
