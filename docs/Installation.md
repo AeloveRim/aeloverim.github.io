@@ -86,7 +86,7 @@ Download these files and place them *as they are* into the same folder you will 
 ## Wabbajack
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff. Grab the Tahrovin from the Wabbajack UI, once its downloaded the initial stuff it needs, Wabbajack will have 2 things for you to do - fill in the installation location and the download location. 
 
-Set the installation location to a folder on the root of a drive, something like `C:\Tahrovin`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Skyrim VR modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists. Note that **if your download folder is nested inside your modlist installation folder, it will be erased every time you reinstall** and you will have to download all the mods again.
+Set the installation location to a folder on the root of a drive, something like `C:\Tahrovin`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Skyrim VR modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists. Note that **if your download folder is nested inside your modlist installation folder,** as Wabbajack does by default, **it will be erased every time you reinstall** and you will have to download all the mods again.
 
 Before you hit **GO**, a quick tip:
 
@@ -206,6 +206,7 @@ All that aside, updates are basically the same as an installation except you hav
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
