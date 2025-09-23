@@ -13,7 +13,7 @@ Loverslab mods : [https://rentry.co/x8e3vi5w](https://rentry.co/x8e3vi5w)
 
 Make sure you download the versions indicated. If the link contains an "AND", download **both** versions indicated.
 
-Other mods from various sources : 
+Other mods from various sources in case you need them : 
 - [ED Horns SSE](https://mega.nz/file/o6o1wIhC#dX4vfLGvsYjzUmGxH7ECyyB0KuN3ELB0KFXybH8-Yyk)
 - [Troll Bone armor](https://mega.nz/file/pgoBxSCC#fFby_-XwQnXs3eEjygDnYAvpOaZTAVcv5mswq8pm5nQ)
 - [Nord Queen [SE] - 4K textures](https://www.mediafire.com/file/loz8ltagu4782tk/Nord_Queen_%255BSE%255D_-_4K_textures.7z/file)
