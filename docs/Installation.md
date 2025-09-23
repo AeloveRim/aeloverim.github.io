@@ -78,6 +78,11 @@ Once you've done the steps above, you can now set Steam to download Skyrim VR ag
 ### Start Skyrim VR
 That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
 
+## Commonly Failing Downloads
+Downloads from file hosts such as Google Drive and Mega can sometimes be a pain and refuse to download automatically via Wabbajack for reasons unknown. Also, Wabbajack has been completely unable to download files from Loverslab lately. **Before launching the installation through wabbajack, make sure to download every file from [this list](Missing%20downloads.html) manually** and put them in your archive download folder.
+
+Download these files and place them *as they are* into the same folder you will tell Wabbajack to put your downloads in. Let me reiterate just to be sure - **do not unzip the archives!**
+
 ## Wabbajack
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff. Grab the Tahrovin from the Wabbajack UI, once its downloaded the initial stuff it needs, Wabbajack will have 2 things for you to do - fill in the installation location and the download location. 
 
@@ -88,11 +93,6 @@ Before you hit **GO**, a quick tip:
 *To get the best performance with Wabbajack, it is recommended that you have the install folder for Wabbajack, the modlist folder and the downloads folder on an SSD; ideally the same SSD.* After the installation is complete, you can move the downloads folder to a storage HDD or other storage medium to save space on your game installation drive. It's not recommended to allow your drive to exceed 90% of its storage space used - Windows Explorer will show a red bar under your drive if you do go over 90% so you need to be sure that you have enough space on your installation drive so that you won't exceed this 90% storage level.
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
-
-## Commonly Failing Downloads
-Downloads from file hosts such as Google Drive and Mega can sometimes be a pain and refuse to download automatically via Wabbajack for reasons unknown. Any files that might give you trouble [can be found here for manual download](https://github.com/AeloveRim/TahrovinGrit/blob/main/LL%20links).
-
-Download these files and place them *as they are* into the same folder you told Wabbajack to put your downloads in. Let me reiterate just to be sure - **do not unzip the archives!**
 
 ## Troubleshooting
 If you're having issues with installation, check the [troubleshooting page](Troubleshooting.html). 
@@ -206,6 +206,7 @@ All that aside, updates are basically the same as an installation except you hav
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
