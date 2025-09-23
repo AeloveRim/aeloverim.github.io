@@ -79,7 +79,7 @@ Once you've done the steps above, you can now set Steam to download Skyrim VR ag
 That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
 
 ## Commonly Failing Downloads
-Downloads from file hosts such as Google Drive and Mega can sometimes be a pain and refuse to download automatically via Wabbajack for reasons unknown. Also, Wabbajack has been completely unable to download files from Loverslab lately. **Before launching the installation through wabbajack, make sure to download every file from [this list](Missing%20downloads.html) manually** and put them in your archive download folder.
+Downloads from file hosts such as Google Drive and Mega can sometimes be a pain and refuse to download automatically via Wabbajack for reasons unknown. Also, Wabbajack has been completely unable to download files from Loverslab lately. **Before launching the installation through wabbajack, make sure to download every file from the Loverslab section in [this list](Missing%20downloads.html) manually** and put them in your archive download folder.
 
 Download these files and place them *as they are* into the same folder you will tell Wabbajack to put your downloads in. Let me reiterate just to be sure - **do not unzip the archives!**
 
@@ -206,6 +206,7 @@ All that aside, updates are basically the same as an installation except you hav
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
