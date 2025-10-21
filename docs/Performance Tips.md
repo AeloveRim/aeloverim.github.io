@@ -5,7 +5,9 @@ nav_order: 7
 ---
 
 # Basic performance tips
-If you are struggling, there are still a few things you can do to increase performance : 
+If your performance is bad, you may first want to try the other profiles. The ENB profile is less resource-hungry than the main CS one. The Performance profile is even less demanding.
+
+If you are still struggling, there are still a few things you can do to increase performance : 
 - Switch from SteamVR to OpenComposite
 - Switch from Skyrim Upscaler VR - DLAA to either Skyrim Upscaler VR - DLSS if your GPU allows it, or Skyrim Upscaler VR - FSR 
 - Disable everything in the CS Resources section.
@@ -89,4 +91,5 @@ The Oculus Debug Tool also comes with a performance overlay. Follow the steps ab
 ***DON'T CLOSE THE OCULUS DEBUG TOOL AS THIS WILL ALSO CLOSE THE PERFORMANCE OVERLAY.***
 
 You will know when it is enabled as soon as you put on your headset. You can use the info here to help with monitor the performance you are getting in-game.
+
 
