@@ -185,6 +185,8 @@ The MCM setup is *mostly* automated and will run on its own after you've finishe
 
 When you are done, **save your game, go back to the main menu, then load that save** so the last few mods can load properly.
 
+If you are playing with the Vanilla Start option, the mods will initialize while the intro plays. If your machine is on the weaker side there might be freezing at one point while the animations are initialized - just wait it out. Make sure to **save, go back to the main menu, then load** in the Helgen Keep, after Ralof or Hadvar cut your bonds and free you, so the last few mods can load properly.
+
 Modifying the CBBE 3BA and/or HIMBO morphs in the racemenu during character creation is not recommended. Instead, after reloading your game, you should use the autobody shortcut (right thumbstick + controller down) to select a body preset for your character.
 
 That done, there are optional configuration changes you may wish to make in the Mod Configuration Menu :
@@ -206,6 +208,7 @@ All that aside, updates are basically the same as an installation except you hav
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
