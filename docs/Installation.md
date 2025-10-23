@@ -206,8 +206,11 @@ If you have added anything to this modlist at all, Wabbajack will also delete th
 
 All that aside, updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.
 
+For Tahrovin Grit, updates that change only the last digit of the version number are minor updates while updates that change the digits before that are major updates. Minor updates are save-safe, major updates are not. It is recommended to start a new save if you update to a new major version of Tahrovin Grit.
+
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
