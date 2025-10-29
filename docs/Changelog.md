@@ -7,6 +7,55 @@ nav_order: 8
 
 # Changelog
 
+## Tahrovin Grit V1.70
+- Updated Community Shaders to v1.4.6
+- Updated VR Address Library to v0.194.0
+- Updated HIGGS to v1.10.6
+- Added NPC Underwear Distribution Engine
+- Added Auto-name enchantments
+- Added WAAT - Circlet or Hood
+- Added Skyrim VR OpenComposite ENB fix
+- Added Hel Rising to the main profiles
+- Added Hel Rising tweaks
+- Added Heart of the reach to the main profiles
+- Added The Gray Cowl of Nocturnal - 10th anniversary to the Extra Quests profile
+- Added Betalille's Hammerfell Quests Bundle to the Extra Quests profile
+- Added The Daedrologist to the Extra Quests profile
+- Added The Devil's in the Details to the Extra Quests profile
+- Added Sleepwalking into a nightmare to the Extra Quests profile
+- Added Infiltration - Quest Expansion to the Extra Quests profile
+- Added Destroy The Dark Brotherhood - Quest Expansion to the Extra Quests profile
+- Added Innocence Lost - Quest Expansion to the Extra Quests profile
+- Added The Forsworn Conspiracy - Quest Expansion to the Extra Quests profile
+- Added Pseudo-physical weapon parrying - Vanilla Shield Block as the default Block/Parry solution
+- Added Companions - Don't be a Milk Drinker
+- Added Soulmancer Music Merge
+- Simplified the Music Replacement optional section
+- Fixed some missing items in Forgotten City
+- Tweaked The Gray Cowl of Nocturnal to only start with at the very least 20 pickpocket and 20 stealth
+- Removed stuff from the Vigilant storage chest in Extra Quests
+- Delayed Vigilant in Extra Quests to after DAc0da starts
+- Slotless clothing parts should no longer have durability
+- Reworked keywords for slotless clothing parts to make sure they can't be enchanted
+- Fixed VRSex bonuses not triggering properly when bottoming
+- Removed Nether's candlelight recipe
+- Reworked Crafting requires skill for better compatibility
+- increased hitSwingSpeedThreshold to 7 and swingLinearVelocityThreshold to 5.5
+- Adjusted Soul Relinquishment values
+- Reduced honed metal enchanting cost modifier
+- Vampires no longer regenerate in shade
+- Enchantment mastery perk now improves by 25/50%
+- Whirlwind shield is now divided into two perks
+- Blocking mastery perks now also restores your stamina on every weapon parry (but not shield block)
+- Intuitive Magic Alteration perk now only reduces the cost of spells for which you have a Mastery perk
+- Expanded Romance conditions to include NPCs without default voices in the marriage faction or with - relationship rank of 4
+- Fixed player spouses reducing chance of successful romance instead of increasing it
+- The main profile is now ENB, with CS being the secondary profile
+- Increased shadow quality in all profiles except performance
+- Removed Smalls
+- Removed Krein from the Extra Quests profile
+- Removed Prince of Lies from the Extra Quests profile
+
 ## Tahrovin Grit V1.61
 - Fixed a bug introduced in 1.50 that could cause freezing when decapitating enemies
 - Made the StatFX visual effects at low stat thresholds less severe
@@ -399,4 +448,5 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
