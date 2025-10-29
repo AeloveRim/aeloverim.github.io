@@ -141,7 +141,7 @@ Before starting, you can make choices in the Optional sections of the list, colo
 
 - Vanilla Start : New games will start with the vanilla skyrim intro instead od throwing you straight into the Realm of Lorkhan
 - Quickloot VR : Adds a looting menu similar to the one present in FO4
-- Smalls : Adds underwear to bodies when you loot them, doesn't work well with Quickloot.
+- NPC Underwear Distribution : Adds underwear to bodies when you loot them, doesn't work well with Quickloot.
 - Shadow of Skyrim - SL on defeat : Defeat system. Starts a sexlab scene whenever you are defeated by an enemy. It is integrated into the Shadow of Skyrim Nemesis system, but there's no configuration available to customize it. **Disable this if you don't want to get a forced sex scene on defeat.**
 - Yamete Redux : Alternative defeat system. It will require manual MCM configuration and is known to be finnicky.
 - CBPC VRSex - Sexlab Solutions Override : Will use the CBPC VRSex system instead of Sexlab to handle any sex interactions started by the Sexlab Solutions mod between the player and a female NPC, as long as the player is not in a victim context.
@@ -157,23 +157,16 @@ Pick only one of the options given.
 - Vanilla blocking will let you block by placing your weapon and/or shield at a certain angle. This can also be annoying if you block without meaning to, since it will slow you down and stop your stamina regeneration.
 - Pseudo-physical parrying will parry by intercepting the enemy's weapon, and block with shields by pressing the trigger (and having the shield not too far from the enemy's weapon).
 
-If you have enabled Vanilla blocking but it doesn't work properly, check Documents\My Games\Skyrim VR for the SkyrimCustom.ini file and delete it.
-
 ### Body presets
 Pick only one of the options given.
 - Limited body presets will limit most NPCs to a handful of slightly more grounded body presets, but specific NPCs will still have presets with more impressive proportions assigned. So while some random guard won't be walking around with the biggest pair in skyrim, you might just find that at the temple of dibella.
 - Fantasy body presets will allow most NPCs to have any body type preset, including those with impressive proportions. Some NPCs will still have presets specifically assigned to them however.
 
 ### Music replacement
-- "Unique Battle Music" and "Combat Music Fix NG - Unique Battle Music Patch" : Replaces the combat music. Different tracks are used for different types of monsters (animals, undead, bandits, etc). Bosses have separate tracks. Special bosses have their own unique tracks.
-- "Music Type Distributor" and "Personal Music Framework" : Allows you to add any Personal Music Framework compatible music replacer. There are none included in the list.
-- "PMF - Personalized Music Patch" : Requires Music Type Distributor and Personal Music Framework. Allows you to add any Personalized Music compatible music replacer.
-- "Emeratu" and related mods : A Personalized Music compatible music replacer. Requires Music Type Distributor,  Personal Music Framework and PMF - Personalized Music Patch.
-- PMF - Personalized Music Combat - Incompatible with UBM : Replaces the combat music as well with the one from your Personalized Music compatible music replacer. Takes precedence over Unique Battle Music, use one or the other.
+- "Enable Music Replacement" : Disables vanilla music and replaces it with the music from a music replacer compatible with Personal Music Framework. Two such replacers are provided "Emeratu" and "Soulmancer music merge". Pick only one.
+- "Enable Unique Battle Music" : If enabled along with Enable Music Replacement, will give unique music to some bosses. If enabled without Enable Music Replacement, it will also replace regular combat music with different variants depending on the type of enemy.
 
-In short, if you want unique combat tracks and new tracks for everything else, activate everything except "PMF - Personalized Music Combat - Incompatible with UBM". Feel free to leave the plugins at the bottom, they won't conflict with anything else. 
-
-Feel free to use any music replacer instead of Emeratu. As long as it is compatible with Personalized Music or Personal Music Replacer, it should work with no conflicts at all.
+Feel free to use any music replacer instead of Emeratu or Soulmancer. As long as it is compatible with Personalized Music or Personal Music Replacer, it should work with no conflicts at all. You only need the music files, not any plugins that may come with them.
 
 # Mod Setup
 
@@ -210,6 +203,7 @@ For Tahrovin Grit, updates that change only the last digit of the version number
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
