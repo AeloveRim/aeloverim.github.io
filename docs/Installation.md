@@ -105,6 +105,14 @@ Almost there but we're not out of the woods yet! After Wabbajack has given you t
 ## Stock Game
 Tahrovin utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Skyrim VR game files during the installation process. This means that your Steam installation of Skyrim VR is completely untouched, even by files that go in the game folder such as ENB files.
 
+## Selecting a profile
+<img width="561" height="232" alt="image" src="https://github.com/user-attachments/assets/f1c2134e-0a76-43d0-a61d-2e4420c275c7" />
+Before you go any further, you should select a profile. The differences are as follows : 
+- Tahrovin Grit: The main profile, uses a lightweight ENB and puredark's VR Upscaler.
+- Tahrovin Grit CS: Uses Community Shaders. More resource-hungry than the other profiles.
+- Tahrovin Grit Extra Quests: An ENB-based profile with a lot of extra quests that have not necessarily been tested. See [here](Gameplay%20Guide.html#the-extra-quests-profile) for details.
+- Tahrovin Grit Performance: Not as pretty as the other profiles, but takes a lot less resources if your machine is on the weaker end of things.
+
 ## Community Shaders
 As a note the first time Community Shaders runs it will have to compile shaders, this may take a while and may look like SkyrimVR is frozen, just be patient. This process will also most likely be repeated any time you change mods in the list.
 The Community Shaders Menu can be opened with END and from here you can toggle individual shaders on and off.
@@ -202,6 +210,7 @@ For Tahrovin Grit, updates that change only the last digit of the version number
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
