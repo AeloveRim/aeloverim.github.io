@@ -4,8 +4,41 @@ layout: home
 nav_order: 8
 ---
 
-
 # Changelog
+## Tahrovin Grit V1.80
+- Added Interactive Activators VR
+- Added Legacy of the Dragonborn - Rebalanced
+- Added Balanced Weapons for LOTD
+- Added Dark Brotherhood Kidnapping - Restricted
+- Added Gray Cowl Tweaks
+- Added Remiel-SDA banter patch
+- Added Simplicity of sea
+- Added College of Winterhold Entry Requirements
+- Added Smart Talk
+- Added The Forsworn Conspiracy - Quest Expansion to the main profiles
+- Added Innocence Lost - Quest Expansion to the main profiles
+- Added Destroy The Dark Brotherhood - Quest Expansion to the main profiles
+- Added Blackreach Railroad to the Extra Quests profile
+- Added Lost Wonders of Mzark to the Extra Quests profile
+- Updated HIGGS to v1.10.7
+- Updated Attacks cost stamina VR to v1.2
+- Updated DurabilityVR to v1.1.4
+- Updated VRIK to v0.8.5
+- Updated Haptic Skyrim VR to v1.8.0
+- Updated The Second Great War to v1.10.1
+- Updated The Gift of Saturalia to v1.03
+- Removed SkyVRaan
+- Removed Vanity Mirror
+- Removed some refs causing map CTDs in Betallille's Hammerfell Quest Bundle
+- Conduit is no longer available from the start of the game
+- Spellsiphon Urn is replaced by an Arcane Research Manual used to unlock both Spellsiphon and Conduit abilities
+- Sil Gahrot is no longer random. You will now learn a new random word of power every 3 absorbed dragon souls
+- Spellforge now initializes automatically on game start
+- Reduced the amount of stamina gained from parrying with block mastery
+- Fixed the sos bug that made you lose control after dying while being ragdolled. You will now get pushed down after revival
+- You will no longer respawn in hostile places after being defeated
+- Made the skyrimprefs inis read only
+- Partially merged Athletics and As a leaf perks
 
 ## Tahrovin Grit V1.70
 - Updated Community Shaders to v1.4.6
@@ -448,5 +481,6 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
