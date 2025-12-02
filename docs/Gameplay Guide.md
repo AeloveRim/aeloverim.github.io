@@ -61,7 +61,7 @@ As long as there is penetration, you will still receive the bonuses from CBPC VR
 ## Playing a mage
 Being able to use magic is not a given in Tahrovin Grit and will require an investment. Your magicka regeneration in combat is faster, but your starting magicka is only 50 and you do not start with any spells (other than the various debug spells) unless you are one of the races granted a bonus spell (Breton, Dunmer, Altmer). Furthermore, you will find that spell books are prohibitively expensive for a starting character. You will still find spell books in the world as usual, but it may be tempting to sell them instead of learning the spell they contain.
 
-Rather than spell books, your main way to acquire new spells will be through Spell Forging. To do so, you must first read the [Spellforge](https://www.nexusmods.com/skyrimspecialedition/mods/46482) book in your inventory. Let the spell library initialize, it will then display a menu. Pick the "Conjure Forge" option to learn the spell and close the menu.
+Rather than spell books, your main way to acquire new spells will be through Spell Forging.
 
 If you want to start the game as a mage right away, I recommend doing the following : 
 - Increase your magicka by picking the Mage, Lady or Atronach standing stones, otherwise you'll lack the magicka to even forge novice spells at first. As a more temporary measure, Julianos' shrine can also help. Note that Altmer already start with an extra 50 magicka and may not necessarily need to do that.
@@ -249,6 +249,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
