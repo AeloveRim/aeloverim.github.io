@@ -39,7 +39,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Experimenter  | Alchemy 30 | Also grants the  "Harvest Ingredients" spell to gather ingredients in an area |
 | Adrenaline  | Alchemy 80 | Now increases movement speed by 15% instead of 10% |
 | Intuitive magic | Alteration 50/80 | Now only works with spells of schools for which you have a mastery perk |
-| Block mastery  | Block 20/40 | Now also restores 15/30 stamina on a successful weapon parry (not shield block) |
+| Block mastery  | Block 20/40 | Now also restores 10/20 stamina on a successful weapon parry (not shield block) |
 | Soul siphon  | Enchanting 20 | Now traps 15% of the victim's soul instead of 5% and works on all killing blows |
 | Enchanting mastery  | Enchanting 20/40 | Enchantments are 25/50% stronger instead of 20/40% |  
 | Staff recharge  | Enchanting 40/70 | Prerequisite lowered to 40, added a second level at enchanting 70 that recharges 20 points per second |
@@ -56,6 +56,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Encore | Speech 60 | Prerequisite is now Speech 60 instead of 40. |
 | Lord of the dance | Speech 100 | Prerequisite is now Speech 100 instead of 90. |
 | Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
+
 
 
 
