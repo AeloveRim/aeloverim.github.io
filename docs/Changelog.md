@@ -32,7 +32,7 @@ nav_order: 8
 - Removed some refs causing map CTDs in Betallille's Hammerfell Quest Bundle
 - Conduit is no longer available from the start of the game
 - Spellsiphon Urn is replaced by an Arcane Research Manual used to unlock both Spellsiphon and Conduit abilities
-- Sil Gahrot is no longer random. You will now learn a new random word of power every 3 absorbed dragon souls
+- Sil Gahrot is no longer random. You will now always learn a new random word of power every 3 absorbed dragon souls
 - Spellforge now initializes automatically on game start
 - Reduced the amount of stamina gained from parrying with block mastery
 - Fixed the sos bug that made you lose control after dying while being ragdolled. You will now get pushed down after revival
@@ -481,6 +481,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
