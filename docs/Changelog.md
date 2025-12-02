@@ -29,7 +29,7 @@ nav_order: 8
 - Updated The Gift of Saturalia to v1.03
 - Removed SkyVRaan
 - Removed Vanity Mirror
-- Removed some refs causing map CTDs in Betallille's Hammerfell Quest Bundle
+- Added tweaks to Wheels of Lull, Gray cowl and Forsworn Conspiracy QE
 - Conduit is no longer available from the start of the game
 - Spellsiphon Urn is replaced by an Arcane Research Manual used to unlock both Spellsiphon and Conduit abilities
 - Sil Gahrot no longer has a random chance of triggering. You will now always learn a new random word of power every 3 absorbed dragon souls
@@ -481,6 +481,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
