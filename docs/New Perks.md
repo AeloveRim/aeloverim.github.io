@@ -20,7 +20,6 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Tireless march | Heavy Armor 40/70 | Regenerate 2%/4% of your maximum stamina per second when standing still or walking (but not running or sprinting) while wearing all Heavy Armor. |
 | Wrestler | Heavy Armor/Light armor 40 | Characters ragdolled through yanking or Mighty Grip can be looted with the gravity glove even if they are above 50% health. Stamina cost for grabbing enemies is reduced by 70%. |
 | Body toss | Light armor 20/80 | Stamina cost of yanking and foot yanking is reduced by 50/90%. |
-| Athletics | Light armor 30/70 | Movement speed increased by 10/20% when not wearing Heavy Armor. |
 | Marathon runner | Light armor 40 | Sprinting doesn't cost any stamina when outside of combat if not wearing Heavy Armor. |
 | Foe flinger | Light armor 60 | You may throw others by yanking with only one hand. |
 | Leadership | Speech 20/40 | One/Two of your followers does not count towards XP penalties for having multiple followers. |
@@ -45,7 +44,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Enchanting mastery  | Enchanting 20/40 | Enchantments are 25/50% stronger instead of 20/40% |  
 | Staff recharge  | Enchanting 40/70 | Prerequisite lowered to 40, added a second level at enchanting 70 that recharges 20 points per second |
 | Iron Fist  | Light Armor 20 | Doesn't work while wearing heavy gauntlets |
-| As a leaf  | Light Armor 30 | Also unlocks double jump |
+| As a leaf  | Light Armor 30/70 | Movement speed increased by 10/20% when not wearing Heavy Armor. Also unlocks double jump. |
 | Windrunner  | Light Armor 50 | Now increases movement speed by 15% instead of 10% |
 | Lockpicking Mastery | Lockpicking 20/40 | Weaker/All locks are easier to pick and increases carry weight by 50/100 points. Receiving training in Lockpicking also increases the Pickpocket skill if it is lower. |
 | Robber's eye  | Lockpicking 30 | Now can occur every 12-24h. |
@@ -57,6 +56,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Encore | Speech 60 | Prerequisite is now Speech 60 instead of 40. |
 | Lord of the dance | Speech 100 | Prerequisite is now Speech 100 instead of 90. |
 | Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
+
 
 
 
