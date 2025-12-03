@@ -10,7 +10,6 @@ nav_order: 8
 - Added Legacy of the Dragonborn - Rebalanced
 - Added Balanced Weapons for LOTD
 - Added Dark Brotherhood Kidnapping - Restricted
-- Added Gray Cowl Tweaks
 - Added Remiel-SDA banter patch
 - Added Simplicity of sea
 - Added College of Winterhold Entry Requirements
@@ -484,6 +483,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
