@@ -119,7 +119,7 @@ Before you go any further, you should select a profile. The differences are as f
 As a note the first time Community Shaders runs it will have to compile shaders, this may take a while and may look like SkyrimVR is frozen, just be patient. This process will also most likely be repeated any time you change mods in the list.
 The Community Shaders Menu can be opened with END and from here you can toggle individual shaders on and off.
 
-### Settings
+## Settings
 Skyrim's in-game settings tend to wreck all ini files. Even the most minor of changes in the in-game settings will generally mess with performance, shadows, draw distances and such. I would recommend manually editing the ini files in your profiles folder instead. If you've mistakenly changed the in-game settings, I would recommend downloading the inis again here : [Performance](../Inis/Performance/skyrimprefs.ini) or [Regular](../Inis/Regular/skyrimprefs.ini)
 
 
@@ -216,6 +216,7 @@ For Tahrovin Grit, updates that change only the last digit of the version number
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
