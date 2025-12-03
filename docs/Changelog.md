@@ -15,6 +15,8 @@ nav_order: 8
 - Added Simplicity of sea
 - Added College of Winterhold Entry Requirements
 - Added Smart Talk
+- Added The Wheels of Lull to the main profiles
+- Added The Gray Cowl of Nocturnal to the main profiles
 - Added The Forsworn Conspiracy - Quest Expansion to the main profiles
 - Added Innocence Lost - Quest Expansion to the main profiles
 - Added Destroy The Dark Brotherhood - Quest Expansion to the main profiles
@@ -480,6 +482,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
