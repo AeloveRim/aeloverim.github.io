@@ -161,7 +161,7 @@ Animals will drop a little bit more loot, and their pelts are now a bit more val
 
 Cooking is now a bit easier as most recipes won't use up Salt Piles anymore. You still need to keep a salt pile in your inventory, it just won't be used up every time you cook something.
 
-Spellwheel has been set up for easy access to food. You never have to go into a menu and can just eat while on the move. Just use trigger and grip on your right hand, swipe once with your other hand if you have potions, and you can access all your food. Then simply bring the food or drink to your mouth and let go.
+Spellwheel has been set up for easy access to food. You never have to go into a menu and can just eat while on the move. Just use trigger and grip on your right hand, swipe once with your other hand if you have potions as they take priority, and you can access all your food. Then simply bring the food or drink to your mouth and let go.
 
 ## Enemies and encounters
 Encounter zones have been slightly increased, and new enemies have been added with [Hand-Placed Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/59249). [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212) ensures that even in the overworld, enemies will match the level of their encounter zone.
@@ -252,6 +252,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
