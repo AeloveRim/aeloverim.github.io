@@ -37,7 +37,6 @@ nav_order: 8
 - Reduced the amount of stamina gained from parrying with block mastery
 - Fixed the sos bug that made you lose control after dying while being ragdolled. You will now get pushed down after revival
 - You will no longer respawn in hostile places after being defeated
-- Shadow settings are now forced through VR FPS Stabilizer in case the user wrecks his ini by changing the in-game settings
 - Partially merged Athletics and As a leaf perks
 
 ## Tahrovin Grit V1.70
@@ -481,6 +480,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
