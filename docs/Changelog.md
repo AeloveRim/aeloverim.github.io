@@ -34,6 +34,8 @@ nav_order: 8
 - Added custom tweaks and fixes to Wheels of Lull, Gray cowl and Forsworn Conspiracy QE
 - Conduit is no longer available from the start of the game
 - Spellsiphon Urn is replaced by an Arcane Research Manual used to unlock both Spellsiphon and Conduit abilities
+- Spellsiphon ward now drains a bit more stamina per hit and restores less stamina while broken
+- Weapon Throw MCM is now disabled after initial setup since it's handled by the perks
 - Sil Gahrot no longer has a random chance of triggering. You will now always learn a new random word of power every 3 absorbed dragon souls
 - Spellforge now initializes automatically on game start
 - Reduced the amount of stamina gained from parrying with block mastery
@@ -482,6 +484,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
