@@ -55,11 +55,8 @@ Create a new file in the Stock Game folder and name it `opencomposite.ini`. In t
 
 Save, close, relaunch game.
 
-## My settings keep reverting!
-Changing your settings while ingame doesn't work well. It changes a whole bunch of stuff besides what you wanted to change. I would recommend doing it manually by editing the skyrimprefs.ini file in your profiles folder with a text editor. If you know what you're doing, you can simply remove the read-only attribute on that file to allow usage of the in-game settings again.
-
 ## I can't block!
-The vanilla SkyrimVR method of blocking (holding a shield in front of you, or holding a weapon sideways), is disabled by default in favor of pseudo-physical parrying. If you are trying to use vanilla SkyrimVR blocking, first make sure you have enabled it in the optional Blocking/Parry mods. If you have and it's still not working, delete 'SkyrimCustom.ini' in 'Documents\My Games\Skyrim VR' 
+The vanilla SkyrimVR method of blocking with a weapon (holding a weapon sideways), is disabled by default in favor of pseudo-physical parrying. If you are trying to use vanilla SkyrimVR blocking, first make sure you have enabled it in the optional Blocking/Parry mods. If you have and it's still not working, delete 'SkyrimCustom.ini' in 'Documents\My Games\Skyrim VR' 
 
 ## I can't move!
 You started Tahrovin before making sure your controllers were connected. Restart the game.
@@ -73,6 +70,7 @@ If you have a non-RTX Nvidia GPU, I ask you to refer to the [DLSS/FSR/XeSS](Inst
 
 ## Can I add XYZ?
 I don't know, can you?
+
 
 
 
