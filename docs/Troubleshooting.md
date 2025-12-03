@@ -58,6 +58,9 @@ Save, close, relaunch game.
 ## I can't block!
 The vanilla SkyrimVR method of blocking with a weapon (holding a weapon sideways), is disabled by default in favor of pseudo-physical parrying. If you are trying to use vanilla SkyrimVR blocking, first make sure you have enabled it in the optional Blocking/Parry mods. If you have and it's still not working, delete 'SkyrimCustom.ini' in 'Documents\My Games\Skyrim VR' 
 
+## My shadows keep moving/flickering!
+You probably changed the settings using the in-game settings menu. Any change in there, even minor, will mess up shadows, draw distances, and other things. See [Settings](Installation.html#settings).
+
 ## I can't move!
 You started Tahrovin before making sure your controllers were connected. Restart the game.
 
@@ -70,6 +73,7 @@ If you have a non-RTX Nvidia GPU, I ask you to refer to the [DLSS/FSR/XeSS](Inst
 
 ## Can I add XYZ?
 I don't know, can you?
+
 
 
 
