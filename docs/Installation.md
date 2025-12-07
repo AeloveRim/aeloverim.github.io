@@ -153,7 +153,7 @@ Refer to the [Skyrim VR Upscaler](#skyrim-vr-upscaler-selection) section.
 
 Before starting, you can make choices in the Optional sections of the list, colored in Orange in MO2. Pick a set of controller bindings, a defeat mod, a Vampire Lord body mod depending on your character's gender, and any of the other optional mods that interest you. Make sure to do so **before you start a new game** as enabling or disabling some of these mods mid-save can be a bad idea : 
 
-- Vanilla Start : New games will start with the vanilla skyrim intro instead od throwing you straight into the Realm of Lorkhan
+- Vanilla Start : New games will start with the vanilla skyrim intro instead of throwing you straight into the Realm of Lorkhan
 - Quickloot VR : Adds a looting menu similar to the one present in FO4
 - NPC Underwear Distribution : Adds underwear to bodies when you loot them
 - Dragonborn speaks naturally : Grants the ability to use voice commands to do things such as equip spells and items, shout, or select dialogue options. Requires Windows speech recognition.
@@ -216,6 +216,7 @@ For Tahrovin Grit, updates that change only the last digit of the version number
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
