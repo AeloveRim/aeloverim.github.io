@@ -64,7 +64,7 @@ Being able to use magic is not a given in Tahrovin Grit and will require an inve
 Rather than spell books, your main way to acquire new spells will be through Spell Forging.
 
 If you want to start the game as a mage right away, I recommend doing the following : 
-- Increase your magicka by picking the Mage, Lady or Atronach standing stones, otherwise you'll lack the magicka to even forge novice spells at first. As a more temporary measure, Julianos' shrine can also help. Note that Altmer already start with an extra 50 magicka and may not necessarily need to do that.
+- Increase your magicka by picking the Mage, Lady or Atronach standing stones, otherwise you'll lack the magicka to even forge novice spells at first. As a more temporary measure, Julianos' shrine can also help. Note that Altmer and Imperials already start with extra magicka and may not necessarily need to do that.
 - Increase one of your magic skills to at least 20 at Sera the Trainer if possible. You should have enough gold and TP to raise a skill to 20 right away. This will allow you to learn a novice spell through Spellforge immediately.
 
 Cast the "Conjure Spellforge" spell on the ground to summon the forge and select the bottom node to access the forge's main functions. Select the Resin Experimentation option.
@@ -252,6 +252,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
