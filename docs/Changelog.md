@@ -30,6 +30,7 @@ nav_order: 8
 - Updated The Gift of Saturalia to v1.03
 - Removed SkyVRaan
 - Removed Vanity Mirror
+- Removed The Daedrologist
 - Added custom tweaks and fixes to Wheels of Lull, Gray cowl and Forsworn Conspiracy QE
 - Conduit is no longer available from the start of the game
 - Spellsiphon Urn is replaced by an Arcane Research Manual used to unlock both Spellsiphon and Conduit abilities
@@ -483,6 +484,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
