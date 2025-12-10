@@ -6,7 +6,7 @@ nav_order: 2
 
 
 # Installation
-Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-tahrovin).
+Please follow all of the steps below if it is your first time installing this modlist. If you're updating you can [jump straight there](#updating-tahrovin).
 
 ## Preparation
 
@@ -216,6 +216,7 @@ For Tahrovin Grit, updates that change only the last digit of the version number
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
