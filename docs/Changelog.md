@@ -11,7 +11,7 @@ nav_order: 8
 - Updated HIGGS to v1.10.8.1
 - Some enemies now use throwing daggers with a custom mod using assets from Throwing Weapons Lite SE
 - Fixed an incompatibility between M'rissi and the NFF tokens during her quest
-- Fixed some shouts from Dragonborn not being called by the Dragonborn Speaks Naturally Aelove preset
+- Fixed some shouts from the DLC2 not being called by the Dragonborn Speaks Naturally Aelove preset
 - Switched some of the Smithing perks from Ordinator to vanilla versions for compatibility reasons
 - Boosted the Smithing craft/temper perks a little
 - Merciless Storm Speech perk has been boosted from a 1/day power to at-will but costing stamina
@@ -500,6 +500,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
