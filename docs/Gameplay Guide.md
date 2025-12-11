@@ -165,9 +165,14 @@ Spellwheel has been set up for easy access to food. You never have to go into a 
 
 ## Enemies and encounters
 Encounter zones have been slightly increased, and new enemies have been added with [Hand-Placed Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/59249). [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212) ensures that even in the overworld, enemies will match the level of their encounter zone.
-New random overworld encounters have been added through [Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810).
+New random overworld encounters have been added through [Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810). 
+[Skyrim Revamped Rebalanced and Releveled](https://www.nexusmods.com/skyrimspecialedition/mods/14598) overhauls bosses. 
 
-[Dragon Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56082) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from you.
+[NPCs Take cover](https://www.nexusmods.com/skyrimspecialedition/mods/111890) makes sure melee NPCs aren't static targets you can easily shoot from safety. A custom mod based loosely on [Throwing Weapons Lite SE](https://www.nexusmods.com/skyrimspecialedition/mods/4668) gives some of them throwing weapons of their own to fight back with. Some enemies will also heal themselves with [Smart NPC Potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102).
+
+New enemy creatures will roam the land : [Imps](https://www.nexusmods.com/skyrimspecialedition/mods/33759), [Lesser Griffins](https://www.nexusmods.com/skyrimspecialedition/mods/50869), [Draugr Cavalry](https://www.nexusmods.com/skyrimspecialedition/mods/27241), [Will-o-the-wisp](https://www.nexusmods.com/skyrimspecialedition/mods/88987).
+
+[Dragon Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56082) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from the Dragonborn.
 
 ## Death
 [Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136) means death is not the end. Upon defeat, you will generally be assaulted by the victor in a Sexlab Scene. In most cases they will become your Nemesis and grow in power. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or one or more permanent points of health (depending on your level) if you don't have the soul either (note that you will be able to regain permanent health points through CBPC VRSex). You will also receive a situational or random debuff and lose some experience.
@@ -252,6 +257,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
