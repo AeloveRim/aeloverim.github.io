@@ -31,6 +31,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Disguise | Pickpocket 20 | Grants the Disguise power. While enabled, can disguise as a member of various factions by donning that faction's gear while out of sight. You will lose bounties obtained while in disguise if you escape unrecognized.  |
 | Method actor | Pickpocket 60/100 | You are 50/99% less likely to be discovered when disguised.  |
 | Sharp Eye | Sneak 30 | Grants the at-will powers "Spot Detection" which outlines humanoids within 150 feet detecting you for 30 seconds, and "Night Eye" which grants improved night vision for 120 seconds. |
+| [Skill] Sorcerer | Any magic skill 40 | [Skill] spells last 15% longer and are 15% more effective if not wearing armor. |
 
 
 | Modified perk  | Skill | Description |
@@ -60,5 +61,6 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Merciless Storm | Speech 80 | Grants the "Merciless Storm" power. At will, spend stamina equal to 5 times your current shout cooldown to cancel it, allowing you to shout again immediately afterwards. |
 | Dovahzulaan | Speech 100 | For 20 seconds after using Merciless Storm, any shout you use also carries the previous shout. |
 | Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
+
 
 
