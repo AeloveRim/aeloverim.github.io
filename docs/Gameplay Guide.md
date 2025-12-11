@@ -224,6 +224,8 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 ## Gameplay advice
 - The recommended difficulty for this list is Adept. The mods will provide plenty of difficulty on their own.
 
+- Buying a horse is probably one of the best purchases you can make in the early to mid-game, when teleportation and fast travel are not easily attainable yet. Not only will it make travel faster, it can also carry tons of luggage. Just by letting you sell a lot more stuff, the horse will pay for itself in no time.
+
 - When training, be on the lookout for experience modifiers. For example, having read skill books will grant you experience modifiers that make your training more effective. However, training while exhausted will make your training less effective. If you are careless, you might not get a full skill level out of it.
 
 - You can open a container normally instead of using Quickloot by keeping the interact button pressed for a second or two.
@@ -257,6 +259,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
