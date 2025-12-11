@@ -51,16 +51,14 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Pickpocket Mastery | Pickpocket 20/40 | Adds 20/40% to your pickpocket chance and increases carry weight by 50/100 points. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. | 
 | Thief's eye  | Pickpocket 30 | Now can occur every 12-24h. |
 | Lawless World  | Pickpocket 30 | Petty crimes are slowly forgotten, allowing your bounties for non-violent crimes to decay at a rate of 20% of your Pickpocket skill level each hour. |
+| Smithing Mastery | Smithing 20/40 | You can create Novice (Steel/Bonemold) items at a forge or anvil, and improve them twice as much. All items can be improved 5%/15% more. |
+| [Material] Smithing | Smithing (varies) | [Material] smithing Can create [Material] armor and weapons at forges, and improve them twice as much. [Material] equipment you wield is 5% more effective. |
 | Irresistible Dance | Speech 50 | Prerequisite is now Speech 50 instead of 30. |
 | Golden Fiddle | Speech 80 | Prerequisite is now Speech 80 instead of 40. |
 | Encore | Speech 60 | Prerequisite is now Speech 60 instead of 40. |
 | Lord of the dance | Speech 100 | Prerequisite is now Speech 100 instead of 90. |
+| Merciless Storm | Speech 80 | Grants the "Merciless Storm" power. At will, spend stamina equal to 5 times your current shout cooldown to cancel it, allowing you to shout again immediately afterwards. |
+| Dovahzulaan | Speech 100 | For 20 seconds after using Merciless Storm, any shout you use also carries the previous shout. |
 | Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
-
-
-
-
-
-
 
 
