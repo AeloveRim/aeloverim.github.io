@@ -5,6 +5,22 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V1.81
+- Added Craftable Torches
+- Updated Interactive Activators VR to v1.1.4
+- Updated HIGGS to v1.10.8.1
+- Some enemies now use throwing daggers with a custom mod using assets from Throwing Weapons Lite SE
+- Fixed an incompatibility between M'rissi and the NFF tokens during her quest
+- Fixed some shouts from Dragonborn not being called by the Dragonborn Speaks Naturally Aelove preset
+- Switched some of the Smithing perks from Ordinator to vanilla versions for compatibility reasons
+- Boosted the Smithing craft/temper perks a little
+- Merciless Storm Speech perk has been boosted from a 1/day power to at-will but costing stamina
+- Dovahzulaan Speech perk now only lasts 20 seconds
+- Replaced the Sorcerer's robes Alteration perk with a Sorcerer perk in each school
+- Reduced the requirement for the first level of the Ocato's Recital perk to 30 Alteration
+- Perk-granted minions from Bone Collector, Speak with Animals and Hotwire perks no longer constantly teleport to you
+- Added a Call Minions power granted when purchasing one of the above perks which temporarily activates the teleportation function
+
 ## Tahrovin Grit V1.80
 - Added Interactive Activators VR
 - Added Legacy of the Dragonborn - Rebalanced
@@ -484,6 +500,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
