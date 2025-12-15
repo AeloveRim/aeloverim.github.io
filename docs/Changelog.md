@@ -5,6 +5,10 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V1.83
+- Added No combat or riding save
+- Fixed some vampire eyes not displaying properly
+
 ## Tahrovin Grit V1.82
 - Fixed MO2 selecting an unavailable profile on first launch
 
@@ -503,6 +507,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
