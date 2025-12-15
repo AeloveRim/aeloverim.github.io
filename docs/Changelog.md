@@ -5,6 +5,9 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V1.82
+- Fixed MO2 selecting an unavailable profile on first launch
+
 ## Tahrovin Grit V1.81
 - Added Craftable Torches
 - Updated Interactive Activators VR to v1.1.4
@@ -500,6 +503,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
