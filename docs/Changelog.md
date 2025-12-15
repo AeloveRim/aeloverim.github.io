@@ -5,6 +5,9 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V1.84
+- Updated No combat or riding save to v1.01
+ 
 ## Tahrovin Grit V1.83
 - Added No combat or riding save
 - Fixed some vampire eyes not displaying properly
@@ -507,6 +510,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
