@@ -157,7 +157,7 @@ Before starting, you can make choices in the Optional sections of the list, colo
 - Quickloot VR : Adds a looting menu similar to the one present in FO4
 - NPC Underwear Distribution : Adds underwear to bodies when you loot them
 - Dragonborn speaks naturally : Grants the ability to use voice commands to do things such as equip spells and items, shout, or select dialogue options. Requires Windows speech recognition.
-- Occlusion FPS Boost : Should give you an FPS boost when outside, at the cost of some rare flickering in specific places (detected on some setups in the Windhelm bridge and on the College's bridge)
+- Occlusion FPS Boost : Should give you an FPS boost when outside, at the cost of some flickering. With some computers it's just very rare flickering in a few specific places, but for some it's a lot more.
 -  Daedric Bitchs : Optional followers 
 -  Strafing Nerf : Reduces your speed when going backwards or strafing to the side, making it a bit harder to avoid attacks and run circles around your enemies
 -  Subtitles VR : Allows you to have multiple subtitles displayed at once. Can get a bit janky, but useful when you have a lot of followers.
@@ -216,6 +216,7 @@ For Tahrovin Grit, updates that change only the last digit of the version number
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
