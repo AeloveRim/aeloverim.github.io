@@ -207,7 +207,7 @@ Besides that, a few quests have been added : [Amorous Adventures](https://www.lo
 [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is the Vampire overhaul. [Nightmare Night](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is the werewolf overhaul.
 They have both been tweaked in various ways. Vampire's Shroud lasts much longer, and the stat regeneration penalty in sunlight has been decreased from 1000% to 100%, so having extra stat regeneration bonuses will allow you to still regenerate a little bit in sunlight. However, the Champion of the Night, Unnatural Strength and Nightstalker's footsteps abilities have a lower magnitude, and the Vampire's Seduction power now only works against targets who are not currently in combat.
 
-For werewolves, Bestial Strength and Inhuman Strength have been nerfed, and Nightmare's Requiem now has a time limit. Werewolves can no longer ragdoll people by power attacking, but they get the ability to pick up and throw people once they are down to half their health.
+For werewolves, Bestial Strength and Inhuman Strength have been nerfed, and Nightmare's Requiem now has a time limit. Werewolves can no longer ragdoll people by power attacking, but they get the ability to pick up and throw most NPCs once they have been brought down to at least half their health.
 
 Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or drinking potions of Viscera) and Werewolf perks (acquired by killing people as a werewolf) are now limited in that you cannot have more of them than your character level.
 
@@ -259,6 +259,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
