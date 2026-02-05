@@ -51,6 +51,7 @@ nav_order: 8
 - You now need the Armor Padding/Layered Plates Smithing perks to temper your armor padding/plates
 - Added Power Glyph perk to Enchanting
 - Added Desirable perk to Speech
+- Preserver enchanting perk now also grants a Fill Soulgem spell
 - The Rift Summoner conjuration perks now work properly on summoned undead
 - Removed the Reap and Sow Perks. Most of its effects are now part of the regular Bone Collector perk
 - Removed the Fire Ritual perk
@@ -62,6 +63,7 @@ nav_order: 8
 - Shadow Step spell is now Conjuration
 - Abyssal Shadow Step spell is now Conjuration and Expert
 - Shroud spell is now called Astral Form and you no longer regenerate magicka while under its effects
+- Removed the Dispel Magic Illusion spell from the Spellforge
 - Removed the Blood for Blood illusion spell from the Spellforge
 - Dremora Mentors (Expert Conjuration spell) can now actually train you properly
 - Become ethereal shout has longer cooldown
@@ -578,6 +580,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
