@@ -5,6 +5,74 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V1.90
+- Added a tweaked version of Fire and Blood
+- Added a tweaked version of Simple Player Prostitution
+- Added Dragonactorscript infinite loop fix
+- Added VR Climbing - Aelove Ver to Optionals
+- Added Open Composite XR with Working Keyboard for VR
+- Added Indecent Exposure
+- Added Super fast get up animations
+- Added Why I came to skyrim
+- Added Missives Quest Expansion
+- Added Infiltration - Quest Expansion to the main profiles
+- Added Finding Helgi and Laelette - A Laid to Rest Overhaul to the main profiles
+- Added Sleepwalking into a Nightmare to the main profiles
+- Added The Devil's in the Details to the main profiles
+- Added The Frozen Heart to the extra quests profile
+- Added Bjorn to the extra quests profile
+- Added Olenveld Tweaks and Fixes to the extra quests profile
+- Added Miasma to the extra quests profile
+- Added Voyage to the Dreamborne Isles to the extra quests profile
+- Added some custom Umbra Tweaks to the extra quests profile
+- Updated Interactive Activators VR to v1.1.5
+- Updated Val Serano to v2.4.3
+- Updated The Devil's in the Details to 1.0.7
+- Updated Redcap to v1.4.20
+- Updated DynDOLOD TexGen Fixes to v2.4
+- Updated End Times to v2.5
+- Updated End Times Tweaks to v1.1
+- Updated Caught Red Handed quest extension to v1.07
+- Updated Ostim Standalone to v7.3.5b
+- Removed Daedric Bitch
+- Removed Dragon Combat Overhaul
+- Removed Dodgeable Dragon Shouts
+- Disabled videos in Skyrim on Skooma
+- Switched some statues to Stunning Statues of Skyrim
+- Switched Realistic Grass from All Green to regular
+- Increased grass distance a bit on non-performance profiles
+- Distributed custom outfits to a bunch of NPCs for variety
+- Changed weather values so nights should be a bit less dark
+- Added 1/day fast travel power through the Arcane Research manual. Unlocking costs 3 dragon souls
+- Second skill mastery perk now unlocks ability to train 1/day without trainer
+- Daedric/aedric artifact weapons and staves now use 95% less charge
+- Romance is harder when npcs have a lot more levels than you
+- NPCs will no longer follow forever through Romance prompts
+- You now need the Armor Padding/Layered Plates Smithing perks to temper your armor padding/plates
+- Added Power Glyph perk to Enchanting
+- Added Desirable perk to Speech
+- The Rift Summoner conjuration perks now work properly on summoned undead
+- Removed the Reap and Sow Perks. Most of its effects are now part of the regular Bone Collector perk
+- Removed the Fire Ritual perk
+- The Bone Collector perk now also grants a Halt Skeletons power
+- Barrow Lord perk no longer grants the Make Way for your Lord power. It now grants 30% damage reduction
+- Lowered prerequisites for the Puppet Master perk to 70 Conjuration
+- Added new spells : Hamper Sight and Bound Throwing Knife
+- Milestone spell is now Conjuration
+- Shadow Step spell is now Conjuration
+- Abyssal Shadow Step spell is now Conjuration and Expert
+- Shroud spell is now called Astral Form and you no longer regenerate magicka while under its effects
+- Removed the Blood for Blood illusion spell from the Spellforge
+- Dremora Mentors (Expert Conjuration spell) can now actually train you properly
+- Become ethereal shout has longer cooldown
+- Fixed piercings being enchantable and added their recipes to the tahrovin lingerie book
+- Fixed compatibility bug between Hand Placed Enemies and Shadows of Skyrim
+- Optimized some shadow of skyrim scripts' performance
+- Increased scale of DLAA foveated upscaling
+- Griffin ingredients are now valid Spellforge reagents
+- Fixed some sequence-breaking if you absorb a dragon soul after finishing Bleak falls barrow but before finishing Dragon rising
+- Fixed Sexlab sometimes detecting the wrong gender during animations for debuff purposes
+
 ## Tahrovin Grit V1.84
 - Updated No combat or riding save to v1.01
  
@@ -510,6 +578,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
