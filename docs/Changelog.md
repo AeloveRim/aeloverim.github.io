@@ -58,7 +58,7 @@ nav_order: 8
 - The Bone Collector perk now also grants a Halt Skeletons power
 - Barrow Lord perk no longer grants the Make Way for your Lord power. It now grants 30% damage reduction
 - Lowered prerequisites for the Puppet Master perk to 70 Conjuration
-- Added new spells : Hamper Sight, Bound Throwing Knife and Conjure Fire
+- Added new spells : Hamper Sight, Distraction, Bound Throwing Knife and Conjure Fire
 - Milestone spell is now Conjuration
 - Shadow Step spell is now Conjuration
 - Abyssal Shadow Step spell is now Conjuration and Expert
@@ -67,6 +67,7 @@ nav_order: 8
 - Removed the Blood for Blood illusion spell from the Spellforge
 - Dremora Mentors (Expert Conjuration spell) can now actually train you properly
 - Become ethereal shout has longer cooldown
+- Throw voice now blinds distracted enemies with its second and third words
 - Fixed piercings being enchantable and added their recipes to the tahrovin lingerie book
 - Fixed compatibility bug between Hand Placed Enemies and Shadows of Skyrim
 - Optimized some shadow of skyrim scripts' performance
@@ -580,6 +581,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
