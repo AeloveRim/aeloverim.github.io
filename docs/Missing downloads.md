@@ -9,7 +9,7 @@ nav_order: 9
 
 The latest versions of wabbajack have trouble downloading mods from Loverslab. If you're getting messages about missing downloads after the installation ends, that's probably why. If so, you should download the following mods into your wabbajack download folder before starting the installer : 
 
-Loverslab mods : [https://rentry.co/x8e3vi5w](https://rentry.co/x8e3vi5w)
+Loverslab mods : [https://rentry.co/3mc8mfi4](https://rentry.co/3mc8mfi4)
 
 Make sure you download the versions indicated. If the link contains an "AND", download **both** versions indicated.
 
