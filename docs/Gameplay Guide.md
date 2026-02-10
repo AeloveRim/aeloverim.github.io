@@ -63,7 +63,7 @@ As long as there is penetration, you will still receive the bonuses from CBPC VR
 Be careful when starting scenes in public. Guards don't like it when you walk around naked, and that includes having sex in public. Chilldren will also report you.
 
 ## Player Prostitution
-You can attempt prostitution by talking with people while wearing a wench outfit or any of the body slot outfits that can be crafted while holding the Tahrovin Lingerie Book. The chance of people being willing to pay for your services depends mainly on your Speech skills, but also various other factors. 
+You can attempt prostitution by talking with people while wearing a wench outfit or any of the body slot outfits that can be crafted while holding the Tahrovin Lingerie Book. The chance of people being willing to pay for your services depends mainly on your Speech skills, but also various other factors. The Desirable Speech perk will also make things much easier.
 
 The gold you earn will also depend on your Speech skill. However, you will also receive more gold for your work when performing at an inn with the innkeeper's permission, which requires buying a room first. Performing outside, or performing at an inn without asking for permission first, will result in less gold.
 
@@ -268,6 +268,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
