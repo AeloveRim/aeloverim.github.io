@@ -161,6 +161,7 @@ Before starting, you can make choices in the Optional sections of the list, colo
 -  Daedric Bitchs : Optional followers 
 -  Strafing Nerf : Reduces your speed when going backwards or strafing to the side, making it a bit harder to avoid attacks and run circles around your enemies
 -  Subtitles VR : Allows you to have multiple subtitles displayed at once. Can get a bit janky, but useful when you have a lot of followers.
+- VR Climbing : Will allow you to climb walls, mountains and other obstacles. By default, you must have at least 70 stamina available to climb. Be careful, getting into places you're not supposed to can break some quests !
 - Shadow of Skyrim - SL on defeat : Defeat system. Starts a sexlab scene whenever you are defeated by an enemy. It is integrated into the Shadow of Skyrim Nemesis system, but there's no configuration available to customize it. **Disable this if you don't want to get a forced sex scene on defeat.**
 - Yamete Redux : Alternative defeat system. It will require manual MCM configuration and is known to be finnicky.
 - CBPC VRSex - Sexlab Solutions Override : Will use the CBPC VRSex system instead of Sexlab to handle any sex interactions started by the Sexlab Solutions mod between the player and a female NPC, as long as the player is not in a victim context.
@@ -216,6 +217,7 @@ For Tahrovin Grit, updates that change only the last digit of the version number
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
