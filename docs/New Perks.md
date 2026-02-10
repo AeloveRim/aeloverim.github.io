@@ -13,6 +13,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Light weapon throw | One-handed 40 | You can throw any one-handed weapon, dealing 120% of their regular melee damage. They will return to your hand automatically. |
 | Heavy weapon throw | Two-handed 40 | You can throw any two-handed weapon, dealing 120% of their regular melee damage. They will return to your hand automatically. |
 | Whirlwind shield | Block 40/70 | Power attack or Bash to create a whirlwind, reducing strike and arrow damage by 40/80% and negating spells for 2s. Getting hit within the first 0.4s will stagger the attacker. |
+| Power Glyphs | Enchanting 40 | You may create Power Glyphs at a Smellter. They count as clothing and can be enchanted but do not use an existing armor slot. When using the Gem Dust perk, any type of gem will work on Power Glyphs. |
 | Mighty grip | Heavy Armor 20/60/100 | Grabbing a character under 60/140/250 Health while your weapons are unsheathed will ragdoll them. |
 | Antimagic shell | Heavy Armor 20/50/80 | If wearing all Heavy Armor, increases Magic Resistance by 10/20/30%. |
 | Steel fist | Heavy Armor 20 | Increases unarmed damage by 5% of your current Stamina when using unarmed attacks in combat while wearing heavy gauntlets. Requires two free hands. |
@@ -23,6 +24,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Marathon runner | Light armor 40 | Sprinting doesn't cost any stamina when outside of combat if not wearing Heavy Armor. |
 | Foe flinger | Light armor 60 | You may throw others by yanking with only one hand. |
 | Leadership | Speech 20/40 | One/Two of your followers does not count towards XP penalties for having multiple followers. |
+| Desirable | Speech 20 | Romance and Prostitution attempts are 30% more likely to succeed. |
 | Dragon tongue | Speech 20 | Learn a random word of power and gain 1 dragon soul. For every 20 points in your Speech skill, you will obtain one more dragon soul and unlock one more random word of power. |
 | Time to Duel | Speech 20 | Once every 24 ingame hours, when you start a Triple Triad duel, your opponent will have stronger cards but also more gold to bet depending on his cards' strength. |
 | Screw the rules | Speech 40 | At the beginning of a Triple Triad match, if you dislike the rules being used, you may choose to randomize them. |
@@ -41,9 +43,13 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Adrenaline  | Alchemy 80 | Now increases movement speed by 15% instead of 10% |
 | Intuitive magic | Alteration 50/80 | Now only works with spells of schools for which you have a mastery perk |
 | Block mastery  | Block 20/40 | Now also restores 10/20 stamina on a successful weapon parry (not shield block) |
+| Bone Collector  | Conjuration 20 | Now also grants a Halt Skeletons power and includes part of the former Reap and Sow perk  |
+| Barrow Lord  | Conjuration 40 | No longer grants the Make Way for your Lord power (Replaced by Halt Skeletons). It now grants 30% damage reduction |
+| Puppet Master  | Conjuration 70 | Lowered prerequisite to 70 |
 | Soul siphon  | Enchanting 20 | Now traps 15% of the victim's soul instead of 5% and works on all killing blows |
 | Enchanting mastery  | Enchanting 20/40 | Enchantments are 25/50% stronger instead of 20/40% |  
 | Staff recharge  | Enchanting 40/70 | Prerequisite lowered to 40, added a second level at enchanting 70 that recharges 20 points per second |
+| Preserver  | Enchanting 40 | Lowered prereq to 40. Learning an item's enchantment does not destroy it. Grants the ability to fill a soulgem by reducing your magicka by 10 points per level of the soulgem for a day. |  
 | Iron Fist  | Light Armor 20 | Doesn't work while wearing heavy gauntlets |
 | As a leaf  | Light Armor 30/70 | Movement speed increased by 10/20% when not wearing Heavy Armor. Also unlocks double jump. |
 | Windrunner  | Light Armor 50 | Now increases movement speed by 15% instead of 10% |
@@ -61,6 +67,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Merciless Storm | Speech 80 | Grants the "Merciless Storm" power. At will, spend stamina equal to 5 times your current shout cooldown to cancel it, allowing you to shout again immediately afterwards. |
 | Dovahzulaan | Speech 100 | For 20 seconds after using Merciless Storm, any shout you use also carries the previous shout. |
 | Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
+
 
 
 
