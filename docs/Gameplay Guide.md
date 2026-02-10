@@ -24,6 +24,8 @@ The training system offered by Sera the Trainer is available throughout all of S
 
 Sera the Trainer charges less gold for her training than most other trainers in Skyrim. Don't skip out on the opportunity to raise some of your skills here, but consider keeping at least a little bit of gold for later.
 
+Eventually, once you unlock the second mastery perk for a skill, you will be able to train yourself in a limited fashion using this system with the Self-Improvement power - costing no gold but slightly more TP and only usable once a day. However, that is a long way off.
+
 The Realm of Lorkhan will also allow you to select Handicaps that will further define your character if you wish. Each Handicapped skill permanently grows roughly half as fast as a regular skill, but also grants you 2 specialization points, up to a maximum of 12. You may spend these specialization points to receive various bonuses. Prices are as follows : 
 - +1 perk point : 5 Specialization Point
 - +5 attribute points (Health, Stamina or Magicka) : 1 Specialization Point
@@ -164,6 +166,8 @@ If you have enough firewood in your inventory, you can use it by selecting it in
 
 Fast travel is disabled, but can still be employed through one-shot scrolls of Rapid Transportation, available at general vendors, court wizards, and generally any merchant that would sell soulgems. These scrolls can also be crafted by converting common soulgems at a Tanning Rack. Using this method regularly can be expensive until late game though - until then, there are now more carriage routes available thanks to [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379). 
 
+You can also eventually unlock the ability to Fast Travel once per day by using 3 dragon souls. Simply research Draconic Transportation in the Arcane Research Manual in your inventory.
+
 Consider buying a horse when able. A horse will also be useful to carry more things : Thanks to [Horse Storage](https://www.nexusmods.com/skyrimspecialedition/mods/3838) you can access your horse's inventory by sneaking while activating them. You can also call your horse at any time while you are outside with the [Call your Horse](https://www.nexusmods.com/skyrimspecialedition/mods/49595) power.
 
 Animals will drop a little bit more loot, and their pelts are now a bit more valuable. It will not necessarily always be better to turn it all into leather. 
@@ -264,6 +268,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
