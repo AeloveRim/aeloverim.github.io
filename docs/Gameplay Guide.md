@@ -53,10 +53,17 @@ The third option, Molag Bal's Subjugation, is easier to use than both Incubus Ar
 Sexlab scenes are used in this list mostly in three situations : You are defeated by an enemy, you use Sexlab Enchantress spells, or you start a scene from Sexlab Solutions.
 Sexlab scenes can be directed through gestures, similarly to vrik gestures, though if nothing is done they will complete automatically.
 
-Ostim scenes are started by most of the other mods, such as the Romance mod, the follower mods or Amorous Adventures. 
+Ostim scenes are started by most of the other mods, such as the Romance mod, the follower mods, Simple Player Prostitution or Amorous Adventures. 
 Ostim scenes can be directed by using the Spell Wheel.
 
 As long as there is penetration, you will still receive the bonuses from CBPC VRSex during Sexlab or Ostim scenes.
+
+Be careful when starting scenes in public. Guards don't like it when you walk around naked, and that includes having sex in public. Chilldren will also report you.
+
+## Player Prostitution
+You can attempt prostitution by talking with people while wearing a wench outfit or any of the body slot outfits that can be crafted while holding the Tahrovin Lingerie Book. The chance of people being willing to pay for your services depends mainly on your Speech skills, but also various other factors. 
+
+The gold you earn will also depend on your Speech skill. However, you will also receive more gold for your work when performing at an inn with the innkeeper's permission, which requires buying a room first. Performing outside, or performing at an inn without asking for permission first, will result in less gold.
 
 ## Playing a mage
 Being able to use magic is not a given in Tahrovin Grit and will require an investment. Your magicka regeneration in combat is faster, but your starting magicka is only 50 and you do not start with any spells (other than the various debug spells) unless you are one of the races granted a bonus spell (Breton, Dunmer, Altmer). Furthermore, you will find that spell books are prohibitively expensive for a starting character. You will still find spell books in the world as usual, but it may be tempting to sell them instead of learning the spell they contain.
@@ -172,7 +179,7 @@ New random overworld encounters have been added through [Extended Encounters](ht
 
 New enemy creatures will roam the land : [Imps](https://www.nexusmods.com/skyrimspecialedition/mods/33759), [Lesser Griffins](https://www.nexusmods.com/skyrimspecialedition/mods/50869), [Draugr Cavalry](https://www.nexusmods.com/skyrimspecialedition/mods/27241), [Will-o-the-wisp](https://www.nexusmods.com/skyrimspecialedition/mods/88987).
 
-[Dragon Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56082) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from the Dragonborn.
+[Fire and Blood]([https://www.nexusmods.com/skyrimspecialedition/mods/56082](https://www.nexusmods.com/skyrimspecialedition/mods/156018)) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from the Dragonborn.
 
 ## Death
 [Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136) means death is not the end. Upon defeat, you will generally be assaulted by the victor in a Sexlab Scene. In most cases they will become your Nemesis and grow in power. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or one or more permanent points of health (depending on your level) if you don't have the soul either (note that you will be able to regain permanent health points through CBPC VRSex). You will also receive a situational or random debuff and lose some experience.
@@ -245,11 +252,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 
 - NPC Mages can be tricky opponents, especially at low level. Keep in mind that, thanks to [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), you can often stagger mages by power-attacking them while they are casting a spell. Once you've staggered them once, there'll be a period where you won't be able to stagger them again. You can also parry most projectiles - including projectile spells - with your weapon or shield. Holding trigger will make the projectiles slightly slower as they approach at the cost of a little magicka, helping you parry. Of course, this doesn't work on area spells.
 
-- Before you attempt to take down a dragon, make sure you have a good ranged attack. Dragons will absolutely murder you in melee unless you block, parry, or ward against every one of their melee attacks, including when they land on you. Even if you can survive a dragon in close quarters, they will not simply stand by while you hack at them.
-
-- Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can block dragon breath with even the weakest ward. A warrior could block it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
-
-- Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
+- Before you attempt to take down a dragon, make sure you have a good ranged attack. Dragons will absolutely murder you in melee unless you block, parry, or ward against their melee attacks. Make sure to read the book on fighting dragons available in the Realm of Lorkhan and in Farengar's study.
 
 ## The Extra Quests Profile
 When I play Skyrim, I usually like to load it up with a bunch of quests I haven't played before. When my playthrough is done, I'll remove the ones I stumbled upon and add a bunch of new ones for the next playthrough.
@@ -259,6 +262,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
