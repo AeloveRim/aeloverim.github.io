@@ -60,8 +60,9 @@ Ostim scenes can be directed by using the Spell Wheel.
 
 As long as there is penetration, you will still receive the bonuses from CBPC VRSex during Sexlab or Ostim scenes.
 
-There are a few things to be careful of when starting a scene : Try not to do it in public - guards don't like it when you walk around naked, and that includes having sex in public. Chilldren will also report you.
-Finally, there is a tiny chance you will receive an STD after a scene (1% normally, but 5% if doing player prostitution). STDs are diseases that require a slightly modified cure disease potion to cure. As long as you take care of them early they should be relatively benign, but they can get worse if you keep going at it untreated.
+Try not to start scenes in public - guards don't like it when you walk around naked, and that includes having sex in public. Chilldren will also report you.
+
+Also, depending on the circumstances of the scene, there may be a tiny chance you will receive an STD. STDs are diseases that require a slightly modified cure disease potion to cure. As long as you take care of them early they should be relatively benign, but they can get worse if you keep going at it untreated.
 
 ## Player Prostitution
 You can attempt prostitution by talking with people while wearing a wench outfit or any of the body slot outfits that can be crafted while holding the Tahrovin Lingerie Book. The chance of people being willing to pay for your services depends mainly on your Speech skills, but also various other factors. The Desirable Speech perk will also make things much easier.
@@ -269,6 +270,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
