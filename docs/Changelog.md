@@ -58,7 +58,7 @@ nav_order: 8
 - The Bone Collector perk now also grants a Halt Skeletons power
 - Barrow Lord perk no longer grants the Make Way for your Lord power. It now grants 30% damage reduction
 - Lowered prerequisites for the Puppet Master perk to 70 Conjuration
-- Added new spells : Hamper Sight, Distraction, Bound Throwing Knife and Conjure Fire
+- Added new spells : Hamper Sight, Psychic Lure, Bound Throwing Knife and Conjure Fire
 - Milestone spell is now Conjuration
 - Shadow Step spell is now Conjuration
 - Abyssal Shadow Step spell is now Conjuration and Expert
@@ -581,6 +581,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
