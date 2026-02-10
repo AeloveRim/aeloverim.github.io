@@ -233,7 +233,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 - [Quickloot VR](https://www.nexusmods.com/skyrimspecialedition/mods/102094) reduces the amount of menus
 - [Reading is good](https://www.nexusmods.com/skyrimspecialedition/mods/42026) means you no longer need to hold on to these skill books forever
 - [Voiced books of skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/94436) means you can pop an audiobook while traveling.
-- [Onyx Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/36227) replaces the weather mod, with much brighter nights.
+- [Real VR Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/71161) has been tweaked a bit for brighter nights.
 - [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748) adds mysterious stones for you to hunt down throughout skyrim. Every 3 shards absorbed will grant an experience reward - small at first, but which will get larger every time. Every 15 shards absorbed will grant an extra perk.
 
 ## Gameplay advice
@@ -270,6 +270,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
