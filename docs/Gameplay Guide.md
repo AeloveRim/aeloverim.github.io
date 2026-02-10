@@ -18,13 +18,11 @@ When you first start a new game, depending on your choice of optional mods, you 
 
 The Realm of Lorkhan mod allows you to craft your character. You may pick a shrine and standing stone bonus to start with. Make sure to speak with Sera the Trainer to increase your starting skills as you wish. If you don't get a training dialog when talking to her, make sure you followed my earlier instructions by **saving your game, going back to the main menu then reloading.**
 
-The training system offered by Sera the Trainer is available throughout all of Skyrim. Most NPCs will offer you training in a few skills they are skilled in. To train, you will need gold and Training Points (TP) which you will gain at each level up. This is the main way to increase your skills, as regular skill leveling has been drastically slowed down. You can check your available TP at any time through the Training Potential power. The gold required to train will change depending on factors such as your skill level, your trainer's skill level and your relationship with the trainer (friends charge less).
+The training system offered by Sera the Trainer is available throughout all of Skyrim. Most NPCs will offer you training in a few skills they are skilled in. To train, you will need gold and Training Points (TP) which you will gain at each level up. This is the main way to increase your skills, as regular skill leveling has been drastically slowed down. You can check your available TP at any time through the Training Potential power. The gold required to train will change depending on factors such as your skill level, your trainer's skill level and your relationship with the trainer (friends charge less). 
 
 ![SeraTrainer](../img/TrainerSera.jpeg)
 
 Sera the Trainer charges less gold for her training than most other trainers in Skyrim. Don't skip out on the opportunity to raise some of your skills here, but consider keeping at least a little bit of gold for later.
-
-Eventually, once you unlock the second mastery perk for a skill, you will be able to train yourself in a limited fashion using this system with the Self-Improvement power - costing no gold but slightly more TP and only usable once a day. However, that is a long way off.
 
 The Realm of Lorkhan will also allow you to select Handicaps that will further define your character if you wish. Each Handicapped skill permanently grows roughly half as fast as a regular skill, but also grants you 2 specialization points, up to a maximum of 12. You may spend these specialization points to receive various bonuses. Prices are as follows : 
 - +1 perk point : 5 Specialization Point
@@ -134,6 +132,8 @@ Some of the perk changes from the usual [Vokriinator](https://www.nexusmods.com/
 Instead of increasing your level by raising your skills, the [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) mod lets you increase your level as you adventure, exploring Skyrim and accomplishing quests. The leveling curve has been modified to provide a slower-paced experience.
 
 Levels and skills have not been decoupled however. As explained earlier, you will be able to train your skills as you wish each level thanks to [Trainers Galore](https://www.nexusmods.com/skyrimspecialedition/mods/20360) and its [Training Points](https://www.nexusmods.com/skyrimspecialedition/mods/103092) addon. Almost every NPC can now train you in a few skills as long as you have the gold and the Training Points. Note that any buffs or penalties you may receive to experience gain will also apply to training. It is also important to note that improving your relationship with a trainer will make the gold cost of training cheaper, but that more skilled trainers will charge more.
+
+Eventually, you will also be able to use the Self-Improvement power to train yourself. This can only be done once per day, requires both mastery perks for the skill to be unlocked, costs 1 more TP but costs no gold.
 
 Skyrim's regular skill leveling is not gone, but is now much slower. Your skills start at 5. You may be able to progress through the lower levels of skill entirely on your own, but you will have a hard time going further without seeking training.
 
@@ -268,6 +268,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
