@@ -34,6 +34,8 @@ The Realm of Lorkhan will also allow you to select Handicaps that will further d
 
 A Handicap is a very severe penalty, so make sure to only use them with skills you don't intend to use much or at all.
 
+Finally, you can use the Book of Origins to determine a goal for your character. If you do so, you will receive a penalty until that goal is accomplished and, once it is done, a reward commensurate to the difficulty of the task.
+
 Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. Make your choices wisely though - once you leave, you cannot return.
 
 ## CBPC VRSex
@@ -208,7 +210,7 @@ The main quest has been delayed so that after completing Bleak Falls Barrow you 
 
 Delaying the main quest doesn't mean Alduin will stay put forever either. After 90 days, if you haven't finished the main quest, Alduin will come seeking to destroy you. This will be an easier fight than the actual, full-powered Alduin you will have to fight in the main quest, but you should still make sure you have grown strong enough to fend him off. Once you do, you will have 20 more days before he seeks you out again. Take care and don't slack off on your training : every time he comes back, Alduin will be even more powerful !
 
-Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584), [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634), [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405), [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/141327), [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748), [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494), [Hel Rising](https://www.loverslab.com/topic/173622-hel-rising-norse-dungeon-quest-and-follower-mod-se), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
+Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584), [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634), [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405), [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/141327), [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748), [Sleepwalking into a nightmare](https://www.nexusmods.com/skyrimspecialedition/mods/141047), [The Devil's in the Details](https://www.nexusmods.com/skyrimspecialedition/mods/146620), [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494), [Hel Rising](https://www.loverslab.com/topic/173622-hel-rising-norse-dungeon-quest-and-follower-mod-se), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
 
 ## Vampires and Werewolves
 [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is the Vampire overhaul. [Nightmare Night](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is the werewolf overhaul.
@@ -262,6 +264,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
