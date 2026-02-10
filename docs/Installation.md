@@ -158,7 +158,6 @@ Before starting, you can make choices in the Optional sections of the list, colo
 - NPC Underwear Distribution : Adds underwear to bodies when you loot them
 - Dragonborn speaks naturally : Grants the ability to use voice commands to do things such as equip spells and items, shout, or select dialogue options. Requires Windows speech recognition.
 - Occlusion FPS Boost : Should give you an FPS boost when outside, at the cost of some flickering. With some computers it's just very rare flickering in a few specific places, but for some it's a lot more.
--  Daedric Bitchs : Optional followers 
 -  Strafing Nerf : Reduces your speed when going backwards or strafing to the side, making it a bit harder to avoid attacks and run circles around your enemies
 -  Subtitles VR : Allows you to have multiple subtitles displayed at once. Can get a bit janky, but useful when you have a lot of followers.
 - VR Climbing : Will allow you to climb walls, mountains and other obstacles. By default, you must have at least 70 stamina available to climb. Be careful, getting into places you're not supposed to can break some quests !
@@ -217,6 +216,7 @@ For Tahrovin Grit, updates that change only the last digit of the version number
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
