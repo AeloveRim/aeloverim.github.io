@@ -34,7 +34,7 @@ The Realm of Lorkhan will also allow you to select Handicaps that will further d
 
 A Handicap is a very severe penalty, so make sure to only use them with skills you don't intend to use much or at all.
 
-Finally, you can use the Book of Origins to determine a goal for your character. If you do so, you will receive a penalty until that goal is accomplished and, once it is done, a reward commensurate to the difficulty of the task.
+Finally, you can use the [Book of Origins](https://www.nexusmods.com/skyrimspecialedition/mods/167166) to determine a goal for your character. If you do so, you will receive a penalty until that goal is accomplished and, once it is done, a reward commensurate to the difficulty of the task.
 
 Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. Make your choices wisely though - once you leave, you cannot return.
 
@@ -270,6 +270,7 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
+
 
 
 
