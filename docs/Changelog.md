@@ -5,6 +5,10 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V1.91
+- Updated Spell Wheel VR to v1.5.9
+- Cure Disease potions should now properly cure the Dismay dragon shout
+
 ## Tahrovin Grit V1.90
 - Added a tweaked version of Fire and Blood
 - Added a tweaked version of Simple Player Prostitution
@@ -581,6 +585,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
