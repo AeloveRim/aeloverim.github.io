@@ -12,9 +12,9 @@ nav_order: 8
 - Added VR Climbing - Aelove Ver to Optionals
 - Added Open Composite XR with Working Keyboard for VR
 - Added Indecent Exposure
-- Added Super fast get up animations
-- Added Why I came to skyrim
-- Added Missives Quest Expansion
+- Added Super Fast Get Up Animation
+- Added Why I Came to Skyrim - Origin Stories
+- Added Missives - Voice and Quest Expansion
 - Added Infiltration - Quest Expansion to the main profiles
 - Added Finding Helgi and Laelette - A Laid to Rest Overhaul to the main profiles
 - Added Sleepwalking into a Nightmare to the main profiles
@@ -581,6 +581,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
