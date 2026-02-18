@@ -5,6 +5,13 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V1.92
+- Made Hamper Sight a hostile spell and fixed its description and spellforge level
+- Adjusted dragon leveled lists
+- Added Isobel and Al'Hassan frpm 3DNPC to Honed Metal crafters
+- Fixed Honed metal algorithm for non-predetermined crafter skill levels
+- Added haptics to VR Climbing config
+
 ## Tahrovin Grit V1.91
 - Updated Spell Wheel VR to v1.5.9
 - Cure Disease potions should now properly cure the Dismay dragon shout
@@ -585,6 +592,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
