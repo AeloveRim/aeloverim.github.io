@@ -6,7 +6,7 @@ nav_order: 8
 
 # Changelog
 ## Tahrovin Grit V1.92
-- Fixed Ralof standing around during Alduin's attack on Helgen
+- Fixed Ralof standing around in the Vanilla Start option
 - Made Hamper Sight a hostile spell and fixed its description and spellforge level
 - Adjusted dragon leveled lists
 - Added Isobel and Al'Hassan from 3DNPC to Honed Metal crafters
@@ -593,6 +593,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
