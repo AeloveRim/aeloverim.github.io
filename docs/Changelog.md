@@ -8,7 +8,7 @@ nav_order: 8
 ## Tahrovin Grit V1.92
 - Made Hamper Sight a hostile spell and fixed its description and spellforge level
 - Adjusted dragon leveled lists
-- Added Isobel and Al'Hassan frpm 3DNPC to Honed Metal crafters
+- Added Isobel and Al'Hassan from 3DNPC to Honed Metal crafters
 - Fixed Honed metal algorithm for non-predetermined crafter skill levels
 - Added haptics to VR Climbing config
 
@@ -592,6 +592,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
