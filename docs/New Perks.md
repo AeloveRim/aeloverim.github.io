@@ -30,7 +30,6 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Screw the rules | Speech 40 | At the beginning of a Triple Triad match, if you dislike the rules being used, you may choose to randomize them. |
 | Shadow Realm | Speech 60 | At will, challenge any humanoid up to 10 levels above your own to a Triple Triad duel. They will have stronger cards than usual. The loser is left on the verge of death and paralyzed for 30 seconds. |
 | Duel the monsters | Speech 80 | You may use the Shadow Realm power on undead, daedra and automatons. |
-| Disguise | Pickpocket 20 | Grants the Disguise power. While enabled, can disguise as a member of various factions by donning that faction's gear while out of sight. You will lose bounties obtained while in disguise if you escape unrecognized.  |
 | Method actor | Pickpocket 60/100 | You are 50/99% less likely to be discovered when disguised.  |
 | Sharp Eye | Sneak 30 | Grants the at-will powers "Spot Detection" which outlines humanoids within 150 feet detecting you for 30 seconds, and "Night Eye" which grants improved night vision for 120 seconds. |
 | [Skill] Sorcerer | Any magic skill 40 | [Skill] spells last 15% longer and are 15% more effective if not wearing armor. |
@@ -60,15 +59,11 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Lawless World  | Pickpocket 30 | Petty crimes are slowly forgotten, allowing your bounties for non-violent crimes to decay at a rate of 20% of your Pickpocket skill level each hour. |
 | Smithing Mastery | Smithing 20/40 | You can create Novice (Steel/Bonemold) items at a forge or anvil, and improve them twice as much. All items can be improved 5%/15% more. |
 | [Material] Smithing | Smithing (varies) | Can create [Material] armor and weapons at forges, and improve them twice as much. [Material] equipment you wield is 5% more effective. |
+| Performer | Speech 20 | How much you get paid now depends on the result of a QTE. Can use once every 15 minutes. |
 | Irresistible Dance | Speech 50 | Prerequisite is now Speech 50 instead of 30. |
 | Golden Fiddle | Speech 80 | Prerequisite is now Speech 80 instead of 40. |
-| Encore | Speech 60 | Prerequisite is now Speech 60 instead of 40. |
+| Encore | Speech 60 | Prerequisite is now Speech 60 instead of 40. Can use once per minute instead of at will. |
 | Lord of the dance | Speech 100 | Prerequisite is now Speech 100 instead of 90. |
 | Merciless Storm | Speech 80 | Grants the "Merciless Storm" power. At will, spend stamina equal to 5 times your current shout cooldown to cancel it, allowing you to shout again immediately afterwards. |
 | Dovahzulaan | Speech 100 | For 20 seconds after using Merciless Storm, any shout you use also carries the previous shout. |
 | Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
-
-
-
-
-
