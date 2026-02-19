@@ -5,6 +5,10 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V1.93
+- Added QTE VR
+- Removed the Disguise Pickpocket perk. Now you get the Disguise power from the start.
+
 ## Tahrovin Grit V1.92
 - Fixed Ralof standing around in the Vanilla Start option
 - Made Hamper Sight a hostile spell and fixed its description and spellforge level
@@ -593,6 +597,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
