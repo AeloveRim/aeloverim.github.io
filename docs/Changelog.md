@@ -6,7 +6,7 @@ nav_order: 8
 
 # Changelog
 ## Tahrovin Grit V1.93
-- Added QTE VR
+- Added QTE VR Framework
 - Removed the Disguise Pickpocket perk. Now you get the Disguise power from the start.
 
 ## Tahrovin Grit V1.92
@@ -597,6 +597,7 @@ nav_order: 8
 
 ## Tahrovin Grit V1.0
 Initial release
+
 
 
 
