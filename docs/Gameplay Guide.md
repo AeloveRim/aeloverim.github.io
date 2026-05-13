@@ -156,6 +156,8 @@ At first, you may not be able to temper your equipment due to the smithing skill
 
 Once you have 15 smithing you will be able to temper clothing as well at the armor table to repair it or extend its durability, using Linen Wraps. **Repairing Enchanted Clothing requires either the Arcane Blacksmith perk, just like with armor or weapons, or an Enchanting skill of at least 50.**
 
+If you would like to repair ypur equipment on the go, you can use repair hammers and whetstones. They can be bought from blacksmiths or crafted at a forge. However, they are less effective than a proper smithing station and can only be used once each unless you have the Smithing Mastery perk.
+
 [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) alters the prices at which items are bought and sold, making it more difficult to make money through trade and making the various gold sinks (training, equipment maintenance, defeat...) more meaningful.
 
 If you're short on gold and lacking leads on how to make more, [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) quests can help you get back on track. Simply check the quest bulletin board that can be found in any major city. If a missive board doesn't give you a list of quests immediately on your first activation, wait a few moments and try again.
