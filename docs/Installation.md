@@ -161,7 +161,8 @@ Before starting, you can make choices in the Optional sections of the list, colo
 -  Strafing Nerf : Reduces your speed when going backwards or strafing to the side, making it a bit harder to avoid attacks and run circles around your enemies
 -  Subtitles VR : Allows you to have multiple subtitles displayed at once. Can get a bit janky, but useful when you have a lot of followers.
 - VR Climbing : Will allow you to climb walls, mountains and other obstacles. By default, you must have at least 70 stamina available to climb. Be careful, getting into places you're not supposed to can break some quests !
-- Shadow of Skyrim - SL on defeat : Defeat system. Starts a sexlab scene whenever you are defeated by an enemy. It is integrated into the Shadow of Skyrim Nemesis system, but there's no configuration available to customize it. **Disable this if you don't want to get a forced sex scene on defeat.**
+- Shadow of Skyrim - SL on defeat - Follower NTR Off : Defeat system. Starts a sexlab scene whenever you are defeated by an enemy. It is integrated into the Shadow of Skyrim Nemesis system, but there's no configuration available to customize it. **Disable this if you don't want to get a forced sex scene on defeat.**
+- Shadow of Skyrim - SL on defeat - Follower NTR On : Same as above, but if you are defeated by an enemy of the same sex and you have a follower of the opposite sex with you, the enemy will start the sexlab scene with your follower instead. The follower will be captured and remain there until you come back to free them (unless they're one of the special followers with summon spells). As a compensation, you will lose slightly less gold from defeat when your follower is captured.
 - Yamete Redux : Alternative defeat system. It will require manual MCM configuration and is known to be finnicky.
 - CBPC VRSex - Sexlab Solutions Override : Will use the CBPC VRSex system instead of Sexlab to handle any sex interactions started by the Sexlab Solutions mod between the player and a female NPC, as long as the player is not in a victim context.
 
@@ -176,10 +177,11 @@ Pick only one of the options given.
 - Fantasy body presets will allow most NPCs to have any body type preset, including those with impressive proportions. Some NPCs will still have presets specifically assigned to them however.
 
 ### Music replacement
-- "Enable Music Replacement" : Disables vanilla music and replaces it with the music from a music replacer compatible with Personal Music Framework. Two such replacers are provided "Emeratu" and "Soulmancer music merge". Pick only one.
-- "Enable Unique Battle Music" : If enabled along with Enable Music Replacement, will give unique music to some bosses. If enabled without Enable Music Replacement, it will also replace regular combat music with different variants depending on the type of enemy.
+- "Enable Custom Music - Without Vanilla Music" : Disables vanilla music and replaces it with the music from a music replacer compatible with Personal Music Framework. Two such replacers are provided "Emeratu" and "Soulmancer music merge". Pick only one.
+- "Enable Custom Music - Alongside Vanilla Music" : Same as above, but vanilla music will play alongside the custom music
+- "Enable Unique Battle Music" : If enabled along with Enable Custom Music, will give unique music to some bosses. If enabled without Enable Custom Music, it will also replace regular combat music with different variants depending on the type of enemy.
 
-Feel free to use any music replacer instead of Emeratu or Soulmancer. As long as it is compatible with Personalized Music or Personal Music Replacer, it should work with no conflicts at all. You only need the music files, not any plugins that may come with them.
+Feel free to use any music replacer instead of Emeratu or Soulmancer. As long as it is compatible with Personalized Music, it should work with no conflicts at all. You only need the music files, not any plugins that may come with them.
 
 # Mod Setup
 
