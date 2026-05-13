@@ -114,6 +114,7 @@ Before you go any further, you should select a profile. The differences are as f
 - Tahrovin Grit CS : Uses Community Shaders. More resource-hungry than the other profiles.
 - Tahrovin Grit Extra Quests : An ENB-based profile with a lot of extra quests that have not necessarily been tested. See [here](Gameplay%20Guide.html#the-extra-quests-profile) for details.
 - Tahrovin Grit Performance: Not as pretty as the other profiles, but takes a lot less resources.
+- Tahrovin Potato Mode : If your computer is really underpowered. Make sure to also follow the [Performance Tips](Performance Tips.md).
 
 ## Community Shaders
 As a note the first time Community Shaders runs it will have to compile shaders, this may take a while and may look like SkyrimVR is frozen, just be patient. This process will also most likely be repeated any time you change mods in the list.
