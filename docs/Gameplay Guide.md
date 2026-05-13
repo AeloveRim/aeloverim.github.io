@@ -177,6 +177,8 @@ Buy or craft a tent at a tanning rack to sleep out in the wild - but be wary of 
 
 If you have enough firewood in your inventory, you can use it by selecting it in your inventory to create campfires and warm yourself up. By setting a tent near trees, you may turn it into a Wood-chopping tent and get some more firewood for your campfire, but make sure you have a Woodcutter's axe to chop the wood !
 
+Once you reach Cold Resistance 70 or above, you no longer need to worry about environmental cold weather and freezing water at all.
+
 Fast travel is disabled, but can still be employed through one-shot scrolls of Rapid Transportation, available at general vendors, court wizards, and generally any merchant that would sell soulgems. These scrolls can also be crafted by converting common soulgems at a Tanning Rack. Using this method regularly can be expensive until late game though - until then, there are now more carriage routes available thanks to [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379). 
 
 You can also eventually unlock the ability to Fast Travel once per day by using 3 dragon souls. Simply research Draconic Transportation in the Arcane Research Manual in your inventory.
