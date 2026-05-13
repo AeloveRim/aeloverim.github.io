@@ -5,6 +5,89 @@ nav_order: 8
 ---
 
 # Changelog
+
+## Tahrovin Grit V1.999
+- Added Personalized Music - Modernized
+- Added Pickpocket Reset VR
+- NPC inventories will also reset a few days after taking their gold through Triple Triad or Bard perks
+- Added Bells of Skyrim
+- Added Bells of Skyrim - Companions join the Battle
+- Added More Dialogue Options
+- Added Don't Stay in The Water
+- Added College of winterhold quest start fixes
+- Added Immersive Dialogue Expansion - Stormcloaks
+- Added Skyrim Town Criers
+- Added Interesting Popups for 3DNPC
+- Added Gods and Worship
+- Added a whole bunch of patches and tweaks for Gods and Worship
+- Added Potato Mode Profile
+- Added Hammer and Whetstone
+- Tweaked Hammer and Whetstone, with smithing perks determining usage value
+- Added Zora Normalized
+- Added Siege at Icemoth to the Extra Quests profile
+- Added They Are Good Guys to the Extra Quests profile
+- Added The Dark and the Light to the Extra Quests profile
+- Tweaked The Dark and the Light to start at level 17 and give some XP
+- Voyage to the Dreamborne Island is properly added to the Extra Quests profile now
+- Added Path to Volkihar to the Extra Quests profile
+- Added Alternate Dawnguard Paths aka Fight Serana to the Extra Quests profile
+- Added a Dawnguard CR patch to the Extra Quests profile
+- Added A Chance Arrangement Plus Plus to the Extra Quests profile
+- Added Speaking with Silence Plus Plus to the Extra Quests profile
+- Added Taking Care of Business Plus Plus to the Extra Quests profile
+- Added Scoundrel's Folly Plus Plus to the Extra Quests profile
+- Added Dampened Spirits Plus Plus to the Extra Quests profile
+- Added Follower NTR option for Shadow of Skyrim SL on defeat
+- Updated the Forsworn Conspiracy Quest Expansion to v1.2
+- Updated VR Address Library for SKSEVR to v2.06
+- Updated Crash Logger VR to v1.20.1
+- Updated Community Shaders to the Unofficial VR Fork
+- Updated Skylighting to v1.2.3
+- Updated Grass Collision to v3.0.2
+- Updated Khajiit will follow to v4.7.4c
+- Updated Miasma to v1.1.6.1
+- Updated Auto Name Enchantments
+- Removed Personal Music Framework
+- Removed Personal Music Framework - Personalized Music Patch
+- Removed Spell Sprinkler
+- Gave the Khajiit race a bit of extra Stamina
+- Divines no longer grant regular blessings if some quests have been done or more than 40 murders or 1000 stolen items
+- Added Druidic Pact, Bestial Wrath, Familiar Bond and Lord of the Beasts Conjuration perks
+- Increased the charge time of Preserver's Fill Soulgem ability
+- Modified the Edge of Oblivion Conjuration perk
+- Modified the Lockpicking Mastery perks
+- Modified the Wrestler perks
+- Boosted the Vigilant restoration perk to reduce ward cost by 50%
+- Smithing mastery perk now has the proper skill prerequisite
+- The Soul Raider Conjuration Perk is no longer required to get the Rend from This World perk
+- The Payday Pickpocket perk is back since it can now work properly
+- Broken lockpicks now make noise and will draw guards unless you have the Quick Hands perk
+- Death's Emperor coin can now be crafted at a smelter if you have the perk
+- Reduced the amount of gold carried by rich citizens
+- Having cold resistance 70 or higher now grants you complete immunity to cold weather
+- Fixed the Blue Sapphire Quest tracker from Why I Came to skyrim
+- You should no longer learn dragon animal allegiance along with the regular version
+- Fixed potential bug with Dragon Drain Vitality
+- Undead dragons now actually count as undead and are affected by sun spells
+- Fixed the weather during vanilla start's alduin attack
+- Fixed some potion values in FireBloodCR
+- Nerfed End Times Alduin
+- Nerfed Main Quest Alduin a tiny bit
+- Fire and blood dragon fire attacks now turn dead NPCs into ash
+- Disabled the debug notificaations when Paarthunax fights
+- Updated some of the fire and blood meshes to improve dragon combat performance
+- Alduin now instantly heals and flies away after Alduin's Bane
+- Performance optimization for Shadow of Skyrim's onhit event
+- Performance optimization for Blocking and Flash Redux's onhit event
+- Halldir should now be less useless in his earlier forms, to test
+- Set HIGGS forcegrabbednodeupdate to 0 so things stop disappearing
+- You no longer need to fulfill your sunhelm needs while in jail
+- Nerfed Horrid Wilting Adept restoration spell
+- The Execution scene from Extended Encounters has been disabled
+- You can no longer ask Delphine to rent the attic room before receiving her letter
+- Fixed some CR on main quest objective descriptions
+- ESLified some of my patches
+
 ## Tahrovin Grit V1.93
 - Added QTE VR Framework
 - Removed the Disguise Pickpocket perk. Now you get the Disguise power from the start.
