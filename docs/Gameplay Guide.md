@@ -38,6 +38,13 @@ Finally, you can use the [Book of Origins](https://www.nexusmods.com/skyrimspeci
 
 Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. Make your choices wisely though - once you leave, you cannot return.
 
+## Religion
+The list uses a tweaked version of [Gods and Worship](https://www.nexusmods.com/skyrimspecialedition/mods/45011). When you activate a shrine, you will be given the option to make an offering of items, an offering of gold, or to simply pray. Praying will bestow the blessing of that god and cure your diseases, no strings attached. 
+
+If you make an offering, you will devote yourself to that god and receive the ability to pray and receive their blessing anywhere. This requires waiting at least one hour after using the power. From that point on, the god will watch your actions and your affinity with the god will increase or decrease depending on what you do. You will also be expected to pray at least daily. If your affinity increases high enough, you will reach the Initiate rank which allows you to craft the robes and amulet of your god at a tanning rack. To increase further in rank and gain more powerful abilities, you will not only need to raise your affinity further but also unlock the Rites of Worship perk, by using the Arcane Research Manual in your inventory.
+
+Generally gods will only judge your actions while you are devoted to them but the divines are different. If you commit too many acts the divines find reprehensible, even if not devoted to one of them, they may deny you their blessings - indicated by the Sinner effect in your list of magic effects. There is always a path to redemption however - if you devote yourself to one of the divines and reach the Acolyte rank, the divines will grant you their blessings once again. Daedric shrines are never restricted and will always grant their blessings to those who pray for them.
+
 ## CBPC VRSex
 [CBPC VRSex](https://www.loverslab.com/files/file/29662-cbpc-vrsex/) is a mod to create basic sex interactions without taking control away from the player. ~~It requires the player to have a penis. If you are playing a non-futa female, you may use the "Auto-futa" option in the MCM to temporarily grow a penis during VRSex scenes.~~ Penis not required anymore, vagina on vagina collision works fine now. Though you can still use Auto-futa if you'd like.
 
