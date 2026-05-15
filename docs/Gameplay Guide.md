@@ -101,24 +101,25 @@ You will automatically equip an "enkindle" ability that you can channel to drain
 
 As you play, keep raising your magic skills to gain more school theses and learn more spells. You can also create Arcane Resin by experimenting with ingredients in the spellforge, which will work the same as School Theses but allow you to learn spells from any school. Read the spellforge mod description (https://www.nexusmods.com/skyrimspecialedition/mods/46482) for more details. Creating Arcane Resin through Spellforge usually requires powerful ingredients such as Nirnroot. However, some recipes work with large quantities of mundane ingredients (such as 10 units of Bone Meals). If you try to experiment with the wrong quantities, you will still learn the recipe for later, with the exact quantity needed. If you have a decently valuable alchemy ingredient, try to throw it in the Spellforge and see what happens !
 
-
-Other changes compared to base Tahrovin : 
-- Triumvirate has been removed
-- [Balance adjustments for Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/104987) deals with the worst offenders, such as turning Ocato's Recital into a series of perks or switching Ghostwalk from a novice to an expert spell.
-- Two Darenii spell packs have been added, [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) and [Arcane](https://www.nexusmods.com/skyrimspecialedition/mods/91602).
-- [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) rebalances enchanted items
+The following mods are particularly relevant for mage gameplay :
+										  
+							  
+- [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) reworks the vanilla spells.
+- [Apocalyse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) adds a lot of new spells and [Balance adjustments for Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/104987) keeps them sane.
+- [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) and [Arcane](https://www.nexusmods.com/skyrimspecialedition/mods/91602) spell mods from Darenii
+- [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) rebalances enchanted items																																																																									  
 - [Sexlab Enchantress](https://www.loverslab.com/files/file/9712-sexlab-enchantress-se) provides sexlab-related versions of the basic illusion spells. These spells do not replace the actual basic illusion spells here, there will usually be a regular version and an erotic version of the spell that can be learned separately.  
 - The [Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627) magic system is available, but not immediately. To unlock it, use the Arcane Manual in your inventory, you will need at least 25 Restoration and either 20 Destruction or 20 Conjuration.
 - The [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/158538) magic system is similarly locked and requires 15 Enchanting, 20 One-handed and 25 in any spellcasting skill to unlock.
 - Various other small additions : [Immersive Bend Will](https://www.nexusmods.com/skyrimspecialedition/mods/62233), [Perception](https://www.nexusmods.com/skyrimspecialedition/mods/7559), [NPCs react to Necromancy](https://www.nexusmods.com/skyrimspecialedition/mods/70428)[/Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/91480).
-- Sexlab Eager NPCs has been removed, and [Sexlab Romance](https://www.loverslab.com/topic/127240-sexlab-romance-se/) has been added.
+																																	 
 
 ## Playing a warrior
 The main change you will notice as a warrior is that vanilla weapon blocking has been removed entirely in favor of [Pseudo Physical Weapon Collision and Parry](https://www.nexusmods.com/skyrimspecialedition/mods/100781). By default, blocking with a shield still works as normal - hold it in front of you to block. However weapons no longer block at all, they can only use the Pseudo-physical parry system by intercepting the enemy's attack. By moving the weapon fast enough as you parry or block, you may even stagger the enemy. Blocking or parrying will cost Stamina instead of Health. Parrying with a weapon will cost stamina if you are slow, but if you move the weapon fast enough you will regain Stamina instead of losing it. If you are out of Stamina, weapon parrying becomes impossible and shield blocking starts to use Health instead.
 
 You will also be able to block and parry arrows and spell projectiles by intercepting them physically. While holding trigger, projectiles will be slowed at the cost of a bit of magicka, making that process easier.
 
-The settings for pseudo-physical parry are less forgiving than the ones in base Tahrovin. You will not be able to parry by simply standing still, make sure to move your weapon as you intercept.
+You will not be able to parry by simply standing still, make sure to move your weapon as you intercept.
 
 You can throw humanoid enemies either by yanking them with both hands, or by yanking their foot. This requires a fair amount of stamina, but not only will it make the enemy vulnerable, if they have 50% health or less it will also give you a brief window while they are down during which you will be able to strip them of their weapon and/or armor, by either grabbing them with both hands or using the gravity glove. Some of the new perks in Light and Heavy armor will make you better at throwing enemies around.
 
@@ -150,6 +151,9 @@ Skyrim's regular skill leveling is not gone, but is now much slower. Your skills
 
 At higher levels, you may have a hard time finding a sufficiently-skilled trainer. In that case, scrolls of the Ethereal Instructor are sold by many merchants, and can be crafted at a tanning rack. They are fairly expensive but can be an alternative way to find proper training by summoning Master-level trainers.
 
+The perk overhaul is [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702), although many of the perks have been reworked and rebalanced, with many [new perks](Perk List.html) added and others removed.
+
+
 ## Crafting and Economy
 You may notice that the only crafting workstations you are able to use from the start are the Tanning Rack and the Smelter. Otherwise, you will need to increase your skills first. Smithing workstations require a smithing skill of 15. Alchemy and Enchanting workstations require their skill at 20.
 
@@ -163,7 +167,7 @@ At first, you may not be able to temper your equipment due to the smithing skill
 
 Once you have 15 smithing you will be able to temper clothing as well at the armor table to repair it or extend its durability, using Linen Wraps. **Repairing Enchanted Clothing requires either the Arcane Blacksmith perk, just like with armor or weapons, or an Enchanting skill of at least 50.**
 
-If you would like to repair ypur equipment on the go, you can use repair hammers and whetstones. They can be bought from blacksmiths or crafted at a forge. However, they are less effective than a proper smithing station and can only be used once each unless you have the Smithing Mastery perk.
+If you would like to repair your equipment on the go, you can use repair hammers and whetstones. They can be bought from blacksmiths or crafted at a forge. However, they are less effective than a proper smithing station and can only be used once each unless you have the Smithing Mastery perk.
 
 [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) alters the prices at which items are bought and sold, making it more difficult to make money through trade and making the various gold sinks (training, equipment maintenance, defeat...) more meaningful.
 
@@ -222,14 +226,14 @@ While followers may be a powerful asset, having too many of them may be detrimen
 
 The Leadership speech perk will allow you to bring more followers without a penalty.
 
-Daegon has been removed but new followers have been added : [Misty Skye](https://www.nexusmods.com/skyrimspecialedition/mods/16374), [Khajiit will follow](https://www.nexusmods.com/skyrimspecialedition/mods/2227), [M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666), [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874) and [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893).
+New mod-added followers are available : : [Misty Skye](https://www.nexusmods.com/skyrimspecialedition/mods/16374), [Khajiit will follow](https://www.nexusmods.com/skyrimspecialedition/mods/2227), [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666), [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874), [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893), [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161), and many followers from [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).
 
 ## Quests
 The main quest has been delayed so that after completing Bleak Falls Barrow you will need to wait a few days and be at least level 7 before you are asked to deal with the first dragon at the watchtower. The reason for this is that this unlocks dragons, and you would *not* want to fight a dragon at level 1 in this list. On the other hand, even if you choose not to go through with the main quest at all, dragons will still start appearing in the world starting at level 10.
 
 Delaying the main quest doesn't mean Alduin will stay put forever either. After 90 days, if you haven't finished the main quest, Alduin will come seeking to destroy you. This will be an easier fight than the actual, full-powered Alduin you will have to fight in the main quest, but you should still make sure you have grown strong enough to fend him off. Once you do, you will have 20 more days before he seeks you out again. Take care and don't slack off on your training : every time he comes back, Alduin will be even more powerful !
 
-Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584), [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634), [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405), [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/141327), [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748), [Sleepwalking into a nightmare](https://www.nexusmods.com/skyrimspecialedition/mods/141047), [The Frozen Heart](https://www.nexusmods.com/skyrimspecialedition/mods/159911), [The Devil's in the Details](https://www.nexusmods.com/skyrimspecialedition/mods/146620), [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494), [Hel Rising](https://www.loverslab.com/topic/173622-hel-rising-norse-dungeon-quest-and-follower-mod-se), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
+Besides that, a lot of quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [Maelstrom](https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/), [New Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/70963), [Frozen in time](https://www.nexusmods.com/skyrimspecialedition/mods/39732), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584), [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634), [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405), [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/141327), [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748), [Sleepwalking into a nightmare](https://www.nexusmods.com/skyrimspecialedition/mods/141047), [The Frozen Heart](https://www.nexusmods.com/skyrimspecialedition/mods/159911), [The Devil's in the Details](https://www.nexusmods.com/skyrimspecialedition/mods/146620), [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494), [Hel Rising](https://www.loverslab.com/topic/173622-hel-rising-norse-dungeon-quest-and-follower-mod-se), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
 
 ## Vampires and Werewolves
 [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is the Vampire overhaul. [Nightmare Night](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is the werewolf overhaul.
@@ -283,31 +287,5 @@ Since I'm going to do that for myself anyway, I figured I might as well leave it
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
