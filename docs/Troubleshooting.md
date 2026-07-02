@@ -58,6 +58,9 @@ Save, close, relaunch game.
 ## I can't block!
 The vanilla SkyrimVR method of blocking with a weapon (holding a weapon sideways), is disabled by default in favor of pseudo-physical parrying. If you are trying to use vanilla SkyrimVR blocking, first make sure you have enabled it in the optional Blocking/Parry mods. If you have and it's still not working, delete 'SkyrimCustom.ini' in 'Documents\My Games\Skyrim VR' 
 
+## I can't save!
+The game won't allow you to save if you are currently in combat to help prevent save corruption. If you're sure you're not in combat, maybe your followers are ?
+
 ## My shadows keep moving/flickering!
 You probably changed the settings using the in-game settings menu. Any change in there, even minor, will mess up shadows, draw distances, and other things. See [Settings](Installation.html#settings).
 
