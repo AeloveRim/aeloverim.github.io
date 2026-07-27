@@ -716,7 +716,7 @@ This is a full listing of the perks available to characters in the list :
 | Bisect | Two-handed 70 | Standing power attacks with a battleaxe deal bonus damage equal to 15% of a target's current Health. |
 | Grand Slam | Two-handed 70 | Whenever a standing power attack with a warhammer inflicts a critical strike, it deals 3% more critical damage per point of Stamina. |
 | Humiliate | Two-handed 70 | Standing power attacks with a greatsword fatigue a target, draining 150 points of Magicka and Stamina and halting regeneration for 5 seconds. |
-| Massacre | Two-handed 70 | In combat, In combat, swinging a two-handed weapon has 10% chance to increase weapon damage by 175% for 3 seconds. |
+| Massacre | Two-handed 70 | In combat, swinging a two-handed weapon has 10% chance to increase weapon damage by 175% for 3 seconds. |
 | Staggering Impact | Two-handed 70 | While wielding a two-handed weapon, you stagger enemies 50% longer. |
 | Wolfkin | Two-handed 80 | After performing 2 or more consecutive two-handed power attacks in combat, your next two-handed regular attack manifests a Spirit Wolf for 30 seconds that deals 15 bonus damage for each power attack. |
 | Ram's Head | Two-handed 80 | Bashing with a battle axe to interrupt an attack before it hits allows you to follow up with a power attack within 2 seconds to knock them to the ground. |
