@@ -63,7 +63,7 @@ The third option, Molag Bal's Subjugation, is easier to use than both Incubus Ar
 Sexlab scenes are used in this list mostly in three situations : You are defeated by an enemy, you use Sexlab Enchantress spells, or you start a scene from Sexlab Solutions.
 Sexlab scenes can be directed through gestures, similarly to vrik gestures, though if nothing is done they will complete automatically.
 
-Ostim scenes are started by most of the other mods, such as the Romance mod, the follower mods, Simple Player Prostitution or Amorous Adventures. 
+Ostim scenes are started by most of the other mods, such as the Romance mod, the follower mods, Simple Player Prostitution or Amorous Adventures. Most people can be propositioned with the [Romance] option, with success rate depending on many factors. Most tavern waitresses and priestesses of Dibella will also offer Prostitution services.
 Ostim scenes can be directed by using the Spell Wheel.
 
 As long as there is penetration, you will still receive the bonuses from CBPC VRSex during Sexlab or Ostim scenes.
