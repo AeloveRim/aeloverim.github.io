@@ -166,7 +166,7 @@ Before starting, you can make choices in the Optional sections of the list, colo
 - Shadow of Skyrim - SL on defeat - Follower NTR On : Same as above, but if you are defeated by an enemy of the same sex and you have a follower of the opposite sex with you, the enemy will start the sexlab scene with your follower instead. The follower will be captured and remain there until you come back to free them (unless they're one of the special followers with summon spells). As a compensation, you will lose slightly less gold from defeat when your follower is captured.
 - Yamete Redux : Alternative defeat system. It will require manual MCM configuration and is known to be finnicky.
 - CBPC VRSex - Sexlab Solutions Override : Will use the CBPC VRSex system instead of Sexlab to handle any sex interactions started by the Sexlab Solutions mod between the player and a female NPC, as long as the player is not in a victim context.
-- Load Corruption Preventer : **Prevents you from quick saving and from loading while in game** because doing so will cause save corruption in the long run. It's much better to at least go back to the main menu before loading. This mod is safe to remove at any time, as long as you know the risks.
+- Load Corruption Preventer : **Prevents you from quick saving and from loading while in game** because doing so will cause save corruption in the long run. It's much better to at least go back to the main menu before loading, but as long as you know the risk this mod is safe to remove at any time to recover the ability to quicksave and load ingame.
 
 ### Block and parry settings
 Pick only one of the options given.
