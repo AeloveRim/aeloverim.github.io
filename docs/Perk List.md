@@ -104,11 +104,11 @@ This is a full listing of the perks available to characters in the list :
 | Impaling Shot | Archery 40 | Ranged weapons wound the living for 15 seconds, causing them to bleed while running. |
 | Ranger | Archery 50 | Can move at full speed with a drawn bow. (Do not take this perk while sneaking.) |
 | Pinning Shot | Archery 50 | Arrows and bolts have a chance to stagger a target within 50 feet. More effective against targets with a lower remaining Health percentage. No effect on massive targets. |
-| Quick Shot | Archery 60 | Can draw a bow or reload a crossbow 30% faster. |
+| Defensive Stance | Archery 60 | Reduces damage taken by 10% while a bow or crossbow is equipped. |
 | Snipe | Archery 60 | Shooting targets you haven't shot within the past 10 seconds inflicts a critical strike that deals three times critical damage, and any weapon enchantments applied by the shot are twice as effective. |
 | Ambush Predator | Archery 70 | After standing still for 6 seconds with a bow or crossbow out, it does 25% more damage until you move. |
 | Beak and Talon | Archery 70 | Your shots disrupt targets within 25 feet, disarming them if they are power attacking and knocking them down if they are staggered. |
-| Hailstorm | Archery 80 | Attack 8% faster with bows and crossbows for 10 seconds after shooting a fully drawn bow or crossbow in combat. This effect stacks. |
+| Hailstorm | Archery 80 | Gain 4% increased damage with bows and crossbows for 10 seconds after shooting a fully drawn bow or crossbow in combat. This effect stacks. |
 | Hawkeye | Archery 80 | Grants the "Hawkeye" power. Once a day, slow time and focus on your foes for 10 seconds, looking for opportunities for a killing shot. Finding their vulnerability takes 1 second per 125 Health. Once you do, you may shoot them for an instant kill. |
 | Trick Arrows | Archery 80 | Able to upgrade many types of arrows at a forge or anvil, adding a bonus effect (Force, Immolation, Freezing, Grounding, Maze or Death) based on its material. |
 | Arrow to the Knee | Archery 80 | Ranged weapons knock targets down if they are sprinting, inflicting a critical strike for 2 times critical damage. |
@@ -451,8 +451,8 @@ This is a full listing of the perks available to characters in the list :
 | Denting Blows | One-handed 30 | Attacks with maces reduce the armor rating of armored enemies by 50 points for 15 seconds. |
 | * Denting Blows | One-handed 60 | Attacks with maces reduce the armor rating of armored enemies by 75 points for 15 seconds. |
 | ** Denting Blows | One-handed 90 | Attacks with maces reduce the armor rating of armored enemies by 100 points for 15 seconds. |
-| Ravage | One-handed 30 | Dual wielding attacks are 20% faster. |
-| * Ravage | One-handed 60 | Dual wielding attacks are 35% faster. |
+| Ravage | One-handed 30 | Dual wielding attacks have a 10% chance to critically strike. |
+| * Ravage | One-handed 60 | Dual wielding attacks have a 20% chance to critically strike. |
 | Bite Marks | One-handed 30 | Unblocked attacks with daggers deal an additional 1 point of bleed damage per second for 30 seconds to living targets. This effect stacks. |
 | * Bite Marks | One-handed 60 | Unblocked attacks with daggers deal an additional 2 points of bleed damage per second for 45 seconds to living targets. This effect stacks. |
 | ** Bite Marks | One-handed 90 | Unblocked attacks with daggers deal an additional 3 points of bleed damage per second for 60 seconds to living targets. This effect stacks. |
@@ -475,7 +475,7 @@ This is a full listing of the perks available to characters in the list :
 | Windswept | One-handed 60 | Sideways power attacks with a sword fling targets backwards up to 6 feet, dealing up to 40% more damage based on distance traveled. |
 | Wolfstooth | One-handed 60 | Sideways power attacks with a war axe grant 15% extra attack damage for 30 seconds. This effect stacks. |
 | Toll the Bell | One-handed 60 | Sideways power attacks with a mace deplete all of your Stamina on impact, dealing 1% more damage per point of Stamina depleted and doing a critical strike. |
-| Man O'War | One-handed 60 | While dual wielding in combat, build up a battle rage with each attack, gaining 1% extra attack damage and 1% bonus attack speed for 20 seconds. This effect stacks. |
+| Man O'War | One-handed 60 | While dual wielding in combat, build up a battle rage with each attack, gaining 1.5% extra attack damage and 2% bonus critical damage for 20 seconds. This effect stacks. |
 | Swaying Cobra | One-handed 60 | Sideways power attacks with a dagger inflict distracting wounds, draining 100 points of Magicka and Stamina and halting regeneration for 5 seconds. |
 | Crater Maker | One-handed 60 | One-handed forwards power attacks have 25% chance to knock targets down, inflicting a critical strike for 2 times critical damage. |
 | Into the Dust | One-handed 70 | Repeated standing power attacks with a sword against a target do escalating damage if no more than 3 seconds pass between each. This effect stacks up to three times, each doing 15% more damage. Reaching four stacks knocks the target off their feet. |
@@ -489,7 +489,7 @@ This is a full listing of the perks available to characters in the list :
 | Coiling Python | One-handed 80 | Hitting a target with a forwards, sideways and backwards power attack with a dagger within 30 seconds paralyzes the target for 20 seconds. Your attacks against the paralyzed target are critical strikes that deal nine times critical damage. |
 | Bladedancer | One-handed 80 | Take 30% less attack damage while power attacking with two weapons. |
 | Unleash the Beast | One-handed 90 | While dual wielding in combat, enter a murderous frenzy every 20 to 40 seconds. For 8 seconds, dual wield power attacks deal 50% more damage and 100% more critical damage. |
-| Aftershock | One-handed 90 | After a Thundering Blow, attack speed is increased by 75% for 3 seconds. |
+| Aftershock | One-handed 90 | After a Thundering Blow, weapon damage is increased by 75% for 3 seconds. |
 | Disarming Slash | One-handed 90 | One-handed sideways power attacks have 25% chance to disarm targets, inflicting a critical strike for 2 times critical damage. |
 | Wandering Warrior | One-handed 100 | Whenever you defeat at least 4 humanoids and/or animals in a single battle, you gain a permanent +1% bonus to one-handed damage. This effect stacks up to +20%. |
 
@@ -716,7 +716,7 @@ This is a full listing of the perks available to characters in the list :
 | Bisect | Two-handed 70 | Standing power attacks with a battleaxe deal bonus damage equal to 15% of a target's current Health. |
 | Grand Slam | Two-handed 70 | Whenever a standing power attack with a warhammer inflicts a critical strike, it deals 3% more critical damage per point of Stamina. |
 | Humiliate | Two-handed 70 | Standing power attacks with a greatsword fatigue a target, draining 150 points of Magicka and Stamina and halting regeneration for 5 seconds. |
-| Massacre | Two-handed 70 | In combat, swinging a two-handed weapon has 10% chance to increase attack speed by 175% for 3 seconds. |
+| Massacre | Two-handed 70 | In combat, In combat, swinging a two-handed weapon has 10% chance to increase weapon damage by 175% for 3 seconds. |
 | Staggering Impact | Two-handed 70 | While wielding a two-handed weapon, you stagger enemies 50% longer. |
 | Wolfkin | Two-handed 80 | After performing 2 or more consecutive two-handed power attacks in combat, your next two-handed regular attack manifests a Spirit Wolf for 30 seconds that deals 15 bonus damage for each power attack. |
 | Ram's Head | Two-handed 80 | Bashing with a battle axe to interrupt an attack before it hits allows you to follow up with a power attack within 2 seconds to knock them to the ground. |
