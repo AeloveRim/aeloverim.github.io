@@ -61,8 +61,8 @@ The vanilla SkyrimVR method of blocking with a weapon (holding a weapon sideways
 ## I can't save!
 The game won't allow you to save if you are currently in combat to help prevent save corruption. If you're sure you're not in combat, maybe your followers are ?
 
-## My shadows keep moving/flickering!
-You probably changed the settings using the in-game settings menu. Any change in there, even minor, will mess up shadows, draw distances, and other things. See [Settings](Installation.html#settings).
+## I can't Load / I can't Quicksave !
+Make sure to read this readme closely. The solution to this is in the [Installation](Installation.html) page.
 
 ## I can't move!
 You started Tahrovin before making sure your controllers were connected. Restart the game.
