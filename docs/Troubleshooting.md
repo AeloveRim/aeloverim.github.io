@@ -62,7 +62,7 @@ The vanilla SkyrimVR method of blocking with a weapon (holding a weapon sideways
 The game won't allow you to save if you are currently in combat to help prevent save corruption. If you're sure you're not in combat, maybe your followers are ?
 
 ## I can't Load / I can't Quicksave !
-Make sure to read this readme closely. The solution to this is in the [Installation](Installation.html) page.
+The solution to this is in the [Optional Mods](Installation.html#optional-mods) section.
 
 ## I can't move!
 You started Tahrovin before making sure your controllers were connected. Restart the game.
