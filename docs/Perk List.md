@@ -590,6 +590,7 @@ This is a full listing of the perks available to characters in the list :
 | Remote Control | Smithing 50 | Your Dwarven Autocannon now fires regardless of the distance between it and you. |
 | Advanced Armors | Smithing 50 | Can create Scaled and Plate armor at forges, and improve them twice as much. Scaled and Plate equipment you wield is 5% more effective. |
 | Smithing Specialization | Smithing 60 | You may choose an item type: One-Handed, Two-Handed, Light Armor, Heavy Armor or Archery. Items of the chosen type can be improved 20% better at a grindstone or workbench. |
+| Field Forge | Smithing 60 | Your carry weight is increased by 50. You can create a Field Forge kit at a forge. Use it once every 180 seconds to create a bridge, bed or crafting station of your choice, which crumbles after 180 seconds or upon entering combat. |
 | Sandstone Sheath | Smithing 60 | When you draw a weapon, it is automatically sharpened, granting 25% extra attack damage for 10 seconds. This can only occur once every 30 seconds. |
 | Ebony Smithing | Smithing 70 | Can create Ebony armor and weapons at forges, and improve them twice as much. Ebony equipment you wield is 5% more effective. |
 | Firing Line | Smithing 70 | Your Dwarven Autocannon now deploys two cannons side by side. |
