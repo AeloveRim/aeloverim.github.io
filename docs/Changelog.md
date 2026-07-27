@@ -5,6 +5,65 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V2.0 BETA
+- Added Demon of Dream to the main profiles
+- Added Finding Derkeethus to the main profiles
+- Added Path to Volkihar, Alternate Dawnguard Paths and Dawnguard CR patch to the main profiles
+- Added Gravewind to the main profiles
+- Added a bunch of DBM patches in Extra Quests
+- Added The Cursed Tribe Quest Expansion to the Extra Quests profile
+- Added Thieves Guild Plus Plus in Extra Quests
+- Added Darkend Unofficial Quest Addon - Quiet Edition to the Extra Quests profile
+- Added VRIK Closed Fist
+- Added Load Corruption Preventer to Optionals
+- Added imGui Icons
+- Added imGui VR Helper
+- Added Floating Subtitles VR
+- Added Floating Damage NG
+- Added Auto Name Enchantments - Durability VR Patch
+- Added Missives - Bigger Trigger Boxes
+- Added a tweaked version of UnLock to allow for lock bashing
+- Added a tweaked version of Simpler Knock
+- Added two apprentice illusion spells : Reinforce Disguise and Suggestion
+- Added Bijin - Use CBBE Meshes and Textures
+- Added Dwarven Engineering
+- Added Dwarven Engineering - Tweaks
+- Added Basic Wenches
+- Added No Menu Fade Out VR
+- Added ED Horns by Eria - Proper RaceMenu Integration
+- Removed all the older Flowrifto mods in Extra Quests
+- Removed Skyrim Town Criers
+- Removed No To Nocturnal in Extra Quests
+- Removed Subtitles VR
+- Removed Racemenu ED Horns SSE
+- Removed the Break Entry werewolf perk, werewolves in beast form can now just bash locks up to adept by default
+- Updated Quickloot VR to v1.3
+- Updated VR Address library to v0.242.0
+- Updated PLANCK to v0.8.0
+- Updated Interactive Activators to v1.1.7s
+- Updated Depths of the Reach to v2.0 in Extra Quests
+- Moved Auto Sneak and Jump VR to the Optionals section
+- Added the Field Forge smithing perk
+- The Entice Barter Illusion perk now also improves prices
+- Alchemy mastery now lets you combine potions. Credit to tcbflash for the system in Skill Based Potion Upgrades.
+- Fixed conditions for the Adrenaline Alchemy perk (Alch 50, Stimulants)
+- Added a small cooldown after breaking a lockpick, removed by the Quick Hands perk
+- The second level of pickpocket mastery now allows you to pickpocket any race of creature
+- The End Times fight now takes place in Helgen. Controls are no longer restricted.
+- Added a small daily cap for divine affinity changes from persuasion and intimidation
+- You must now be at least an initiate before receiving lessons at a temple
+- Unlocking the Rites of Worship now requires 40 Favor from your god
+- You may now receive the Sinner effect by biting as a vampire or mauling as a werewolf
+- Lowered level reqs for the whispering door and boethiah's calling
+- The Warrior stone now recovers stamina on weapon parry on top of its other effects
+- Fury and fear type illusion spells are now all counted as hostile
+- Nerfed the initial whiterun giant's health
+- Nerfed Auri
+- Added a batch file to fix shadow resolution on launch
+- NPC throwing daggers are now a bit slower and a bit stronger
+- Most waitresses and priestesses of Dibella now offer prostitution services
+- Fixed indecent exposure reporting you while in werewolf or vampire lord form
+
 
 ## Tahrovin Grit V1.999
 - Added Personalized Music - Modernized
