@@ -11,8 +11,8 @@ This is a full listing of the perks available to characters in the list :
 
 | Perk  | Skill | Description |
 | ------------- | ------------- | ------------- |
-| Alchemy Mastery | Alchemy 20 | Potions and poisons you make are 20% stronger. |
-| * Alchemy Mastery | Alchemy 40 | Potions and poisons you make are 40% stronger. |
+| Alchemy Mastery | Alchemy 20 | Potions and poisons you make are 20% stronger. You may combine multiple potions into one stronger potion at a cookpot. Only some non-crafted potions can be combined and efficiency depends on your skill level. |
+| * Alchemy Mastery | Alchemy 40 | Potions and poisons you make are 40% stronger. You may combine multiple potions into one stronger potion at a cookpot. Only some non-crafted potions can be combined and efficiency depends on your skill level. |
 | Physician | Alchemy 20 | You may choose a type of beneficial potion: Health, Magicka or Stamina. Potions you mix that restore or fortify the chosen attribute are 50% stronger. |
 | Advanced Lab | Alchemy 30 | You may choose to upgrade one alchemy lab to an Advanced version for 2500 gold. Potions you mix are 25% stronger at an Advanced Lab. Can be "Disassembled" by sneaking, allowing you to upgrade another. |
 | Experimenter | Alchemy 30 | Eating an ingredient reveals all effects. Learn the "Harvest Ingredients" spell to gather ingredients in an area. |
@@ -336,7 +336,7 @@ This is a full listing of the perks available to characters in the list :
 | Illusion Dual Casting | Illusion 20 | Dual casting an Illusion spell empowers it, increasing effectiveness and cost. |
 | Commanding Presence | Illusion 30 | In combat, you radiate an aura of mystical nobility that touches allied creatures and people within 40 feet. Those affected gain 20% extra attack damage and have 20% chance of a critical strike. |
 | Imposing Presence | Illusion 30 | You radiate an aura of mystical charisma that touches all within 40 feet. Any Illusion spell you cast on those affected is 25% more powerful and lasts 30% longer. |
-| Entice Barter | Illusion 30 | Can Activate any target under the effect of a Calm spell to initiate trade. |
+| Entice Barter | Illusion 30 | Can Activate any target under the effect of a Calm spell to initiate trade. Prices are 0.15% better per level of Illusion when a trader is calmed. |
 | Iron Maiden | Illusion 35 | Fury spells inflict 20 damage whenever the target attacks. Can only take one between this, Lotus Charm, and Paralyzing Fear. |
 | Kindred Mage | Illusion 40 | Mind affecting spells and effects are 15 points stronger (or 30 points if you are the same race as the target). |
 | Crown of the False King | Illusion 40 | Commanding Presence also increases armor by 80 points and magic resistance by 20%. |
@@ -496,7 +496,7 @@ This is a full listing of the perks available to characters in the list :
 | Perk  | Skill | Description |
 | ------------- | ------------- | ------------- |
 | Pickpocket Mastery | Pickpocket 20 | Adds 20% to your pickpocket chance and increases carry weight by 50 points. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. |
-| * Pickpocket Mastery | Pickpocket 40 | Adds 40% to your pickpocket chance and increases carry weight by 100 points. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. |
+| * Pickpocket Mastery | Pickpocket 40 | Adds 40% to your pickpocket chance and increases carry weight by 100 points. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. Can pickpocket any race of creature. |
 | Trained Rabbit | Pickpocket 20 | Grants the "Trained Rabbit" power. At will, silently sends out a trained rabbit to lead you to the nearest loose valuable item (armor, weapon, key, book, soul gem, ingredient). It then returns to you. |
 | Blood Money | Pickpocket 20 | You find 10-100 more gold when looting humanoid corpses slain in an especially violent fashion (with an attack that dealt at least 100 more damage than their remaining Health or a killmove). |
 | Cutpurse | Pickpocket 30 | Odds of pickpocketing gold, keys, gems and jewelry increased by 50%. |
@@ -580,6 +580,7 @@ This is a full listing of the perks available to characters in the list :
 | Advanced Workshop | Smithing 30 | You may choose to upgrade one grindstone or workbench to an Advanced version for 2500 gold. It improves items one tier higher (items can be improved beyond Legendary). Can be "Disassembled" by sneaking, allowing you to upgrade another of the same type. |
 | Elven Smithing | Smithing 30 | Can create Elven armor and weapons at forges, and improve them twice as much. Elven equipment you wield is 5% more effective. |
 | Arcane Blacksmith | Smithing 40 | You can improve enchanted weapons and armor and repair enchanted clothing. You do not need this perk to repair enchanted clothing if your Enchanting skill is 50 or higher. |
+| Dwarven Engineering | Smithing 40 | Can create Dwarven Automata at forges, which require a Control Rod (non-craftable, found in Dwarven ruins) to command. New types of craftable automata are unlocked at Smithing 60, 80 and 100. Can also create Dwarven Repair Staves. |
 | Recycle Materials | Smithing 40 | 50% chance to retain any materials you spend at an Advanced Grindstone or Advanced Workbench. |
 | Electrobolt | Smithing 40 | Every fifth Dwarven Autocannon shot is an electromagnetic blast that moves slower than a regular shell but deals shock damage to Health and Magicka equal to 80% of your Smithing skill level. |
 | * Electrobolt | Smithing 70 | Every fifth Dwarven Autocannon shot is an electromagnetic blast that moves slower than a regular shell but deals shock damage to Health and Magicka equal to 240% of your Smithing skill level. |
