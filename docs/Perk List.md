@@ -727,3 +727,14 @@ This is a full listing of the perks available to characters in the list :
 | Enter the Arena | Two-handed 90 | Massacre always activates when you take your first two-handed swing in combat. This effect has a 30 second cooldown. |
 | Bear Hide | Two-handed 90 | You take half damage from enemy attacks while power attacking with a two-handed weapon. |
 | Slayer of a Thousand Sons | Two-handed 100 | In combat, two-handed weapons deal 5% more damage for each humanoid or animal you have slain in the previous battle, up to 40%. |
+
+# Arcane Research Manual
+
+Besides the regular perks, you may also unlock abilities through the Arcane Research Manual in your inventory :
+
+| Ability  | Prerequisites | Cost | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| Conduit | Enchanting 15, One-handed 20, Any spellcasting skill 25 | - | Unlocks short term weapon infusions ([Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023)). |
+| Spellsiphon | Restoration 25 and either Destruction 20 or Conjuration 20 | - | Absorption of external energies for use in various forms ([Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627)). |
+| Draconic Transportation | - | 3 Dragon Souls | Unlocks 1/day fast travel |
+| Rites of Worship | Favor 40 with any god | 1 Perk Point | Allows you to rise above Initiate rank in your chosen religion and gain new abilities by increasing your divine favor. ([Gods and Worship](https://www.nexusmods.com/skyrimspecialedition/mods/45011)). |
