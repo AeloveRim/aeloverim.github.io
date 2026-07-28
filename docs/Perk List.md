@@ -20,6 +20,7 @@ This is a full listing of the perks available to characters in the list :
 | Bottomless Cup | Alchemy 40 | Poisons applied to weapons last for one additional hit per 10 levels of Alchemy. |
 | Elemental Oil | Alchemy 40 | You may choose a power: "Fire Oil", "Frost Oil" or "Shock Oil". At will, create a pool of oil that lasts 20 seconds. It reacts violently when struck by a projectile or explosion, exploding and dealing damage equal to your Alchemy skill level. |
 | Stimulants | Alchemy 40 | Regenerate an extra 2% of your total Magicka and Stamina per second under the effects of a beneficial potion or food. |
+| Adrenaline | Alchemy 50 | Move 15% faster under the effects of a beneficial potion or food. |
 | Lab Skeever | Alchemy 50 | For 20 seconds after using any alchemy lab, beneficial potions you drink last 15 times longer and are 25% stronger. |
 | Alkahest | Alchemy 50 | Your poisons are highly corrosive, enabling you to ignore 40% of the armor rating of an affected target for their duration. |
 | Maenad | Alchemy 60 | Magicka and Stamina are increased by 50 points when you are under the effect of a beneficial potion or ingredient, but reduced by 25 points when you are not. |
@@ -30,7 +31,6 @@ This is a full listing of the perks available to characters in the list :
 | Pure Mixture | Alchemy 70 | All negative effects are removed from created potions, and all positive effects are removed from created poisons. |
 | Double Toil and Trouble | Alchemy 70 | You mix twice as many potions at your Advanced Lab. |
 | Amplify Lethality | Alchemy 80 | Grants the "Amplify Lethality" power. Once a day, point at a victim to silently reduce their poison resistance by 250% for 10 seconds. |
-| Adrenaline | Alchemy 80 | Move 15% faster under the effects of a beneficial potion or food. |
 | Witchmaster | Alchemy 80 | When you use a beneficial potion or ingredient, 50% chance to receive a powerful side effect, randomly chosen from a range of 40 side effects. |
 | World Serpent | Alchemy 90 | When you shout, your blood turns poisonous for 15 seconds. The next time you get hit with a weapon, retaliate with a powerful poisonous strike that deals 50 points of poison damage per second for 10 seconds. |
 | Chymical Wedding | Alchemy 90 | Witchmaster side effects have 50% chance to cause side effects themselves. |
