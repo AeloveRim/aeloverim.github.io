@@ -382,8 +382,8 @@ This is a full listing of the perks available to characters in the list :
 | * Body Toss | Light Armor 80 | Stamina cost of yanking and foot yanking is reduced by 90%. |
 | Light Armor Fit | Light Armor 30 | Armor rating of Light Armor increased by 25% if wearing all Light Armor. |
 | Light Rider | Light Armor 30 | Horses you ride move 50% faster and regenerate Stamina faster. Does not stack with Heavy Rider |
-| As a Leaf | Light Armor 30 | Movement speed increased by 10% when not wearing Heavy Armor. |
-| * As a Leaf | Light Armor 70 | Movement speed increased by 25% when not wearing Heavy Armor. |
+| As a Leaf | Light Armor 30 | Movement speed increased by 10% when not wearing Heavy Armor. Unlocks Double Jump. |
+| * As a Leaf | Light Armor 70 | Movement speed increased by 25% when not wearing Heavy Armor. Unlocks Double Jump. |
 | Keen Senses | Light Armor 40 | You no longer need to wear a helmet to benefit from perks that require "wearing all Light Armor". If you are not wearing a helmet, Light Armor pieces have 20% increased armor rating. |
 | Initiative | Light Armor 40 | When you enter combat, if wearing all Light Armor, regenerate up to 10% of your maximum Stamina per second. This bonus gradually diminishes over the course of 15 seconds. |
 | * Initiative | Light Armor 70 | When you enter combat, if wearing all Light Armor, regenerate up to 20% of your maximum Stamina per second. This bonus gradually diminishes over the course of 15 seconds. |
