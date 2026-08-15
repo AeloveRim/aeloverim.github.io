@@ -6,6 +6,10 @@ nav_order: 8
 
 # Changelog
 ## Tahrovin Grit V2.0
+- Added Physical Collision VR to Optionals
+- Added Immersive Weapon Penetration to Optionals
+- Added Collision Sentinel - Crash Fix
+- Added Pull Arrows VR - Immersive Extraction
 - Added the Tale of Tsatampra Xiros to the main profiles
 - Added Siege at Icemoth to the main profiles
 - Added Rescue Missions
