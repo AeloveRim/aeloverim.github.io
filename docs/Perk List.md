@@ -18,10 +18,10 @@ This is a full listing of the perks available to characters in the list :
 | Experimenter | Alchemy 30 | Eating an ingredient reveals all effects. Learn the "Harvest Ingredients" spell to gather ingredients in an area. |
 | Poisoner | Alchemy 30 | Poisons you mix are 1% more powerful per level of Alchemy. |
 | Bottomless Cup | Alchemy 40 | Poisons applied to weapons last for one additional hit per 10 levels of Alchemy. |
-| Elemental Oil | Alchemy 40 | You may choose a power: "Fire Oil", "Frost Oil" or "Shock Oil". At will, create a pool of oil that lasts 20 seconds. It reacts violently when struck by a projectile or explosion, exploding and dealing damage equal to your Alchemy skill level. |
+| Elemental Oil | Alchemy 40 | You may choose a power: "Fire Oil", "Frost Oil" or "Shock Oil". At will, create a pool of oil that lasts 20 seconds. It reacts violently when struck by a projectile or explosion, exploding and dealing damage equal to twice your Alchemy skill level. |
 | Stimulants | Alchemy 40 | Regenerate an extra 2% of your total Magicka and Stamina per second under the effects of a beneficial potion or food. |
 | Adrenaline | Alchemy 50 | Move 15% faster under the effects of a beneficial potion or food. |
-| Lab Skeever | Alchemy 50 | For 20 seconds after using any alchemy lab, beneficial potions you drink last 15 times longer and are 25% stronger. |
+| Lab Skeever | Alchemy 50 | For 20 seconds after using any alchemy lab, beneficial potions you drink last 15 times longer and are 10% stronger. |
 | Alkahest | Alchemy 50 | Your poisons are highly corrosive, enabling you to ignore 40% of the armor rating of an affected target for their duration. |
 | Maenad | Alchemy 60 | Magicka and Stamina are increased by 50 points when you are under the effect of a beneficial potion or ingredient, but reduced by 25 points when you are not. |
 | Green Thumb | Alchemy 60 | Twice as many ingredients are gathered from plants. |
@@ -49,7 +49,7 @@ This is a full listing of the perks available to characters in the list :
 | Wild Shrines | Alteration 30 | Five shrines dedicated to nature's mysteries can be found in Skyrim. Each shrine grants a permanent bonus to one school of magic, making all spells from that school 15% more powerful or last 30% longer. |
 | Geomancer | Alteration 30 | If wearing robes or clothing and no light or heavy armor, you take 30% less damage from attacks while charging or concentrating on a spell. |
 | Philosopher's Stone | Alteration 30 | Once a day, generates gold equal to four times your Alteration skill level. |
-| Vancian Magic | Alteration 30 | Cast magic like the wizards of old. Your next 20 spells do not use Magicka and are twice as effective. When you run out of spells, you are unable to cast spells until you rest by sleeping at an inn or in your home. |
+| Vancian Magic | Alteration 30 | Cast magic like the wizards of old. Your next 20 spells do not use Magicka and are 50% more effective. When you run out of spells, you are unable to cast spells until you rest by sleeping at an inn or in your home. |
 | Ocato's Recital | Alteration 30 | Teaches the "Ocato's Recital" spell. Cast 1 spell for no cost whenever you enter combat. |
 | * Ocato's Recital | Alteration 70 | Teaches the "Ocato's Recital" spell. Cast up to 2 spells for no cost whenever you enter combat. |
 | ** Ocato's Recital | Alteration 100 | Teaches the "Ocato's Recital" spell. Cast up to 3 spells for no cost whenever you enter combat. |
@@ -161,7 +161,7 @@ This is a full listing of the perks available to characters in the list :
 | Soul Raider | Conjuration 30 | Bound weapons cast Soul Trap on targets for 5 seconds. After trapping 250 souls, all bound weapon perks last twice as long. |
 | Rift Summoner | Conjuration 30 | Summon range increased by 25 feet. |
 | * Rift Summoner | Conjuration 70 | Summon range increased by 50 feet. |
-| Ravenous Dead | Conjuration 30 | Reanimated minions receive a brief burst of strength, dealing 200% extra attack damage for 15 seconds after being reanimated. The level cap of reanimation spells and effects is increased by 1% per level of Conjuration. |
+| Ravenous Dead | Conjuration 30 | Reanimated minions receive a brief burst of strength, dealing 200% extra attack damage for 20 seconds after being reanimated. The level cap of reanimation spells and effects is increased by 1% per level of Conjuration. |
 | Dead Tide | Conjuration 30 | Maximum number of Skeletons increased by 1 for each 75 points of base Magicka. |
 | * Dead Tide | Conjuration 60 | Maximum number of Skeletons increased by 1 for each 50 points of base Magicka. |
 | Rend From This World | Conjuration 40 | Bound weapons banish conjured Daedra, turn reanimated undead and deal 100 extra damage to non-conjured Daedra. |
@@ -175,14 +175,14 @@ This is a full listing of the perks available to characters in the list :
 | * Familiar Bond | Conjuration 70 | Grants the Familiar Bond power. While active, when entering combat, automatically calls a Druidic Sabre Cat Familiar. This familiar does not count as a summoned creature for the purpose of your summoning limit or other perks. It disappears when combat ends. Use the power again to toggle off the ability. |
 | Void Burn | Conjuration 50 | Bound weapons brand victims with unholy energy for 5 seconds, halting Magicka and Stamina regeneration while draining 15 points per second. When both are depleted, the energy starts devouring their flesh, dealing 15 points of magic damage per second. |
 | Pact Magic | Conjuration 50 | Destruction spells and effects are 10% more effective for each friendly conjured Daedra within 30 feet. |
-| Undead Crown | Conjuration 50 | Restores 10 points of Health and Magicka per second to summoned or reanimated undead within 15 feet. |
+| Undead Crown | Conjuration 50 | Restores 10 points of Health and Magicka per second to summoned or reanimated undead within 20 feet. |
 | Skeleton Mages | Conjuration 50 | Able to create Skeleton Mages (Fire, Frost, Shock) at a Bone Altar. |
 | * Skeleton Mages | Conjuration 80 | Able to create Skeleton Mages (Fire, Frost, Shock, Poison, Drain Armor, Stagger) at a Bone Altar. You may choose their element at the time of creation. |
 | Lord of the Beasts | Conjuration 50 | While in combat, if a druidic creature is currently summoned or a Familiar Bond is active, you emit an aura every 10 seconds that turns most animals into allies in a large area around you. |
 | Edge of Oblivion | Conjuration 50 | Grants the Edge of Oblivion power. While active, you can summon or reanimate 1 additional minion and they last 30% longer but you lose 150 points of armor and 30% magic resistance. Use again to deactivate. |
 | Hollow Binding | Conjuration 60 | Bound weapons cut through flesh and spirit, reducing magic resistance by 30% for 5 seconds. |
 | Maelstrom | Conjuration 60 | While you charge or concentrate on a spell, friendly conjured Daedra within 30 feet gain 30% extra attack damage. |
-| A Plague Upon Thee | Conjuration 60 | If a reanimated undead is destroyed within 20 seconds, the attacker is stricken with a Daedric disease that deals 40 damage per second for 20 seconds. Those who have this perk are immune. |
+| A Plague Upon Thee | Conjuration 60 | If a reanimated undead is destroyed within 20 seconds, the attacker is stricken with a Daedric disease that deals 15 damage per second for 20 seconds. Those who have this perk are immune. |
 | Conjure Altar | Conjuration 60 | Grants the "Conjure Altar" power. At will, summons a Bone Altar for 60 seconds. |
 | Grand Conjurer | Conjuration 60 | Can reanimate, banish or command targets up to 15 levels higher. |
 | * Grand Conjurer | Conjuration 90 | Can reanimate, banish or command targets of any level. |
@@ -216,13 +216,13 @@ This is a full listing of the perks available to characters in the list :
 | Force of Nature | Destruction 30 | Elemental spells and effects cost 30% less Magicka to cast in favorable weather: fire spells in sunlight, frost spells during snowfall, shock spells in the rain. |
 | Frostfall | Destruction 30 | Frost spells reduce the attack damage of their targets by 25% for 5 seconds. |
 | Scarring Burns | Destruction 30 | Fire spells reduce the fire resistance of their targets by 20% for 5 seconds. |
-| Static Field | Destruction 30 | Shock spells that would leave their target above 75% Health deal enough additional damage to make up the difference. |
+| Static Field | Destruction 30 | Shock spells that would leave their target above 85% Health deal enough additional damage to make up the difference. |
 | Raw Power | Destruction 30 | Destruction spells that do not deal fire, frost or shock damage are 10% more powerful. |
 | * Raw Power | Destruction 60 | Destruction spells that do not deal fire, frost or shock damage are 20% more powerful. |
 | ** Raw Power | Destruction 90 | Destruction spells that do not deal fire, frost or shock damage are 30% more powerful. |
 | Rune Master | Destruction 40 | Can place runes 75 feet farther away, and place three times as many runes at a time. |
 | * Rune Master | Destruction 70 | Can place runes at any distance, and runes are 20% more powerful. |
-| Harsh Lesson | Destruction 40 | Destruction projectile spells interrupt targets that are casting a spell. Does not work on massive targets. |
+| Harsh Lesson | Destruction 40 | Projectile based Destruction spells have 30% chance to stagger their targets when dual cast. |
 | Crystalize | Destruction 40 | Frost spells freeze the blood of their targets, halting Stamina regeneration for 5 seconds. If the targets are not resistant to frost, frost spells also reduce armor by 125 points for 5 seconds. |
 | Conflagration | Destruction 40 | Fire spells ignite the ground underneath their targets for 30 seconds. The burning ground deals 8 points of damage per second for 3 seconds on contact. |
 | Arc Burn | Destruction 40 | Shock spells hitting targets that are not fire resistant cause a plasma that deals 5 points of unresistable fire damage per second for 4 seconds. |
@@ -257,9 +257,9 @@ This is a full listing of the perks available to characters in the list :
 | Enchanting Mastery | Enchanting 20 | New enchantments are 25% stronger. Soul gems provide 2 extra weapon charge points per level of Enchanting. |
 | * Enchanting Mastery | Enchanting 40 | New enchantments are 50% stronger. Soul gems provide 4 extra weapon charge points per level of Enchanting. |
 | Soul Siphon | Enchanting 20 | Killing blows with enchanted weapons trap 15% of the victim's soul, regenerating some of their lost charge. Does not apply to staves. |
-| Last Word | Enchanting 20 | Scrolls are 2% more powerful or last 4% longer per level of Enchanting. |
-| * Last Word | Enchanting 50 | Scrolls are 4% more powerful or last 8% longer per level of Enchanting. |
-| ** Last Word | Enchanting 80 | Scrolls are 6% more powerful or last 12% longer per level of Enchanting. |
+| Last Word | Enchanting 20 | Scrolls are 50% more powerful or last 100% longer. |
+| * Last Word | Enchanting 50 | Scrolls are 100% more powerful or last 200% longer. |
+| ** Last Word | Enchanting 80 | Scrolls are 150% more powerful or last 300% longer. |
 | Thunderstruck | Enchanting 30 | Weapon enchantments are 25% more effective when delivered by a power attack (or 50% for a two-handed power attack). |
 | Staff Channeler | Enchanting 30 | When a staff is equipped, all weapon enchantments drain 25% less charge and you gain a small amount of Enchanting experience in combat. |
 | Spellscribe | Enchanting 40 | Grants the "Spellscribe" power: use it to store the spell you are dual casting. Your power attacks and power bashes unleash the stored spell for free, with a cooldown based on Enchanting skill. Only works with spells that affect other targets. |
@@ -543,10 +543,10 @@ This is a full listing of the perks available to characters in the list :
 | Necromanticon | Restoration 40 | Study the arts of disease, learning the "Putrefy" spell. When your Restoration skill reaches 50, you learn "Death Cloud". When your Restoration skill reaches 75, you learn "Carrion Wind". These spells deal disease damage to nonmechanical targets. |
 | Restoration Sorcerer | Restoration 40 | Restoration spells last 15% longer and are 15% more effective if not wearing armor. |
 | Pilgrim | Restoration 50 | Shrine blessings you receive are 1% stronger per level of Restoration. |
-| Warrior's Flame | Restoration 50 | In combat, the Warrior's Flame periodically touches a random target within 100 feet (including you). Friendly targets are blessed, restoring 20 points of Magicka and Stamina for 5 seconds. Hostile targets are cursed, draining the same amount instead. |
+| Warrior's Flame | Restoration 50 | In combat, the Warrior's Flame periodically touches a random target within 100 feet (including you). Friendly targets are blessed, restoring 15 points of Magicka and Stamina for 5 seconds. Hostile targets are cursed, draining the same amount instead. |
 | Antimagic Field | Restoration 50 | Staying within 8 feet of an enemy while maintaining a ward prevents them from casting spells. No effect on massive targets. |
-| Overflowing Cup | Restoration 50 | Receiving a healing spell or effect when you are already at full Health overheals you, fortifying Health by 1 point per level of Restoration for 20 seconds. |
-| Ashes to Ashes | Restoration 60 | Your Warrior's Flame carries the essence of death. Hostile undead cursed by Warrior's Flame take 30 points of damage per second. |
+| Overflowing Cup | Restoration 50 | Receiving a healing spell or effect when you are already at full Health overheals you, regenerating 2% Health per second for 30 seconds. |
+| Ashes to Ashes | Restoration 60 | Your Warrior's Flame carries the essence of death. Hostile undead cursed by Warrior's Flame take 20 points of damage per second. |
 | Forbidden Sanctuary | Restoration 60 | When your ward blocks a spell, you gain Magicka equal to 25% of that spell's cost (or 100% if you are blessed by Warrior's Flame). |
 | Sacred Flame | Restoration 60 | Your Warrior's Flame carries the essence of life. Living allies blessed by Warrior's Flame are healed 20 points per second. |
 | Crusader's Fire | Restoration 60 | In combat, targets within 30 feet affected by a Turn Undead spell or effect burn with divine fire, taking 10 points of damage per second for 10 seconds. Your attacks and critical strikes deal 25% more damage to targets affected by Crusader's Fire. |
@@ -618,7 +618,7 @@ This is a full listing of the perks available to characters in the list :
 | Silent Movement | Sneak 30 | Movement noise is reduced by 50%. |
 | * Silent Movement | Sneak 60 | Movement noise is reduced by 100%. |
 | Assassin's Blade | Sneak 40 | Sneak attacks with daggers deal 1% more damage per level of Sneak. |
-| Dynamic Entry | Sneak 40 | Performing a silent roll increases your weapon damage by 40% and unarmed damage by 40 points for 3 seconds. |
+| Dynamic Entry | Sneak 40 | Performing a silent roll increases your weapon damage by 50% and unarmed damage by 40 points for 3 seconds. |
 | Whiplash | Sneak 40 | Tripwire also reduces armor rating by 1000 points for 5 seconds. |
 | Backstab | Sneak 50 | You deal 25% more damage and critical damage with daggers when striking a target from behind. |
 | * Backstab | Sneak 80 | You deal 50% more damage and critical damage with daggers when striking a target from behind. |
@@ -631,7 +631,7 @@ This is a full listing of the perks available to characters in the list :
 | Clean Escape | Sneak 70 | When you stand still for 8 seconds while sneaking, enemies within 150 feet no longer search for you. |
 | Problem Solver | Sneak 80 | Sneak attacks deal 10% more damage for each 200 points of Health the target has, up to 50% more damage. |
 | Behind Enemy Lines | Sneak 80 | Sneaking is 15% more effective for each enemy within 100 feet that is not detecting you. |
-| Partystarter | Sneak 80 | When you gain invisibility, places a barrel of flammable booze at your location. When you lose invisibility, it explodes, dealing fire damage equal to 200% of your Sneak skill level and staggering targets. This effect has a 15 second cooldown. |
+| Partystarter | Sneak 80 | When you gain invisibility, places a barrel of flammable booze at your location. When you lose invisibility, it explodes, dealing fire damage equal to twice your Sneak skill level and staggering targets. This effect has a 15 second cooldown and only activates in combat. |
 | Cloak and Dagger | Sneak 90 | Breaking invisibility with a power attack is a guaranteed critical strike that deals 50% more critical damage. |
 | Shadow Warrior | Sneak 90 | Entering sneak mode (5 second cooldown) or performing a silent roll in combat briefly makes you invisible, forcing opponents to search for you. |
 | Greased Lightning | Sneak 90 | A hidden bottle enables you to leave a trail of grease whenever you perform a silent roll in combat. The grease lasts for 10 seconds and staggers running enemies, while sprinting enemies slip and fall to the ground. |
@@ -706,7 +706,7 @@ This is a full listing of the perks available to characters in the list :
 | Heavy Weapon Throw | Two-handed 40 | You can throw any two-handed weapon, dealing 120% of their regular melee damage. They will return to your hand automatically. |
 | Execute | Two-handed 50 | Forwards power attacks with a battle axe execute targets below 30% Health, delivering a critical strike that deals twenty times critical damage. |
 | Avalanche | Two-handed 50 | Forwards power attacks with a warhammer daze a target for 8 seconds, causing it to stagger when struck by any unblocked attack. |
-| Breach the Wall | Two-handed 50 | Forwards power attacks with a greatsword that would leave the target above 60% Health deal enough additional damage to make up the difference. |
+| Breach the Wall | Two-handed 50 | Forwards power attacks with a greatsword that would leave the target above 70% Health deal enough additional damage to make up the difference. |
 | Ramming Speed | Two-handed 50 | Can perform a two-handed sprinting power attack that deals up to 50% more damage and critical damage to a target above half Health. The higher its remaining Health percentage, the more damage and critical damage is dealt. |
 | Death or Glory | Two-handed 60 | Two-handed power attacks deal up to 100% more damage below half Health. The damage bonus increases as your Health decreases. |
 | Decimate | Two-handed 60 | Sideways power attacks with a battle axe hit all targets in front of you. This deals 20% more damage for each enemy within 8 feet. |
