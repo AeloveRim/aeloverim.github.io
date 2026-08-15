@@ -168,6 +168,8 @@ Before starting, you can make choices in the Optional sections of the list, colo
 - CBPC VRSex - Sexlab Solutions Override : Will use the CBPC VRSex system instead of Sexlab to handle any sex interactions started by the Sexlab Solutions mod between the player and a female NPC, as long as the player is not in a victim context.
 - Load Corruption Preventer : **Prevents you from quick saving and from loading while in game** because doing so will cause save corruption in the long run. It's much better to at least go back to the main menu before loading but, as long as you know the risks, this mod is safe to remove at any time to recover the ability to quicksave and load ingame.
 - Auto Sneak and Jump VR : Lets you sneak by physically crouching and jump by physically jumping. The mod contains an ini file that may have to be edited depending on your own height. Disable to return to vanilla sneak behavior.
+- Physical Collision VR : Stops your hands and your weapons from phasing through walls and other physical objects.
+- Immersive Weapon Penetration VR : Adds stabbing physics allowing blades to penetrate enemy bodies and stick inside.
 
 ### Block and parry settings
 Pick only one of the options given.
