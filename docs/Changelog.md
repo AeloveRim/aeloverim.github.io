@@ -5,6 +5,43 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V2.0
+- Added the Tale of Tsatampra Xiros to the main profiles
+- Added Siege at Icemoth to the main profiles
+- Added Rescue Missions
+- Added Wall Bang animation
+- Added Tale of Tsatampra Xiros - GnW patch
+- Added Haunter of Skyggenborg to the Extra Quests profile
+- Added ToK Wraithguard Barrier Script Replacer to Extra Quests
+- Added The Rot Below to Extra Quests
+- Added Warden of the Coast to Extra Quests
+- Added Warden of the Coast - 3BA- HIMBO Patch to Extra Quests
+- Added Miraak's Prequel to Extra Quests
+- Updated Spell Wheel VR to v1.5.11
+- Updated Ostim to v7.4c
+- Updated HIGGS to v1.10.10
+- Updated Weapon Throw VR to v1.4.0
+- Updated Planck to v0.81
+- Updated Thieves Guild Plus Plus in Extra quests to v1.32
+- Updated Val Serano in Extra quests to v2.6.3
+- Updated Miasma in Extra quests to v1.2.2
+- Updated the Chain of Time to v1.2.1
+- Updated Ordinator to v9.35.0
+- Updated Bjorn to v1.51 in Extra Quests
+- Updated the lost wonder of mzark to v1.20 in Extra Quests
+- Updated Dyndolod Texgen Fixes to v2.4
+- Added Unarmored Defense Light Armor perks
+- Pickpocket mastery now allows crafting Disguise Masks
+- Reworked smithing perks so the later material crafting perks are worth it
+- Fixed description of Harsh Lesson perk
+- Fixed skill buffs preventing training in a few cases
+- Higher ranks of vampirism are now level-gated
+- NPCs are now slower at throwing daggers
+- You can now only use one unique card per triple triad match
+- Misty skye's armor no longer defies the rules of armor slots
+- Moved Interactive Activators to optionals
+- Separated optionals into two categories
+
 ## Tahrovin Grit V2.0 BETA
 - Added Demon of Dream to the main profiles
 - Added Finding Derkeethus to the main profiles
