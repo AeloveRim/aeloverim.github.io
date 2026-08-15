@@ -380,6 +380,10 @@ This is a full listing of the perks available to characters in the list :
 | ** Iron Fist | Light Armor 80 | Increases unarmed damage by 25% of your current Stamina, and you gain Light Armor experience when using unarmed attacks in combat.  Requires two free hands and no heavy gauntlets. |
 | Body Toss | Light Armor 20 | Stamina cost of yanking and foot yanking is reduced by 50%. |
 | * Body Toss | Light Armor 80 | Stamina cost of yanking and foot yanking is reduced by 90%. |
+| Unarmored Defense | Light Armor 20 | When not wearing any armor, regenerate an extra 1% of your maximum Stamina per second and gain Armor Rating depending on your current Stamina, up to 60 Armor for 110 Stamina. Light Armor Mastery improves this rating but not other perks. Doesn't stack with protection spells. |
+| * Unarmored Defense | Light Armor 50 | When not wearing any armor, regenerate an extra 2% of your maximum Stamina per second and gain Armor Rating depending on your current Stamina, up to 120 Armor for 200 Stamina. Light Armor Mastery improves this rating but not other perks. Doesn't stack with protection spells. |
+| ** Unarmored Defense | Light Armor 80 | When not wearing any armor, regenerate an extra 3% of your maximum Stamina per second and gain Armor Rating depending on your current Stamina, up to 180 Armor for 260 Stamina. Light Armor Mastery improves this rating but not other perks. Doesn't stack with protection spells. |
+| *** Unarmored Defense | Light Armor 100 | When not wearing any armor, regenerate an extra 5% of your maximum Stamina per second and gain Armor Rating depending on your current Stamina, up to 280 Armor for 350 Stamina. Light Armor Mastery improves this rating but not other perks. Doesn't stack with protection spells. |
 | Light Armor Fit | Light Armor 30 | Armor rating of Light Armor increased by 25% if wearing all Light Armor. |
 | Light Rider | Light Armor 30 | Horses you ride move 50% faster and regenerate Stamina faster. Does not stack with Heavy Rider |
 | As a Leaf | Light Armor 30 | Movement speed increased by 10% when not wearing Heavy Armor. Unlocks Double Jump. |
@@ -495,8 +499,8 @@ This is a full listing of the perks available to characters in the list :
 
 | Perk  | Skill | Description |
 | ------------- | ------------- | ------------- |
-| Pickpocket Mastery | Pickpocket 20 | Adds 20% to your pickpocket chance and increases carry weight by 50 points. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. |
-| * Pickpocket Mastery | Pickpocket 40 | Adds 40% to your pickpocket chance and increases carry weight by 100 points. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. Can pickpocket any race of creature. |
+| Pickpocket Mastery | Pickpocket 20 | Adds 20% to your pickpocket chance and increases carry weight by 50 points. Can craft Disguise Masks at tanning racks. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. |
+| * Pickpocket Mastery | Pickpocket 40 | Adds 40% to your pickpocket chance and increases carry weight by 100 points. Can craft Disguise Masks at tanning racks. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. Can pickpocket any race of creature. |
 | Trained Rabbit | Pickpocket 20 | Grants the "Trained Rabbit" power. At will, silently sends out a trained rabbit to lead you to the nearest loose valuable item (armor, weapon, key, book, soul gem, ingredient). It then returns to you. |
 | Blood Money | Pickpocket 20 | You find 10-100 more gold when looting humanoid corpses slain in an especially violent fashion (with an attack that dealt at least 100 more damage than their remaining Health or a killmove). |
 | Cutpurse | Pickpocket 30 | Odds of pickpocketing gold, keys, gems and jewelry increased by 50%. |
@@ -586,22 +590,22 @@ This is a full listing of the perks available to characters in the list :
 | * Electrobolt | Smithing 70 | Every fifth Dwarven Autocannon shot is an electromagnetic blast that moves slower than a regular shell but deals shock damage to Health and Magicka equal to 240% of your Smithing skill level. |
 | Armor Padding | Smithing 40 | Can create and temper Linen and Leather padding at a tanning rack. They are clothing or Light Armor, function as body armor, and can be enchanted at 25% strength. |
 | Layered Plates | Smithing 40 | Can create and temper Steel, Dwarven and Orichalcum armor plates at forges. They are Heavy Armor, function as body armor and can be enchanted at 25% strength. |
-| Orcish Smithing | Smithing 50 | Can create Orcish armor and weapons at forges, and improve them twice as much. Orcish equipment you wield is 5% more effective. |
+| Orcish Smithing | Smithing 50 | Can create Orcish armor and weapons at forges, and improve them twice as much. Orcish equipment you wield is 10% more effective. |
 | Remote Control | Smithing 50 | Your Dwarven Autocannon now fires regardless of the distance between it and you. |
-| Advanced Armors | Smithing 50 | Can create Scaled and Plate armor at forges, and improve them twice as much. Scaled and Plate equipment you wield is 5% more effective. |
+| Advanced Armors | Smithing 50 | Can create Scaled and Plate armor and Nordic weapons at forges, and improve them twice as much. Scaled, Plate and Nordic equipment you wield is 10% more effective. |
 | Smithing Specialization | Smithing 60 | You may choose an item type: One-Handed, Two-Handed, Light Armor, Heavy Armor or Archery. Items of the chosen type can be improved 20% better at a grindstone or workbench. |
 | Field Forge | Smithing 60 | Your carry weight is increased by 50. You can create a Field Forge kit at a forge. Use it once every 180 seconds to create a bridge, bed or crafting station of your choice, which crumbles after 180 seconds or upon entering combat. |
 | Sandstone Sheath | Smithing 60 | When you draw a weapon, it is automatically sharpened, granting 25% extra attack damage for 10 seconds. This can only occur once every 30 seconds. |
-| Ebony Smithing | Smithing 70 | Can create Ebony armor and weapons at forges, and improve them twice as much. Ebony equipment you wield is 5% more effective. |
+| Ebony Smithing | Smithing 70 | Can create Ebony armor and weapons at forges, and improve them twice as much. Ebony equipment you wield is 15% more effective. |
 | Firing Line | Smithing 70 | Your Dwarven Autocannon now deploys two cannons side by side. |
-| Glass Smithing | Smithing 70 | Can create Glass armor and weapons at forges, and improve them twice as much. Glass equipment you wield is 5% more effective. |
+| Glass Smithing | Smithing 70 | Can create Glass armor and weapons at forges, and improve them twice as much. Glass equipment you wield is 15% more effective. |
 | Iron Lore | Smithing 80 | If you Specialized in an armor type, your attacks ignore 15% of the armor rating of enemies wearing items of the chosen type. If you Specialized in a weapon type, you take 10% less damage from weapons of the chosen type. |
 | Spin Up | Smithing 80 | Your Dwarven Autocannon gradually shoots faster over time, gaining 2% firing speed per shot, up to 200%. |
 | High Yield Mining | Smithing 80 | Ore veins produce twice as much ore when mined. |
-| Daedric Smithing | Smithing 90 | Can create Daedric armor and weapons at forges, and improve them twice as much. Daedric equipment you wield is 5% more effective. |
+| Daedric Smithing | Smithing 90 | Can create Daedric armor and weapons at forges, and improve them twice as much. Daedric equipment you wield is 20% more effective. |
 | Fuel the Inferno | Smithing 90 | When activating an Advanced Grindstone or Advanced Workbench, you may choose to sacrifice a Dragon Soul to improve items by a further one tier during that session. |
 | Hidden Enchantments | Smithing 90 | Can now enchant padding and armor plates at 50% strength. |
-| Dragon Smithing | Smithing 90 | Can create Dragon armor and Dragonbone weapons at forges, and improve them twice as much. Dragon equipment you wield is 5% more effective. |
+| Dragon Smithing | Smithing 90 | Can create Dragon armor and Dragonbone weapons at forges, and improve them twice as much. Dragon equipment you wield is 20% more effective. |
 | Heart of Creation | Smithing 100 | Pour your Dragonborn blood into the fire at one forge. Forging an item in this forge empowers you, increasing attack damage and critical strike damage by 15% and reducing attack damage taken by 15% for 1800 seconds. |
 
 | Perk  | Skill | Description |
