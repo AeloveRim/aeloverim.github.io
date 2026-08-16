@@ -244,7 +244,7 @@ A few alternate Dawnguard paths have also been added. Vampires can do the quest 
 
 ## Vampires and Werewolves
 [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is the Vampire overhaul. [Nightmare Night](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is the werewolf overhaul.
-They have both been tweaked in various ways. Vampire's Shroud lasts much longer, and the stat regeneration penalty in sunlight has been decreased from 1000% to 100%, so having extra stat regeneration bonuses will allow you to still regenerate a little bit in sunlight. However, the Champion of the Night, Unnatural Strength and Nightstalker's footsteps abilities have a lower magnitude, and the Vampire's Seduction power now only works against targets who are not currently in combat.
+They have both been tweaked in various ways. The higher ranks of Vampirism now require a minimum character level. Vampire's Shroud lasts much longer, and the stat regeneration penalty in sunlight has been decreased from 1000% to 100%, so having extra stat regeneration bonuses will allow you to still regenerate a little bit in sunlight. However, the Champion of the Night, Unnatural Strength and Nightstalker's footsteps abilities have a lower magnitude, and the Vampire's Seduction power now only works against targets who are not currently in combat.
 
 For werewolves, Bestial Strength and Inhuman Strength have been nerfed, and Nightmare's Requiem now has a time limit. Werewolves can no longer ragdoll people by power attacking, but they get the ability to pick up and throw most NPCs once they have been brought down to at least half their health.
 
