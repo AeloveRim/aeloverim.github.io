@@ -7,7 +7,7 @@ nav_order: 3
 # Gameplay Guide
 
 ## Essential VR mod tutorials
-If this is your first time playing Skyrim VR, you may want to watch these tutorial videos to understand how some of the essential mods function.
+If this is your first time playing Skyrim VR, you may want to watch these tutorial videos to understand how some of the essential mods function. 
 - https://youtu.be/CEi7gwN8hgg
 - https://youtu.be/Nd9A-_G2eXU
 
