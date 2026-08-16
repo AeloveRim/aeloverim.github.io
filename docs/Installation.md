@@ -170,6 +170,7 @@ Before starting, you can make choices in the Optional sections of the list, colo
 - Auto Sneak and Jump VR : Lets you sneak by physically crouching and jump by physically jumping. The mod contains an ini file that may have to be edited depending on your own height. Disable to return to vanilla sneak behavior.
 - Physical Collision VR : Stops your hands and your weapons from phasing through walls and other physical objects.
 - Immersive Weapon Penetration VR : Adds stabbing physics allowing blades to penetrate enemy bodies and stick inside.
+- Interactive Activators VR : Allows you to physically handle activators such as levers, switches, puzzle pillars and many more rather than just pressing a button. Some people report having trouble getting it to work properly though.
 
 ### Block and parry settings
 Pick only one of the options given.
