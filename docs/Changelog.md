@@ -5,6 +5,9 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V2.02
+- Force ShadowRes Launcher now actually does what it's supposed to without eating newlines
+ 
 ## Tahrovin Grit V2.0
 - Added Physical Collision VR to Optionals
 - Added Immersive Weapon Penetration to Optionals
