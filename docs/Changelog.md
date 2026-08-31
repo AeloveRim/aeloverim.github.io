@@ -5,6 +5,16 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V2.03
+- Added Why I Came to Skyrim - Ask Innkeepers
+- Added Chooey's Dint Ears Edit
+- Updated Physical Collision VR to v4.1.0
+- Updated Interactive Activators VR to v1.1.8
+- Removed a bunch of modded locations as possible respawn points for Shadows of Skyrim
+- Fixed skill xp sometimes getting stuck when training while under certain specific skill xp modifiers
+- Fixed Personalized Music not working fully in all regions
+- Fixed a bunch of issues with the Familiar Bond perk
+
 ## Tahrovin Grit V2.02
 - Force ShadowRes Launcher now actually does what it's supposed to without eating newlines
  
