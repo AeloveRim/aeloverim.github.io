@@ -60,7 +60,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Undermine | Adept Alteration | For (dur) seconds, shifting earth causes the target to lose its balance when swinging a melee weapon, staggering the target and draining (30) points of Stamina. |
 | Whirlwind Cloak | Adept Alteration | For (dur) seconds, opponents in melee range have a chance of being flung away.
 | Destroy Construct | Expert Alteration | Deals (mag) Magic damage per second for (dur) seconds to Dwarven automatons. |
-| Equilibrium | Expert Alteration |  |
+| Equilibrium | Expert Alteration | Sacrifices Health to restore a moderate amount of Magicka and Stamina. |
 | Transmute Ore | Expert Alteration | Transmutes two pieces of Iron Ore into one piece of Silver Ore, or two pieces of Silver Ore into one piece of Gold Ore. |
 | Arcane Vortex | Expert Alteration | Pull enemies in a large area around the caster to the caster. Pulled enemies can not be pulled again for 10 seconds. |
 | Ash Cloud | Expert Alteration | Encases enemies in a large area in ash for (dur) seconds. Attacking an encased enemy will end this spell. |
