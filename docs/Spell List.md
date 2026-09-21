@@ -8,6 +8,7 @@ nav_order: 5
 
 Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custom modded spells. Here is a list of the spells your character will be able to research through the Spellforge, with values such as (dur) and (mag) depending on your character : 
 
+
 [Alteration](#Alteration)
 
 [Conjuration](#Conjuration)
@@ -17,6 +18,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 [Illusion](#Illusion)
 
 [Restoration](#Restoration)
+
 
 
 ## Alteration
@@ -129,8 +131,8 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Conjure Spectral Wolf | Novice Conjuration | Summons a Spectral Wolf for (dur) seconds. |
 | Consuming Power | Novice Conjuration | Allied summoned or reanimated minion gains (mag)% extra attack damage for (dur) seconds, then dies. |
 | Raise Zombie | Novice Conjuration | Reanimates a corpse up to level (mag) for (dur) seconds. |
-| Conjure Avenging Wraith | Novice Conjuration | Summons an Avenging Wraith for (dur) seconds. Its stats are equal to (Global=WB_Conjuration_ConjureAvengingWraith_Global_Mult)% of those of the opponent that last killed it ((Global=WB_Conjuration_ConjureAvengingWraith_Global_Health) Health, (Global=WB_Conjuration_ConjureAvengingWraith_Global_Magicka) Magicka, (Global=WB_Conjuration_ConjureAvengingWraith_Global_Stamina) Stamina). |
-| Soul Trap | Novice Conjuration | If the target dies within (dur) seconds, fills a soul gem. |
+| Conjure Avenging Wraith | Novice Conjuration | Summons an Avenging Wraith for (dur) seconds. Its stats are equal to a percentage of those of the opponent that last killed it. |
+| Summon Arcane Arrow | Novice Conjuration | Summons an Arcane Arrow after a 2 second delay.  These arrows are infinite, but cost mana to shoot and will desummon if you cannot pay the cost. Clears arcane sigil. |
 | Atronach Mark | Apprentice Conjuration | Marks a target for (dur) seconds. The mark detonates when struck by a summoned or reanimated minion, dealing magic damage equal to (15)% of the target's Health. |
 | Bound Mace | Apprentice Conjuration | Summons a Bound Mace for (dur) seconds. |
 | Bound Shield | Apprentice Conjuration | Summons a Bound Shield for (dur) seconds. |
@@ -148,6 +150,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Conjure Spectral Dire Wolf | Apprentice Conjuration | Summons a Spectral Dire Wolf for (dur) seconds. |
 | Power of the Master | Apprentice Conjuration | Casts the (beneficial self-targeted) spell in your left hand on all nearby summoned or reanimated minions. |
 | Reanimate Corpse | Apprentice Conjuration | Reanimates a corpse up to level (mag) for (dur) seconds. |
+| Soul Trap | Apprentice Conjuration | If the target dies within (dur) seconds, fills a soul gem. |
 | Summon Flame Arrow | Apprentice Conjuration | Summons a Flame Arrow after a 2 second delay.  These arrows are infinite, but cost mana to shoot and will desummon if you cannot pay the cost.  Damage resistance is fire based. Clears flame sigil. |
 | Summon Frost Arrow | Apprentice Conjuration | Summons a Frost Arrow after a 2 second delay.  These arrows are infinite, but cost mana to shoot and will desummon if you cannot pay the cost.  Damage resistance is frost based. Clears frost sigil. |
 | Summon Shock Arrow | Apprentice Conjuration | Summons a Shock Arrow after a 2 second delay.  These arrows are infinite, but cost mana to shoot and will desummon if you cannot pay the cost.  Damage resistance is shock based and has a bonus against automatons and spellcasters. Clears shock sigil. |
@@ -242,7 +245,6 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 
 | Spell | Skill | Description |
 | ------------- | ------------- | ------------- |
-| Summon Arcane Arrow | Novice Conjuration | Summons an Arcane Arrow after a 2 second delay.  These arrows are infinite, but cost mana to shoot and will desummon if you cannot pay the cost. Clears arcane sigil. |
 | Arcane Mist | Novice Destruction | Deals (mag) magic damage to health and twice as much to magicka per second. Damage to health is tripled against enemies without magicka. |
 | Crackle | Novice Destruction | Does (mag) damage to Health and Magicka. A static cloud follows the target, dealing up to (mag) damage. |
 | Flames | Novice Destruction | Deals (mag) Fire damage per second. Targets on fire take extra damage over time. |
