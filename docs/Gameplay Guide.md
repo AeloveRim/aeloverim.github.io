@@ -110,8 +110,8 @@ The following mods are particularly relevant for mage gameplay :
 - [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) and [Arcane](https://www.nexusmods.com/skyrimspecialedition/mods/91602) spell mods from Darenii
 - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) rebalances enchanted items																																																																									  
 - [Sexlab Enchantress](https://www.loverslab.com/files/file/9712-sexlab-enchantress-se) provides sexlab-related versions of the basic illusion spells. These spells do not replace the actual basic illusion spells here, there will usually be a regular version and an erotic version of the spell that can be learned separately.  
-- The [Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627) magic system is available, but not immediately. To unlock it, use the Arcane Manual in your inventory, you will need at least 25 Restoration and either 20 Destruction or 20 Conjuration.
-- The [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/158538) magic system is similarly locked and requires 15 Enchanting, 20 One-handed and 25 in any spellcasting skill to unlock.
+- The [Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627) magic system is available, but not immediately. To unlock it, use the Arcane Manual in your inventory, you will need at least 25 Restoration, either 15 Destruction or 15 Conjuration, and you will have to spend 20 Arcane Resin or School Theses.
+- The [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/158538) magic system is similarly locked and requires 15 Enchanting, 20 One-handed or Two-handed, 20 in any spellcasting skill, and 20 Arcane Resin or School Theses to unlock.
 - Various other small additions : [Immersive Bend Will](https://www.nexusmods.com/skyrimspecialedition/mods/62233), [Perception](https://www.nexusmods.com/skyrimspecialedition/mods/7559), [NPCs react to Necromancy](https://www.nexusmods.com/skyrimspecialedition/mods/70428)[/Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/91480).
 																																	 
 
