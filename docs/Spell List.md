@@ -7,11 +7,17 @@ nav_order: 5
 # Perk List
 
 Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custom modded spells. Here is a list of the spells your character will be able to research through the Spellforge, with values such as (dur) and (mag) depending on your character : 
+
 [Alteration](#Alteration)
+
 [Conjuration](#Conjuration)
+
 [Destruction](#Destruction)
+
 [Illusion](#Illusion)
+
 [Restoration](#Restoration)
+
 
 ## Alteration
 
