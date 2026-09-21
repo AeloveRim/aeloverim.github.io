@@ -56,18 +56,18 @@ This is a full listing of the perks available to characters in the list :
 | Distorted Shape | Alteration 40 | When you gain an armor spell in combat (or enter combat with an active armor spell), you become intangible and unable to be affected by spells or attacks for 10 seconds or until you perform an offensive or defensive action. |
 | Spellblade | Alteration 40 | Whenever you cast a spell with one hand, you deal 20% more attack damage for 4 seconds. |
 | Command Lock | Alteration 40 | Once every 6 ingame hours, you can weaken an Expert or lower lock, reducing its difficulty to zero. |
-| Alter Self: Resistances | Alteration 40 | You may choose two resistances to increase by 25%. |
+| Alter Self: Resistances | Alteration 40 | You may choose two resistances to increase by 25% while affected by an armor spell. |
 | Alteration Sorcerer | Alteration 40 | Alteration spells last 15% longer and are 15% more effective if not wearing armor. |
 | Quadratic Wizard | Alteration 50 | Whenever you recharge your Vancian Magic spells, you gain 1 additional Vancian Magic spell for each 10 points of base Magicka. |
 | Intuitive Magic | Alteration 50 | Novice spells of any school for which you have a Mastery perk cost 100% less Magicka to cast. |
 | * Intuitive Magic | Alteration 80 | Novice and apprentice spells of any school for which you have a Mastery perk cost 100% less Magicka to cast. |
 | Stability | Alteration 50 | Alteration spells and effects last 25% longer. |
-| Telekinetic Force | Alteration 50 | Objects thrown with Telekinesis deal an extra 250 points of damage. |
-| * Telekinetic Force | Alteration 80 | Objects thrown with Telekinesis deal an extra 500 points of damage. |
+| Spell Twine | Alteration 50 | Grants the Spell Twine spell. Bind effects (Healing, Speed, Defense, Cost Reduction, etc...) to up to three spells, triggering them when the spell is cast. |
+| Telekinetic Force | Alteration 50 | Objects thrown with Telekinesis deal an extra 100 points of damage. The Telekinesis and Grand Telekinesis spells cost 50% less magicka. |
+| * Telekinetic Force | Alteration 80 | Objects thrown with Telekinesis deal an extra 200 points of damage. The Telekinesis and Grand Telekinesis spells cost 75% less magicka. |
 | Energy Shield | Alteration 60 | If wearing robes or clothing and no light or heavy armor, reduces incoming attack and elemental damage by 35% but you lose Magicka equal to the amount of Health lost. The damage reduction gradually diminishes as Magicka falls below half. The energy shield is disabled when your hands are lowered. |
-| Welloc's Dormant Arcana | Alteration 60 | Choose a spell type (Armor, Cloak, Conjure Daedra, Conjure Undead, Invisibility) and 3 magic effects (Fortify, Regenerate, Waterwalking, ...). The chosen magic effects will activate when you are affected by the chosen spell type. |
 | Home Mythal | Alteration 60 | Summons a permanent magical field at the location where you learn this perk. Alteration spells gain x2 duration if cast within 5000 feet, and x20 duration if cast within 250 feet. Additionally, Vancian Magic can be recharged by sleeping within 250 feet. |
-| Alter Self: Attributes | Alteration 60 | You may choose an attribute (Health, Magicka, Stamina) to increase by 50 points. |
+| Alter Self: Attributes | Alteration 60 | You may choose an attribute (Health, Magicka, Stamina) to increase by 50 points while affected by an armor spell. |
 | Energy Roil | Alteration 70 | Whenever you cast a spell with one hand, reduces the armor of nearby enemies within 10 feet by 150 points for 4 seconds. |
 | The Monarch | Alteration 70 | You cannot regenerate Magicka and lose 10 points of Magicka per second but absorb 25 points of Magicka per second from living creatures within 20 feet, whether friend or foe. |
 | Arcane Guidance | Alteration 70 | Detection spells reveal targets from much farther away. |
@@ -152,7 +152,7 @@ This is a full listing of the perks available to characters in the list :
 | Conjuration Mastery | Conjuration 20 | Cast Conjuration spells for 35% less Magicka, and Conjuration spells last 0.5% longer per level of Conjuration. |
 | * Conjuration Mastery | Conjuration 40 | Cast Conjuration spells for 50% less Magicka, and Conjuration spells last 1% longer per level of Conjuration. |
 | Conjuration Dual Casting | Conjuration 20 | Dual casting a Conjuration spell empowers it, increasing effectiveness and cost. |
-| Mystic Binding | Conjuration 20 | Bound Weapon spells now summon Mystic Weapons which deal more damage. |
+| Mystic Binding | Conjuration 20 | Bound Weapon spells now summon Mystic Weapons which deal more damage. Bound Shields create wards if you have both levels of Restoration Mastery, with strength between 50 and 110 depending on Restoration skill. |
 | Bone Collector | Conjuration 20 | Find 11 types of bones on humanoid corpses. Bone Altars are marked on the map. At Bone Altars, convert 1 of each bone into a Skeleton Warrior that does not count against your summon limit and cannot be permanently destroyed by enemies. Grants the "Call Minions" and "Halt Skeletons" powers. |
 | Druidic Pact | Conjuration 20 | The Conjure Spectral Wolf, Dire Wolf, Sabre Cat, Bear and Manbeast spells now call more resilient druidic versions of the creatures. Necromancy spell costs are tripled. Cannot take along with the Bone Collector or Rat King perks. |
 | Bestial Wrath | Conjuration 20 | Summoned druidic creatures and bonded familiars deal 15 more damage per attack. |
@@ -654,12 +654,14 @@ This is a full listing of the perks available to characters in the list :
 | Time to Duel | Speech 20 | Once every 24 ingame hours, when you start a Triple Triad duel, your opponent will have stronger cards but also more gold to bet depending on his cards' strength. |
 | Desirable | Speech 20 | Romance and Prostitution attempts are 30% more likely to succeed. |
 | Kinship | Speech 30 | Buy items for 15% less when trading with the same race. |
+| Carnal Discount | Speech 30 | After you've triggered a Refractory Period by having sex with a merchant, their prices are permanently 10% better. This requires genital penetration and the right VRSex orientation. It works retroactively with merchants you've already had sex with. |
 | Bribery | Speech 30 | Can bribe guards to ignore crimes. |
 | Serenade | Speech 30 | Performing to members of the opposite sex yields twice as much gold and potentially small items. |
 | Business Relation | Speech 40 | Create a permanent bond with the next merchant you speak with. Buy items for 30% less from that specific merchant. |
 | Windborne | Speech 40 | Shouting summons up a divine wind, granting 30% extra attack damage and 15% increased movement speed for 15 seconds. This effect stacks. |
 | Screw The Rules | Speech 40 | At the beginning of a Triple Triad match, if you dislike the rules being used, you may choose to randomize them. |
 | Salesman | Speech 50 | Can sell any type of item to any kind of merchant. |
+| Carnal Conscription | Speech 50 | Grants the Carnal Conscription power. Once every 600 seconds, having sex with an NPC while the power is active turns them into an ally for 600 seconds, then calms them for 300 seconds. The NPC or creature must be living, non-protected, non-essential, and no stronger than twice your level. |
 | Force Redoubled | Speech 50 | 25% chance to reduce the cooldown of any shout to 3 seconds. |
 | * Force Redoubled | Speech 80 | 50% chance to reduce the cooldown of any shout to 3 seconds. |
 | Irresistible Dance | Speech 50 | Can Perform in combat to force the two nearest enemy people within 100 feet to dance spellbound, preventing them from acting and reducing their armor skills by 50 levels. Use again to stop. |
@@ -671,6 +673,7 @@ This is a full listing of the perks available to characters in the list :
 | Skald | Speech 60 | Power attacks reduce the remaining duration of your shout cooldown by 5 seconds. |
 | Shadow Realm | Speech 60 | At will, challenge any humanoid up to 10 levels above your own to a Triple Triad duel. They will have stronger cards than usual. The loser is left on the verge of death and paralyzed for 30 seconds. |
 | Fence | Speech 70 | Can barter stolen goods with any merchant. |
+| Carnal Bolstering | Speech 70 | NPCs under the effect of Carnal Conscription receive 100 extra health, stamina and magicka and regenerate health quickly. |
 | Thu'um of War | Speech 70 | Your shouts stagger nearby enemies within 25 feet, reducing armor rating by 300 points for 10 seconds and knocking enemies below 25% Health to the ground. |
 | Horn of Sovngarde | Speech 70 | Grants the "Horn of Sovngarde" power. Once a day, blow a horn to call the nearest three friendly people (except followers) within 200 feet to follow you for 600 seconds. |
 | * Horn of Sovngarde | Speech 100 | Grants the "Horn of Sovngarde" power. Once a day, blow a horn to call the nearest three friendly people (except followers) within 200 feet to follow you for one ingame day. |
@@ -738,7 +741,12 @@ Besides the regular perks, you may also unlock abilities through the Arcane Rese
 
 | Ability  | Prerequisites | Cost | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Conduit | Enchanting 15, One-handed 20, Any spellcasting skill 25 | - | Unlocks short term weapon infusions ([Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023)). |
-| Spellsiphon | Restoration 25 and either Destruction 20 or Conjuration 20 | - | Absorption of external energies for use in various forms ([Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627)). |
+| Conduit | Enchanting 15, One-handed or Two-handed 20, Any spellcasting skill 20 | 20 Arcane Resin or School Theses | Unlocks short term weapon infusions ([Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023)). |
+| Spellsiphon | Restoration 25 and either Destruction 15 or Conjuration 15 | 20 Arcane Resin or School Theses | Absorption of external energies for use in various forms ([Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627)). |
 | Draconic Transportation | - | 3 Dragon Souls | Unlocks 1/day fast travel |
 | Rites of Worship | Favor 40 with any god | 1 Perk Point | Allows you to rise above Initiate rank in your chosen religion and gain new abilities by increasing your divine favor. ([Gods and Worship](https://www.nexusmods.com/skyrimspecialedition/mods/45011)). |
+
+The Lustful Eye perk may also be researched through the VRSex manual :
+| Ability  | Prerequisites | Cost | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| Conduit | - | 1 Perk Point | At most once per day, randomly when in a major city or an habitation, illuminates a random citizen within your sexual orientation for 3000 seconds. If you trigger a Refractory Period by having sex with the target during this time, you gain 2 permanent points of health, stamina or magicka, chosen at random. |
