@@ -53,7 +53,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Wither | Apprentice Alteration | Reduces a target's movement speed and attack damage by (mag)% each second for (dur) seconds. |
 | Locate Object | Apprentice Alteration | Illuminates the nearest ore vein, gold, container, door, key, soul gem, written text, potion, gem, ingot or equipment of your choice for (dur) seconds. |
 | Arcane Warp | Adept Alteration | Pull enemies in a large area to the caster and return them after 5 seconds. Pulled enemies can not be pulled again for 10 seconds. |
-| Ash Form | Adept Alteration | Encases enemies in ash for (dur) seconds. Attacking an encased enemy will end this spell. |
+| Ash Form | Adept Alteration | Encases enemies in ash for (dur) seconds. Encased enemies are paralyzed but immune to attacks. |
 | Burden | Adept Alteration | Reduces enemy Movement and Attack Speed by (mag)% for (dur) seconds. |
 | Corrode Armor | Adept Alteration | Reduces enemy Armor Rating by (mag) for (dur) seconds. |
 | Detect Dead | Adept Alteration | You can see nearby corpses and undead through walls. |
@@ -76,8 +76,8 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Equilibrium | Expert Alteration | Sacrifices Health to restore a moderate amount of Magicka and Stamina. |
 | Transmute Ore | Expert Alteration | Transmutes two pieces of Iron Ore into one piece of Silver Ore, or two pieces of Silver Ore into one piece of Gold Ore. |
 | Arcane Vortex | Expert Alteration | Pull enemies in a large area around the caster to the caster. Pulled enemies can not be pulled again for 10 seconds. |
-| Ash Cloud | Expert Alteration | Encases enemies in a large area in ash for (dur) seconds. Attacking an encased enemy will end this spell. |
-| Ash Rune | Expert Alteration | Creates a rune that explodes when enemies approach, encasing nearby enemies in ash for (dur) seconds. Attacking an encased enemy will end this spell. |
+| Ash Cloud | Expert Alteration | Encases enemies in a large area in ash for (dur) seconds. Encased enemies are paralyzed but immune to attacks. |
+| Ash Rune | Expert Alteration | Creates a rune that explodes when enemies approach, encasing nearby enemies in ash for (dur) seconds. Encased enemies are paralyzed but immune to attacks. |
 | Burden Rune | Expert Alteration | Creates a rune that explodes when enemies approach, staggering enemies and reducing their Movement Speed by (mag)% for (dur) seconds. |
 | Deep Storage | Expert Alteration | Grants access to an infinite underground storage space. |
 | Detect All | Expert Alteration | You can see all nearby targets, including Daedra and automatons, through walls. |
@@ -99,7 +99,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Arcane Distortion | Master Alteration | Pull enemies in a large area around the caster to the caster and return them after 5 seconds. Pulled enemies can not be pulled again for 10 seconds. |
 | Armoreater | Master Alteration | Reduces enemy Armor Rating in a large area by (mag) for (dur) seconds. |
 | Battletide | Master Alteration | Steals (mag) points of armor rating from each nearby target for (dur) seconds. The caster gains the total amount stolen. |
-| Cinder Storm | Master Alteration | Encases enemies in a massive area in ash for (dur) seconds. Attacking an encased enemy will end this spell. |
+| Cinder Storm | Master Alteration | Encases enemies in a massive area in ash for (dur) seconds. Encased enemies are paralyzed but immune to attacks. |
 | Control Weather | Master Alteration | Temporarily summon the weather of your choice. |
 | Dragonhide | Master Alteration | Your Armor Rating is increased by (mag) for (dur) seconds. |
 | Dwemerbane | Master Alteration | Deals (mag) Magic damage per second for (dur) seconds to Dwarven automatons. |
