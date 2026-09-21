@@ -11,7 +11,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 ## Alteration
 
 | Spell | Skill | Description |
-| Alarm | Novice Alteration | For <dur> seconds, alerts you when an enemy crosses the <mag> foot perimeter. |
+| Alarm | Novice Alteration | For dur seconds, alerts you when an enemy crosses the mag foot perimeter. |
 | Arcane Draw | Novice Alteration | Pull enemies to the caster and return them after 5 seconds. Pulled enemies can not be pulled again for 10 seconds. |
 
 
