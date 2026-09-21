@@ -10,11 +10,11 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 
 ## Alteration
 
+
 | Spell | Skill | Description |
-| Alarm | Novice Alteration | For dur seconds, alerts you when an enemy crosses the mag foot perimeter. |
+| ------------- | ------------- | ------------- |
+| Alarm | Novice Alteration | For <dur> seconds, alerts you when an enemy crosses the <mag> foot perimeter. |
 | Arcane Draw | Novice Alteration | Pull enemies to the caster and return them after 5 seconds. Pulled enemies can not be pulled again for 10 seconds. |
-
-
 | Candlelight | Novice Alteration | You create a hovering light that lasts for <dur> seconds. |
 | Longstride | Novice Alteration | While concentrating, grants <mag>% movement speed and <25> carry weight, tripled when out of combat. |
 | Oakflesh | Novice Alteration | Your Armor Rating is increased by <mag> for <dur> seconds. |
@@ -109,6 +109,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 ## Conjuration
 
 | Spell | Skill | Description |
+| ------------- | ------------- | ------------- |
 | Arcane Binding | Novice Conjuration | Enchants an unenchanted bow to enable it to use arcane arrows, or engraves the equipped spell to an appropriate arrow type (granting you the "Arcane Tap" minor power). |
 | Azure Reconstruction | Novice Conjuration | Expend <mag> Stamina per second to heal a <damaged> conjured minion <mag> points per second. |
 | Bound Dagger | Novice Conjuration | Summons a Bound Dagger for <dur> seconds. |
@@ -229,6 +230,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Chromatic Sigil | Master Conjuration | Sets or unsets the chromatic sigil.  Modifies the ignite, chill, charge, and dawn sigils to double their elemental bonus damage, and increase the base modifier against weak opponents from 25% to 50%. |
 
 | Spell | Skill | Description |
+| ------------- | ------------- | ------------- |
 | Summon Arcane Arrow | Novice Conjuration | Summons an Arcane Arrow after a 2 second delay.  These arrows are infinite, but cost mana to shoot and will desummon if you cannot pay the cost. Clears arcane sigil. |
 | Arcane Mist | Novice Destruction | Deals <mag> magic damage to health and twice as much to magicka per second. Damage to health is tripled against enemies without magicka. |
 | Crackle | Novice Destruction | Does <mag> damage to Health and Magicka. A static cloud follows the target, dealing up to <mag> damage. |
@@ -384,6 +386,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 ## Illusion
 
 | Spell | Skill | Description |
+| ------------- | ------------- | ------------- |
 | Calm | Novice Illusion | Living targets up to level <mag> won't fight for <dur> seconds. |
 | Clairvoyance | Novice Illusion | Shows the path to the current goal. |
 | Courage | Novice Illusion | Nearby living allies receive <25> extra Health, Magicka, and Stamina for <dur> seconds. |
@@ -479,6 +482,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 ## Restoration
 
 | Spell | Skill | Description |
+| ------------- | ------------- | ------------- |
 | Bone Spirit | Novice Restoration | Casts a vengeful spirit that homes in on the target and explodes for <mag> points of magic damage to undead. |
 | Circle of Strength | Novice Restoration | Steals <mag> points of Stamina per second from hostiles inside the circle. |
 | Healing | Novice Restoration | Restores <mag> Health per second. |
