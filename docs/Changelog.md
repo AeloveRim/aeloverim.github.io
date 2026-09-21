@@ -5,6 +5,36 @@ nav_order: 8
 ---
 
 # Changelog
+## Tahrovin Grit V2.04
+- Added Planck VR Stability Patch
+- Added Inventory Selfie VR Redux
+- Added Conduit - Two-handed Addon
+- Added Frea - A Lightweight Dialogue Expansion
+- Added Yet Another Lydia Dialogue Expansion
+- Added Missives - Board still updating
+- Added Racemenu VR Layout Fix
+- Added a tweaked version of Racemenu Selector of Skins
+- Added the option to turn armor into skimpy "bikini-armor" style clothing at a tanning rack with the Lingerie book
+- Added optional distribution for enchanted bikini-armor style clothing to rare enemies
+- Updated VR Climbing Aelove Ver to v0.11.2
+- Updated Faster HDT-SMP to v4.0.1
+- Updated VRIK to v0.8.7
+- Updated Why I Came to Skyrim - Ask Innkeepers to v1.2
+- Removed Yamete Redux
+- Bounty hunters now chase you down if your bounty is high enough (more dangerous than the vanilla ones)
+- Mystic Bound Shields now create wards if you also have both levels of Restoration Mastery, with strength depending on Restoration skill
+- Enemies are now immune to attacks while under the effect of ash spells
+- Modified Kynareth's and Sheogorath's Boon powers
+- The Alter Self perks now only work while affected by an armor spell
+- The Welloc's Dormant Arcana perk has been replaced with Spell Twine
+- Spell Twine has been removed from the normal spell list
+- Spell Twine's healing effect now works over 5 seconds
+- The Telekinetic Force perks now do less damage but reduce magicka cost
+- The prerequisites for unlocking Conduit and Spellsiphon have been lowered but doing so now costs Arcane Resin or School Theses.
+- Some of the Sexlab Solution dialogs have been locked behing the Desirable speech perk
+- Added Carnal Discount, Carnal Conscription, and Carnal Bolstering speech perks
+- Added Lustful Eye perk, can be bought through the VRSex manual
+
 ## Tahrovin Grit V2.03
 - Added Why I Came to Skyrim - Ask Innkeepers
 - Added Chooey's Dint Ears Edit
