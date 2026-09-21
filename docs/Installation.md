@@ -171,6 +171,7 @@ Before starting, you can make choices in the Optional sections of the list, colo
 - Physical Collision VR : Stops your hands and your weapons from phasing through walls and other physical objects.
 - Immersive Weapon Penetration VR : Adds stabbing physics allowing blades to penetrate enemy bodies and stick inside.
 - Interactive Activators VR : Allows you to physically handle activators such as levers, switches, puzzle pillars and many more rather than just pressing a button. Some people report having trouble getting it to work properly though.
+- Skimpy Armor Distribution : Makes some fairly rare bandit enemies wear enchanted sets of bikini-style armor. The armors themselves are actually just clothing with no armor value, but they have enchantments that still make them useful for defense.
 
 ### Block and parry settings
 Pick only one of the options given.
