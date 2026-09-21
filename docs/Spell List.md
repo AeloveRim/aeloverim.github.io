@@ -4,7 +4,7 @@ layout: home
 nav_order: 5
 ---
 
-# Perk List
+# Spell List
 
 Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custom modded spells. Here is a list of the spells your character will be able to research through the Spellforge, with values such as (dur) and (mag) depending on your character : 
 
@@ -242,6 +242,8 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Runic Binding | Master Conjuration | Enchants an unenchanted bow to enable it to use arcane arrows, or engraves the equipped spell to an appropriate arrow type (granting you the "Runic Tap" minor power).  This is an alternate engraving from the Arcane Binding. |
 | Summon Arrow Of The North Star | Master Conjuration | Summons an Arrow Of The North Star.  This arrow dooms targets with less than 40% health to die in 3 seconds.  Enemies that are close will refund the arrow. |
 | Chromatic Sigil | Master Conjuration | Sets or unsets the chromatic sigil.  Modifies the ignite, chill, charge, and dawn sigils to double their elemental bonus damage, and increase the base modifier against weak opponents from 25% to 50%. |
+
+## Destruction
 
 | Spell | Skill | Description |
 | ------------- | ------------- | ------------- |
