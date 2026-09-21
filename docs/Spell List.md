@@ -13,6 +13,8 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Spell | Skill | Description |
 | Alarm | Novice Alteration | For <dur> seconds, alerts you when an enemy crosses the <mag> foot perimeter. |
 | Arcane Draw | Novice Alteration | Pull enemies to the caster and return them after 5 seconds. Pulled enemies can not be pulled again for 10 seconds. |
+
+
 | Candlelight | Novice Alteration | You create a hovering light that lasts for <dur> seconds. |
 | Longstride | Novice Alteration | While concentrating, grants <mag>% movement speed and <25> carry weight, tripled when out of combat. |
 | Oakflesh | Novice Alteration | Your Armor Rating is increased by <mag> for <dur> seconds. |
