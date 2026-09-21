@@ -747,6 +747,7 @@ Besides the regular perks, you may also unlock abilities through the Arcane Rese
 | Rites of Worship | Favor 40 with any god | 1 Perk Point | Allows you to rise above Initiate rank in your chosen religion and gain new abilities by increasing your divine favor. ([Gods and Worship](https://www.nexusmods.com/skyrimspecialedition/mods/45011)). |
 
 The Lustful Eye perk may also be researched through the VRSex manual :
+
 | Ability  | Prerequisites | Cost | Description |
 | ------------- | ------------- | ------------- | ------------- |
 | Conduit | - | 1 Perk Point | At most once per day, randomly when in a major city or an habitation, illuminates a random citizen within your sexual orientation for 3000 seconds. If you trigger a Refractory Period by having sex with the target during this time, you gain 2 permanent points of health, stamina or magicka, chosen at random. |
