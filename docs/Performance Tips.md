@@ -1,7 +1,7 @@
 ---
 title: Performance Tips
 layout: home
-nav_order: 8
+nav_order: 9
 ---
 
 # Basic performance tips
