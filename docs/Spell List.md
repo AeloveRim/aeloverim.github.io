@@ -71,7 +71,6 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Tharn's Prison | Adept Alteration | Materializes a cage to trap target humanoid for (dur) seconds. |
 | Thundering Hooves | Adept Alteration | For (dur) seconds, your mount is (mag)% faster, regenerates Stamina and can swim upwards to run on water. Nearby allies riding a mount within (mag) feet also benefit. |
 | Undermine | Adept Alteration | For (dur) seconds, shifting earth causes the target to lose its balance when swinging a melee weapon, staggering the target and draining (30) points of Stamina. |
-| Whirlwind Cloak | Adept Alteration | For (dur) seconds, opponents in melee range have a chance of being flung away.
 | Destroy Construct | Expert Alteration | Deals (mag) Magic damage per second for (dur) seconds to Dwarven automatons. |
 | Equilibrium | Expert Alteration | Sacrifices Health to restore a moderate amount of Magicka and Stamina. |
 | Transmute Ore | Expert Alteration | Transmutes two pieces of Iron Ore into one piece of Silver Ore, or two pieces of Silver Ore into one piece of Gold Ore. |
@@ -181,7 +180,6 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Daedric Crescent | Adept Conjuration | Binds a Daedric Crescent to a summoned Dremora or humanoid for (dur) seconds. Until discharged, the weapon deals (50) magic damage and staggers targets. |
 | Daedric Cure | Adept Conjuration | Restores (mag) Health per second to nearby summoned creatures and reanimated zombies. |
 | Elemental Quiver | Adept Conjuration | Summons all types of arcane arrow after a 2 second delay.  These arrows are infinite, but cost mana to shoot and will desummon if you cannot pay the cost. Clears all sigils. |
-| Oblivion's Embrace | Adept Conjuration | Restores (mag) Health per second to nearby summoned creatures and reanimated zombies. |
 | Revenant | Adept Conjuration | Reanimates a corpse up to level (mag) for (dur) seconds. |
 | Shadow Step | Adept Conjuration | Step through the shadows. |
 | Soul Harvest | Adept Conjuration | For (dur) seconds, if a nearby enemy dies, you trap their soul inside a soul gem. |
@@ -239,7 +237,6 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Dead Thrall | Master Conjuration | Permanently reanimates a corpse up to level (mag). |
 | Milestones | Master Conjuration | Place up to (5) teleportation anchors and teleport freely between them. |
 | Necrowitch | Master Conjuration | Summons the corpse of an ancient sorceress to reanimate for (dur) seconds and teaches her the (ranged, touch or cloak) elemental spell in your left hand. |
-| Runic Binding | Master Conjuration | Enchants an unenchanted bow to enable it to use arcane arrows, or engraves the equipped spell to an appropriate arrow type (granting you the "Runic Tap" minor power).  This is an alternate engraving from the Arcane Binding. |
 | Summon Arrow Of The North Star | Master Conjuration | Summons an Arrow Of The North Star.  This arrow dooms targets with less than 40% health to die in 3 seconds.  Enemies that are close will refund the arrow. |
 | Chromatic Sigil | Master Conjuration | Sets or unsets the chromatic sigil.  Modifies the ignite, chill, charge, and dawn sigils to double their elemental bonus damage, and increase the base modifier against weak opponents from 25% to 50%. |
 
@@ -410,7 +407,6 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Pale Shadow | Novice Illusion | Target enemy is attacked by its own image for (dur) seconds. It deals the same damage but has (1) Health. |
 | Psychic Lure | Novice Illusion | Concentrate to silently lure towards you a living target not currently in combat. Concentrate to silently lure towards you a living target not currently in combat. |
 | Shadow Chains | Novice Illusion | For (dur) seconds, reduces (mag)% Movement Speed, in a large area. |
-| Mind Vision | Apprentice Illusion | See through the eyes of target creature or humanoid for (dur) seconds. Sheathe to cancel. |
 | Backlash | Apprentice Illusion | Interrupts target spellcaster. If a spell is interrupted, the target is hit by their own offensive spells, while non-offensive spells are cast on you. |
 | Curse of the Silent | Apprentice Illusion | Drains (mag) points of Magicka per second for (dur) seconds or until the target successfully casts a spell. |
 | Erotic Fear | Apprentice Illusion | Creatures and people up to level (mag) flee from combat for (dur) seconds. Dismisses enchanted followers. |
