@@ -12,19 +12,6 @@ Support and general talk about Tahrovin resides on iAmMe's Discord:
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
 
------
-- [Installation](docs/Installation.html)
-- [Gameplay Guide](docs/Gameplay%20Guide.html)
-- [Perk List](docs/Perk%20List.html)
-- [Spell List](docs/Spell%20List.html)
-- [Trainer List](docs/Trainer%20List.html)
-- [Controller Bindings](docs/Controller%20bindings.html)
-- [Troubleshooting](docs/Troubleshooting.html)
-- [Performance Tips](docs/Performance%20Tips.html)
-- [Changelog](docs/Changelog.html)
-- [Commonly Missing Downloads](docs/Missing%20downloads.html)
------
-
 Want an idea of what the list plays like ? [I made a video](https://odysee.com/$/embed/@Aeloverim:7/TahrovinGritIntro:2?r=3Lr3Zfv8p6NtvXgznroYw94PqUVBocA7) of the first hour or so of gameplay, all the while explaining various grit-specific concepts. Note that this is in "Grit - Performance" profile, so not as pretty as it gets, and that I am very much not a native english speaker so you probably won't understand me all the time. 
 
 # What is Tahrovin Grit ?
@@ -49,3 +36,17 @@ In terms of accounts you will need:
   * LoversLab Account
 
 Whilst you don't *need* a Nexus premium account to install the modlist, you'll have a considerably better time of it if you do.
+
+
+-----
+- [Installation](docs/Installation.html)
+- [Gameplay Guide](docs/Gameplay%20Guide.html)
+- [Perk List](docs/Perk%20List.html)
+- [Spell List](docs/Spell%20List.html)
+- [Trainer List](docs/Trainer%20List.html)
+- [Controller Bindings](docs/Controller%20bindings.html)
+- [Troubleshooting](docs/Troubleshooting.html)
+- [Performance Tips](docs/Performance%20Tips.html)
+- [Changelog](docs/Changelog.html)
+- [Commonly Missing Downloads](docs/Missing%20downloads.html)
+-----
