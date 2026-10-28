@@ -5,6 +5,72 @@ nav_order: 10
 ---
 
 # Changelog
+## Tahrovin Grit V2.10
+- Added Alchemy Requires Bottles Redux
+- Added Addons for 'Alchemy Requires Bottles Redux'
+- Added some VR specific tweaks to Alchemy Require Bottles Redux
+- Added Crime Probation Period
+- Added Custom Shout Cooldown Notifications
+- Added Custom Shout Cooldown Notifications - Fixes
+- Added Procedural Penis Animation to optional mods
+- Added Miscellaneous Plus Plus to the Extra Quests profile
+- Added Promises to Keep Plus Plus to the Extra Quests profile
+- Added Delayed Burial Plus Plus to the Extra Quests profile
+- Added Book of Love Plus Plus to the Extra Quests profile
+- Added Say no to Werewolf to the Extra Quests profile
+- Added Mind of madness Plus Plus to the Extra Quests profile
+- Added 3DNPC - Vigilant Patch to the Extra Quests profile
+- Added a Crash Guard for Floating Damage NG
+- Added Item Drop Gestures, a way to have a gesture drop specified items to your hand. Works through MCM for now, I'll refine it later.
+- Updated Inventory Selfie VR Redux to v1.4
+- Updated Thieves Guild Plus Plus to v1.64 in the Extra Quests profile
+- Updated Interactive Activators to v1.1.9
+- Updated Call Your Horse to v1.0.2
+- Updated Crash Logger SSE AE VR to v1.24
+- Updated There is no umbra to v1.12 and added the inventory patch
+- Switched My Lovely Lydia to Universal Edition 2.0
+- Downgraded The New Gentleman to v3.0.2 to fix CTD when equipping broken armor
+- Fixed the Interactive Activators config
+- Added dummy plugins for some optional mods
+- There is now more improvement done between skill levels 5 and 20. Most skills are worse than before at 5, some are slightly better than before at 20.
+- Guards will no longer be hostile after you get a bounty in disguise then remove the disguise while out of sight
+- The Disguise Mask from Pickpocket Mastery now makes targets you hit in the head with a power attack unable to pierce your disguise for 20 seconds.
+- Reworked Knockout Arts. The power now lasts 15 seconds, stamina cost is paid upfront, damage is reduced while active and it works in one hit if health is very low.
+- Ocato's Recital no longer requires mage armor and its prerequisites have been lowered to Alteration 30/60/90.
+- Ocato's Recital now requires that you have at least as much maximum magicka as the total cost of the spells in its array or it won't work.
+- Ocato's Recital now spends up to a third of the cost of the spells in its array to cast them. If you have already spent that much magicka, it costs nothing.
+- Added back Welloc's Dormant Arcana perk. It requires Spell Twine and Alteration 80.
+- The Enchanting Mastery perk now grants the Disenchant power which can strip enchantments from custom player-made items
+- Removed the intimidation boost from Speech Mastery 1 and reduced the intimidation boost from Speech Mastery 2 to 2x
+- Speech mastery 1 now grants Parley, an ability to calm groups of bandits and forsworn by paying them a bit of gold
+- Removed the Bribery Speech perk and granted its ability to Speech Mastery 2
+- The Desirable speech perk now also grants the option to attempt to offer your body instead of paying gold when parleying
+- Added the Pharmacopeia, Bomb Maker and Bomb Master Alchemy perks
+- Potion combination from Alchemy Mastery no longer depends on player alchemy skill. It's always 3 for 1.
+- Light Weapon Throw now also grants Shield throwing if you have Block Mastery
+- The Heavy Rider and Light Rider perks now also increase the mount's health.
+- The Dwarven Smithing perk can now serve as a prerequisite for the Advanced Armors perk.
+- The Salesman speech perk now also lets you trade with general goods merchants and fences at the same prices as specialist shops.
+- The Body Toss, Foe Flinger and Wrestler perks are now also available in the Pickpocket tree.
+- The Cutpurse pickpocket perk is no longer a prerequisite for the lawless world, brotherhood cocktail and on the run perks.
+- Priests and alchemists can now cure your diseases for 150 gold (since the gods can refuse to do it for free if you're a sinner). STDs still need the specialized potions.
+- The prerequisites to unlock higher levels of Spellsiphon have been increased.
+- The recipe for tents is now visible even if you lack the materials.
+- The player no longer starts with the Tahrovin Lingerie book. They can still craft it at a Tanning Rack
+- Sergius Turrianus' vanilla dialog where he refuses to enchant your gear has been disabled.
+- You will no longer be stuck in combat when you leave your followers behind during a fight. The combat state will now clear after any cell change if no enemies are detected for a minute.
+- Fixed Riften Jail start
+- Nerfed Daumbra in various ways
+- Fixed an incompatibility between There is No Umbra and Simpler Knock USSEP patch
+- Removed the scared reactions to Daumbra. Honestly a floating sword is fairly tame compared to what you can do in this game.
+- Ethereal instructors can now train you even in dungeons or other locations where you couldn't normally train
+- You can now call your horse in Solstheim, Midwood Isle, the Alik'r desert, Wyrmstooth, The Chain, and the Hjorkvild Isles
+- Renamed the Circle of Strength spell from Mysticism to Circle of Vitality to avoid confusion with the Novice spell of the same name from Apocalypse
+- Renamed the Ghostwalk spell from Mysticism to Shadewalk to avoid confusion with the spell of the same name from Apocalypse
+- Nerfed Apocalypse's Circle of strength a bit
+- The Arcane Binding power now requires a filled greater soul gem to enchant an unenchanted bow
+- You can now access limited racemenu at will in the Realm of Lorkhan to change your appearance
+
 ## Tahrovin Grit V2.04
 - Added Planck VR Stability Patch
 - Added Inventory Selfie VR Redux
