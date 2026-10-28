@@ -143,6 +143,8 @@ You will have a Disguise power you can toggle on and off. When it is on, if you 
 
 Light is a very important factor when it comes to sneaking in Grit. You will probably want to grab Night Vision, either with the "Sharp Eye" sneak perk or through any other means. Sneaking around with a torch or a candlelight spell is generally a bad idea.
 
+Once you get caught doing crime in a hold and pay your bounty, you will be put on a probation period visible in your magic effects tab. If you get caught again doing more crime in the same hold during that period, paying your bounty will be more expensive. It is recommended you move on to another hold after you've been caught.
+
 Some of the perk changes from the usual [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702) stuff will impact thieves. Most importantly, the Pickpocket and Lockpicking Mastery perks will now allow you to train both skills at once for the price of one.
 
 ## Leveling
@@ -154,6 +156,8 @@ Eventually, you will also be able to use the Self-Improvement power to train you
 
 Skyrim's regular skill leveling is not gone, but is now much slower. Your skills start at 5. You may be able to progress through the lower levels of skill entirely on your own, but you will have a hard time going further without seeking training.
 
+Most skills are particularly weak at 5. Weapon damage is low, spell cost is high and armor is not really effective. Progressing from skill level 5 to 20 will greatly increase your effectiveness with a skill. After 20, the direct improvements from skill levels become much lower but they are still important to unlock perks, spells and abilities.
+
 At higher levels, you may have a hard time finding a sufficiently-skilled trainer. In that case, scrolls of the Ethereal Instructor are sold by many merchants, and can be crafted at a tanning rack. They are fairly expensive but can be an alternative way to find proper training by summoning Master-level trainers.
 
 The perk overhaul is [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702), although many of the perks have been reworked and rebalanced, with many [new perks](Perk List.html) added and others removed.
@@ -161,6 +165,10 @@ The perk overhaul is [Vokriinator](https://www.nexusmods.com/skyrimspecialeditio
 
 ## Crafting and Economy
 You may notice that the only crafting workstations you are able to use from the start are the Tanning Rack and the Smelter. Otherwise, you will need to increase your skills first. Smithing workstations require a smithing skill of 15. Alchemy and Enchanting workstations require their skill at 20.
+
+Brewing potions will also require empty potion bottles. You will obtain one every time you drink a potion, you can craft them out of empty mead or wine bottle at a smelter, or you can buy them at an apothecary.
+
+Potions can be assigned to gestures in the same way spells and powers can be. When using the gesture configuration power, simply hold a potion or consumable in your hand while doing a gesture to assign the potion to that gesture.
 
 If you ever obtain a home for your character, you may use Linked crafting Storage to make the process of crafting easier. By putting a Crafter's Link Stone along with as many ingredients and other crafting materials as you want in a container inside your player home, you may access them anytime and anywhere when using a related crafting station. This, however, will only function for containers inside a proper player home. You begin play with a Crafter's Link Stone but may create more at a smelter.
 
