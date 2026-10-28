@@ -469,7 +469,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Domination | Master Illusion | Living targets up to level (mag) in a massive area are placed under your command for (dur) seconds. |
 | Erotic Call to Arms | Master Illusion |  |
 | Erotic Harmony | Master Illusion | Creatures and people up to level (mag) nearby won't fight for (dur) to (120) seconds. The minds of all nearby creatures and people might turn hedonistic. |
-| Ghostwalk | Master Illusion | For (dur) seconds, you cannot be seen or heard. Activating an object or attacking will not break this spell. |
+| Shadewalk | Master Illusion | For (dur) seconds, you cannot be seen or heard. Activating an object or attacking will not break this spell. |
 | Harmony | Master Illusion | Living targets up to level (mag) in a massive area won't fight for (dur) seconds. |
 | Harrowing Dirge | Master Illusion | When a cursed creature or humanoid dies, all other cursed targets take unresistable damage equal to (Global=WB_Illusion_HarrowingDirge_Global_Percentage)% of their maximum Health. Lasts (dur) seconds. |
 | Hidden Cobra | Master Illusion | Curses a target for (dur) seconds. The curse reduces Health to (1) if the target leaves combat for (5) seconds. |
@@ -523,7 +523,7 @@ Tahrovin Grit uses Mysticism, Apocalypse, Arcane, Abyss, and various other custo
 | Heal Other | Apprentice Restoration | Restores (mag) Health to living targets. |
 | Venomous Touch | Apprentice Restoration | Deals (mag) Poison damage per second for (10) seconds to enemies in melee range. |
 | Circle of Life | Adept Restoration | Creates a circle on the ground that lasts for (dur) seconds. Restores (mag) Health per second inside the circle. |
-| Circle of Strength | Adept Restoration | Creates a circle on the ground that lasts for (dur) seconds. Your Stamina regenerates (50)% faster inside the circle. |
+| Circle of Vitality | Adept Restoration | Creates a circle on the ground that lasts for (dur) seconds. Your Stamina regenerates (50)% faster inside the circle. |
 | Circle of the Moons | Adept Restoration | Steals (mag) points of Magicka per second from hostiles inside the circle. |
 | Circle of Wisdom | Adept Restoration | Creates a circle on the ground that lasts for (dur) seconds. Your Magicka regenerates (50)% faster inside the circle. |
 | Close Greater Wounds | Adept Restoration | Restores (mag) Health to yourself and nearby living allies. |
