@@ -11,18 +11,22 @@ This is a full listing of the perks available to characters in the list :
 
 | Perk  | Skill | Description |
 | ------------- | ------------- | ------------- |
-| Alchemy Mastery | Alchemy 20 | Potions and poisons you make are 20% stronger. You may combine multiple potions into one stronger potion at a cookpot. Only some non-crafted potions can be combined and efficiency depends on your skill level. |
-| * Alchemy Mastery | Alchemy 40 | Potions and poisons you make are 40% stronger. You may combine multiple potions into one stronger potion at a cookpot. Only some non-crafted potions can be combined and efficiency depends on your skill level. |
+| Alchemy Mastery | Alchemy 20 | Potions and poisons you make are 20% stronger. You may combine 3 potions into one stronger potion at a cookpot. You may not combine potions you crafted yourself. |
+| * Alchemy Mastery | Alchemy 40 | Potions and poisons you make are 40% stronger. You may combine 3 potions into one stronger potion at a cookpot. You may not combine potions you crafted yourself. |
 | Physician | Alchemy 20 | You may choose a type of beneficial potion: Health, Magicka or Stamina. Potions you mix that restore or fortify the chosen attribute are 50% stronger. |
 | Advanced Lab | Alchemy 30 | You may choose to upgrade one alchemy lab to an Advanced version for 2500 gold. Potions you mix are 25% stronger at an Advanced Lab. Can be "Disassembled" by sneaking, allowing you to upgrade another. |
 | Experimenter | Alchemy 30 | Eating an ingredient reveals all effects. Learn the "Harvest Ingredients" spell to gather ingredients in an area. |
 | Poisoner | Alchemy 30 | Poisons you mix are 1% more powerful per level of Alchemy. |
+| Bomb Maker | Alchemy 30 | You may convert Frost/Fire/Void Salts and Mountain flowers into volatile ingredients at a cookpot. These ingredients can be used to make bombs at an alchemy lab without using any empty potion bottles. Throwing bombs at enemies will deal damage in a small area around them. |
 | Bottomless Cup | Alchemy 40 | Poisons applied to weapons last for one additional hit per 10 levels of Alchemy. |
 | Elemental Oil | Alchemy 40 | You may choose a power: "Fire Oil", "Frost Oil" or "Shock Oil". At will, create a pool of oil that lasts 20 seconds. It reacts violently when struck by a projectile or explosion, exploding and dealing damage equal to twice your Alchemy skill level. |
 | Stimulants | Alchemy 40 | Regenerate an extra 2% of your total Magicka and Stamina per second under the effects of a beneficial potion or food. |
 | Adrenaline | Alchemy 50 | Move 15% faster under the effects of a beneficial potion or food. |
 | Lab Skeever | Alchemy 50 | For 20 seconds after using any alchemy lab, beneficial potions you drink last 15 times longer and are 10% stronger. |
 | Alkahest | Alchemy 50 | Your poisons are highly corrosive, enabling you to ignore 40% of the armor rating of an affected target for their duration. |
+| Pharmacopeia | Alchemy 50 | Grants an alchemy satchel that can hold up to 75 pounds of ingredients, potions and empty potion bottles. Potions and poisons last 2% longer for every 10 different ingredients inside the satchel, up to 20%. |
+| Bomb Master | Alchemy 50 | Bombs you create are 50% more effective. You can no longer harm yourself with your own bombs. |
+| * Bomb Master | Alchemy 80 | Bombs you create are 100% more effective and knock targets down. You can no longer harm yourself with your own bombs. |
 | Maenad | Alchemy 60 | Magicka and Stamina are increased by 50 points when you are under the effect of a beneficial potion or ingredient, but reduced by 25 points when you are not. |
 | Green Thumb | Alchemy 60 | Twice as many ingredients are gathered from plants. |
 | The Alchemist's Cookbook | Alchemy 60 | You may choose a second Elemental Oil power. In addition to "Fire Oil", "Frost Oil" and "Shock Oil", you may also choose "Calming Oil", "Frenzy Oil", "Paralysis Oil" or "Hallowed Oil". |
@@ -50,9 +54,9 @@ This is a full listing of the perks available to characters in the list :
 | Geomancer | Alteration 30 | If wearing robes or clothing and no light or heavy armor, you take 30% less damage from attacks while charging or concentrating on a spell. |
 | Philosopher's Stone | Alteration 30 | Once a day, generates gold equal to four times your Alteration skill level. |
 | Vancian Magic | Alteration 30 | Cast magic like the wizards of old. Your next 20 spells do not use Magicka and are 50% more effective. When you run out of spells, you are unable to cast spells until you rest by sleeping at an inn or in your home. |
-| Ocato's Recital | Alteration 30 | Teaches the "Ocato's Recital" spell. Cast 1 spell for no cost whenever you enter combat. |
-| * Ocato's Recital | Alteration 70 | Teaches the "Ocato's Recital" spell. Cast up to 2 spells for no cost whenever you enter combat. |
-| ** Ocato's Recital | Alteration 100 | Teaches the "Ocato's Recital" spell. Cast up to 3 spells for no cost whenever you enter combat. |
+| Ocato's Recital | Alteration 30 | Teaches the "Ocato's Recital" spell. Cast 1 spell whenever you enter combat by spending at most a third of its magicka cost. It costs you nothing if you've already spent that much magicka. Your maximum magicka must still be enough to afford the spell's normal cost. |
+| * Ocato's Recital | Alteration 60 | Teaches the "Ocato's Recital" spell. Cast up to 2 spells whenever you enter combat by spending at most a third of their magicka cost. It costs you nothing if you've already spent that much magicka. Your maximum magicka must still be enough to afford the spells' total cost. |
+| ** Ocato's Recital | Alteration 90 | Teaches the "Ocato's Recital" spell. Cast up to 3 spells whenever you enter combat by spending at most a third of their magicka cost. It costs you nothing if you've already spent that much magicka. Your maximum magicka must still be enough to afford the spells' total cost. |
 | Distorted Shape | Alteration 40 | When you gain an armor spell in combat (or enter combat with an active armor spell), you become intangible and unable to be affected by spells or attacks for 10 seconds or until you perform an offensive or defensive action. |
 | Spellblade | Alteration 40 | Whenever you cast a spell with one hand, you deal 20% more attack damage for 4 seconds. |
 | Command Lock | Alteration 40 | Once every 6 ingame hours, you can weaken an Expert or lower lock, reducing its difficulty to zero. |
@@ -75,6 +79,7 @@ This is a full listing of the perks available to characters in the list :
 | Aurification | Alteration 80 | Once every 12 ingame hours, activate a paralyzed target below half Health to transmute its body into gold worth 100 times its level, killing the target. Has a 50% chance of creating gold ore. No effect on essential targets. |
 | Dimension Door | Alteration 80 | Grants the "Dimension Door" power. At will, creates a magical doorway that teleports you to the location of your Home Mythal. |
 | Atronach | Alteration 80 | 30% chance to absorb incoming spells, replenishing your Magicka. |
+| Welloc's Dormant Arcana | Alteration 80 | Choose a spell type (Armor, Cloak, Conjure Daedra, Conjure Undead, Invisibility) and 3 magic effects (Fortify, Regenerate, Waterwalking, ...). The chosen magic effects will activate when you are affected by the chosen spell type. |
 | Rend Resistances | Alteration 90 | Whenever you attack with a weapon, reduces the magic resistance of nearby enemies within 10 feet by 15% for 4 seconds. |
 | Emergency Teleport | Alteration 90 | When you fall below 15% Health due to combat damage, you briefly turn invulnerable and teleport back to the location where you entered combat. |
 | Nullifier | Alteration 90 | You radiate a dampening field, preventing enemies within 25 feet from regenerating Magicka and Stamina. |
@@ -254,8 +259,8 @@ This is a full listing of the perks available to characters in the list :
 
 | Perk  | Skill | Description |
 | ------------- | ------------- | ------------- |
-| Enchanting Mastery | Enchanting 20 | New enchantments are 25% stronger. Soul gems provide 2 extra weapon charge points per level of Enchanting. |
-| * Enchanting Mastery | Enchanting 40 | New enchantments are 50% stronger. Soul gems provide 4 extra weapon charge points per level of Enchanting. |
+| Enchanting Mastery | Enchanting 20 | New enchantments are 25% stronger. Soul gems provide 2 extra weapon charge points per level of Enchanting. Learn the "Disenchant" power to remove your enchantments from objects. |
+| * Enchanting Mastery | Enchanting 40 | New enchantments are 50% stronger. Soul gems provide 4 extra weapon charge points per level of Enchanting. Learn the "Disenchant" power to remove your enchantments from objects. |
 | Soul Siphon | Enchanting 20 | Killing blows with enchanted weapons trap 15% of the victim's soul, regenerating some of their lost charge. Does not apply to staves. |
 | Last Word | Enchanting 20 | Scrolls are 50% more powerful or last 100% longer. |
 | * Last Word | Enchanting 50 | Scrolls are 100% more powerful or last 200% longer. |
@@ -305,7 +310,7 @@ This is a full listing of the perks available to characters in the list :
 | ** Steel Fist | Heavy Armor 80 | Increases unarmed damage by 25% of your current Stamina when using unarmed attacks in combat while wearing heavy gauntlets. Requires two free hands. |
 | Heavy Armor Fit | Heavy Armor 30 | Armor rating of Heavy Armor increased by 25% if wearing all Heavy Armor. |
 | Battle Weary | Heavy Armor 30 | Tired enemies have a harder time defeating your armor. You take up to 20% less attack damage from enemies with half or less Stamina, if wearing all Heavy Armor. The lower their Stamina, the less damage you take. |
-| Heavy Rider | Heavy Armor 30 | Horses you ride move 50% faster and regenerate Stamina faster. Does not stack with Light Rider |
+| Heavy Rider | Heavy Armor 30 | Horses you ride move 50% faster, regenerate Stamina faster, and have their health increased by 100. Does not stack with Light Rider. |
 | Face of Death | Heavy Armor 40 | You no longer need to wear a helmet to benefit from perks that require "wearing all Heavy Armor". If you are not wearing a helmet, Heavy Armor pieces have 20% increased armor rating. |
 | Rallying Standard | Heavy Armor 40 | Grants the "Rallying Standard" power. Once a day, place a banner that grants 150 points of armor and 25% melee damage to allies within 25 feet wearing all Heavy Armor (including you) and prevents them from fleeing. Lasts 60 seconds. |
 | Defiance | Heavy Armor 40 | You are trained to deflect incoming attacks while wearing all Heavy Armor. Whenever an enemy attacks you, you gain 15 points of armor rating for 10 seconds. This effect stacks. |
@@ -378,14 +383,14 @@ This is a full listing of the perks available to characters in the list :
 | Iron Fist | Light Armor 20 | Increases unarmed damage by 5% of your current Stamina, and you gain Light Armor experience when using unarmed attacks in combat.  Requires two free hands and no heavy gauntlets. |
 | * Iron Fist | Light Armor 50 | Increases unarmed damage by 15% of your current Stamina, and you gain Light Armor experience when using unarmed attacks in combat. Requires two free hands and no heavy gauntlets. |
 | ** Iron Fist | Light Armor 80 | Increases unarmed damage by 25% of your current Stamina, and you gain Light Armor experience when using unarmed attacks in combat.  Requires two free hands and no heavy gauntlets. |
-| Body Toss | Light Armor 20 | Stamina cost of yanking and foot yanking is reduced by 50%. |
-| * Body Toss | Light Armor 80 | Stamina cost of yanking and foot yanking is reduced by 90%. |
+| Body Toss | Light Armor 20 | Stamina cost of yanking (grabbing enemies with both hands and pulling hard to make them fall) and foot yanking (grabbing enemy legs and pulling hard) is reduced by 50%. Cannot take along with the Pickpocket perk of the same name. |
+| * Body Toss | Light Armor 80 | Stamina cost of yanking (grabbing enemies with both hands and pulling hard to make them fall) and foot yanking (grabbing enemy legs and pulling hard) is reduced by 90%. Cannot take along with the Pickpocket perk of the same name. |
 | Unarmored Defense | Light Armor 20 | When not wearing any armor, regenerate an extra 1% of your maximum Stamina per second and gain Armor Rating depending on your current Stamina, up to 60 Armor for 110 Stamina. Light Armor Mastery improves this rating but not other perks. Doesn't stack with protection spells. |
 | * Unarmored Defense | Light Armor 50 | When not wearing any armor, regenerate an extra 2% of your maximum Stamina per second and gain Armor Rating depending on your current Stamina, up to 120 Armor for 200 Stamina. Light Armor Mastery improves this rating but not other perks. Doesn't stack with protection spells. |
 | ** Unarmored Defense | Light Armor 80 | When not wearing any armor, regenerate an extra 3% of your maximum Stamina per second and gain Armor Rating depending on your current Stamina, up to 180 Armor for 260 Stamina. Light Armor Mastery improves this rating but not other perks. Doesn't stack with protection spells. |
 | *** Unarmored Defense | Light Armor 100 | When not wearing any armor, regenerate an extra 5% of your maximum Stamina per second and gain Armor Rating depending on your current Stamina, up to 280 Armor for 350 Stamina. Light Armor Mastery improves this rating but not other perks. Doesn't stack with protection spells. |
 | Light Armor Fit | Light Armor 30 | Armor rating of Light Armor increased by 25% if wearing all Light Armor. |
-| Light Rider | Light Armor 30 | Horses you ride move 50% faster and regenerate Stamina faster. Does not stack with Heavy Rider |
+| Light Rider | Light Armor 30 | Horses you ride move 50% faster, regenerate Stamina faster, and have their health increased by 100. Does not stack with Heavy Rider. |
 | As a Leaf | Light Armor 30 | Movement speed increased by 10% when not wearing Heavy Armor. Unlocks Double Jump. |
 | * As a Leaf | Light Armor 70 | Movement speed increased by 25% when not wearing Heavy Armor. Unlocks Double Jump. |
 | Keen Senses | Light Armor 40 | You no longer need to wear a helmet to benefit from perks that require "wearing all Light Armor". If you are not wearing a helmet, Light Armor pieces have 20% increased armor rating. |
@@ -469,7 +474,7 @@ This is a full listing of the perks available to characters in the list :
 | Savage | One-handed 40 | Attacks with a dagger deal 25% more damage if you rapidly hit the target three or more times. Resets when 2 seconds pass between hits. |
 | * Savage | One-handed 70 | Attacks with a dagger deal 50% more damage if you rapidly hit the target three or more times. Resets when 2 seconds pass between hits. |
 | Furious Strength | One-handed 40 | Power attack damage with one-handed weapons increased by 15% plus 0.1% per point of Stamina. Unlocks decapitations. |
-| Light Weapon Throw | One-handed 40 | You can throw any one-handed weapon, dealing 120% of their regular melee damage. They will return to your hand automatically. |
+| Light Weapon Throw | One-handed 40 | You can throw any one-handed weapon, dealing 120% of their regular melee damage. They will return to your hand automatically. You can also throw shields if you have Block Mastery. |
 | Falling Sword | One-handed 50 | Forwards power attacks with a sword cause targets to bleed for 20 seconds. When a bleeding target falls below 25% Health, your attacks against that target are critical strikes that deals ten times critical damage. |
 | Shieldbiter | One-handed 50 | Forwards power attacks with a war axe smash through a block, causing the target to drop their shield and take a critical strike that deals five times critical damage. |
 | Rise Kinsmen | One-handed 50 | Forwards power attacks with a mace inspire nearby allies, granting them 20% extra attack damage for 15 seconds. This effect stacks. |
@@ -503,6 +508,8 @@ This is a full listing of the perks available to characters in the list :
 | * Pickpocket Mastery | Pickpocket 40 | Adds 40% to your pickpocket chance and increases carry weight by 100 points. Can craft Disguise Masks at tanning racks. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. Can pickpocket any race of creature. |
 | Trained Rabbit | Pickpocket 20 | Grants the "Trained Rabbit" power. At will, silently sends out a trained rabbit to lead you to the nearest loose valuable item (armor, weapon, key, book, soul gem, ingredient). It then returns to you. |
 | Blood Money | Pickpocket 20 | You find 10-100 more gold when looting humanoid corpses slain in an especially violent fashion (with an attack that dealt at least 100 more damage than their remaining Health or a killmove). |
+| Body Toss | Light Armor 20 | Stamina cost of yanking (grabbing enemies with both hands and pulling hard to make them fall) and foot yanking (grabbing enemy legs and pulling hard) is reduced by 50%. Cannot take along with the Light Armor perk of the same name. |
+| * Body Toss | Light Armor 80 | Stamina cost of yanking (grabbing enemies with both hands and pulling hard to make them fall) and foot yanking (grabbing enemy legs and pulling hard) is reduced by 90%. Cannot take along with the Light Armor perk of the same name. |
 | Cutpurse | Pickpocket 30 | Odds of pickpocketing gold, keys, gems and jewelry increased by 50%. |
 | Lawless World | Pickpocket 30 | Petty crimes are slowly forgotten, allowing your bounties for non-violent crimes to decay at a rate of 20% of your Pickpocket skill level each hour. |
 | Thief's Eye | Pickpocket 30 | When you enter a major city, illuminates a random citizen on the streets for 300 seconds. If you interact with the target during this time, they will carry valuable items (based on your Pickpocket skill). This can only occur once every 12-24 ingame hours. |
@@ -511,11 +518,13 @@ This is a full listing of the perks available to characters in the list :
 | Death's Emperor | Pickpocket 40 | A cursed septim appears in your inventory. When someone else is in possession of the coin, your attacks deal 100% more damage and critical damage to them. You may craft more cursed coins at a Smelter. |
 | * Death's Emperor | Pickpocket 70 | A cursed septim appears in your inventory. When someone else is in possession of the coin, your attacks deal 200% more damage and critical damage to them. You may craft more cursed coins at a Smelter. |
 | Payday | Pickpocket 40 | Most citizens carry 100 more gold on average. |
+| Wrestler | Pickpocket 40 | Stamina cost for grabbing enemies is reduced by 70%. Characters ragdolled through yanking or Mighty Grip can be looted with gravity glove if they are under 90% health instead of 50%. Can loot for twice as long after ragdolling. |
 | Thief's Luck | Pickpocket 50 | You may choose an item type (gold, jewelry, books, ingredients, potions, ingots, scrolls). Those illuminated by Thief's Eye are three times more likely to carry items of your chosen type over other types. |
 | Oblivious | Pickpocket 50 | Pickpocketing odds increased by 25% if the target is not detecting you. |
 | Stalk the Prey | Pickpocket 60 | Preparing to pickpocket (sneaking behind a victim with the pickpocket message displayed) for at least 10 seconds adds 20% to your chance to pickpocket any item. |
 | Method Actor | Pickpocket 60 | You are half as likely to be discovered when disguised. |
 | * Method Actor | Pickpocket 100 | You are 99% less likely to be discovered when disguised. |
+| Foe Flinger | Pickpocket 60 | You may throw others by yanking with only one hand. |
 | Trickster | Pickpocket 70 | Can pickpocket equipped weapons, necklaces and rings. |
 | Doomed to Plunder | Pickpocket 70 | Killing a victim in possession of the Death's Emperor grants 100-300 more gold. |
 | You Saw Nothing | Pickpocket 80 | Grants the "You Saw Nothing" power. Once a day, distract a target and others in a 40 foot radius around the target. For 45 seconds, you will not receive a bounty if they are the only witness of your crimes. Does not prevent them from defending themselves. |
@@ -644,23 +653,22 @@ This is a full listing of the perks available to characters in the list :
 
 | Perk  | Skill | Description |
 | ------------- | ------------- | ------------- |
-| Speech Mastery | Speech 20 | Sell items for 10% more. Your intimidation attempts are twice as likely to succeed. |
-| * Speech Mastery | Speech 40 | Sell items for 20% more. Your intimidation attempts are four times as likely to succeed. |
+| Speech Mastery | Speech 20 | Sell items for 10% more. Grants the "Parley" power to temporarily calm bandits and forsworn in exchange for gold. |
+| * Speech Mastery | Speech 40 | Sell items for 20% more. Grants the "Parley" power to temporarily calm bandits and forsworn in exchange for gold. Can bribe guards to ignore crimes. Intimidation attempts are twice as effective.  |
 | And the Universe Listens | Speech 20 | Shouting restores points of Health, Magicka and Stamina equal to your shout cooldown in seconds. You gain Speech experience when shouting based on your shout cooldown. |
 | Performer | Speech 20 | Grants the "Perform" power. Once a day, play a song to entertain up to five people within 50 feet and collect a donation from each, based on your Speech skill and the amount of gold they are carrying. |
 | Leadership | Speech 20 | One of your followers does not count towards XP penalties for having multiple followers |
 | * Leadership | Speech 40 | Two of your followers do not count towards XP penalties for having multiple followers |
 | Dragon Tongue | Speech 20 | Learn a random word of power and gain 1 dragon soul. For every 20 points in your Speech skill, you will obtain one more dragon soul and unlock one more random word of power. |
 | Time to Duel | Speech 20 | Once every 24 ingame hours, when you start a Triple Triad duel, your opponent will have stronger cards but also more gold to bet depending on his cards' strength. |
-| Desirable | Speech 20 | Romance and Prostitution attempts are 30% more likely to succeed. |
+| Desirable | Speech 20 | Romance and Prostitution attempts are 30% more likely to succeed. Unlocks some situational and quest-related sexual options. When using the Parley power, you may attempt to offer your body instead of paying gold. |
 | Kinship | Speech 30 | Buy items for 15% less when trading with the same race. |
 | Carnal Discount | Speech 30 | After you've triggered a Refractory Period by having sex with a merchant, their prices are permanently 10% better. This requires genital penetration and the right VRSex orientation. It works retroactively with merchants you've already had sex with. |
-| Bribery | Speech 30 | Can bribe guards to ignore crimes. |
 | Serenade | Speech 30 | Performing to members of the opposite sex yields twice as much gold and potentially small items. |
 | Business Relation | Speech 40 | Create a permanent bond with the next merchant you speak with. Buy items for 30% less from that specific merchant. |
 | Windborne | Speech 40 | Shouting summons up a divine wind, granting 30% extra attack damage and 15% increased movement speed for 15 seconds. This effect stacks. |
 | Screw The Rules | Speech 40 | At the beginning of a Triple Triad match, if you dislike the rules being used, you may choose to randomize them. |
-| Salesman | Speech 50 | Can sell any type of item to any kind of merchant. |
+| Salesman | Speech 50 | Can sell any type of item to any kind of merchant. Can buy and sell from general goods merchants and fences at the same prices as specialist shops. |
 | Carnal Conscription | Speech 50 | Grants the Carnal Conscription power. Once every 600 seconds, having sex with an NPC while the power is active turns them into an ally for 600 seconds, then calms them for 300 seconds. The NPC or creature must be living, non-protected, non-essential, and no stronger than twice your level. |
 | Force Redoubled | Speech 50 | 25% chance to reduce the cooldown of any shout to 3 seconds. |
 | * Force Redoubled | Speech 80 | 50% chance to reduce the cooldown of any shout to 3 seconds. |
