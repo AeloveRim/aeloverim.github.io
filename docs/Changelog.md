@@ -5,6 +5,9 @@ nav_order: 10
 ---
 
 # Changelog
+## Tahrovin Grit V2.11
+- Removed the Enhancer ENB for now
+
 ## Tahrovin Grit V2.10
 - Added Alchemy Requires Bottles Redux
 - Added Addons for 'Alchemy Requires Bottles Redux'
@@ -70,6 +73,8 @@ nav_order: 10
 - Nerfed Apocalypse's Circle of strength a bit
 - The Arcane Binding power now requires a filled greater soul gem to enchant an unenchanted bow
 - You can now access limited racemenu at will in the Realm of Lorkhan to change your appearance
+- NPCs robbed through a higgs pull will now have the pickpocket reset effect, replacing their equipment after 40 hours so they don't stay naked forever
+
 
 ## Tahrovin Grit V2.04
 - Added Planck VR Stability Patch
