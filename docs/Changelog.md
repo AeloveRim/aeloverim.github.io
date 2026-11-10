@@ -5,6 +5,16 @@ nav_order: 10
 ---
 
 # Changelog
+## Tahrovin Grit V2.12
+- Replaced some Enhancer ENB files with stock ENB files to make it work again
+- Removed Planck VR Stability Patch
+- Updated Planck to v0.8.2
+- Tweaked fall damage. It is mostly lower than before.
+- Updated CSX to v3.20.1 in the CS profile
+- Updated Engine Fixes to v7.13 in the CS profile
+- Updated VR Address library to v0.301 in the CS profile
+- You can no longer respawn after death while inside Daumbra's soul in the extra quests profiles
+
 ## Tahrovin Grit V2.11
 - Removed the Enhancer ENB for now
 
